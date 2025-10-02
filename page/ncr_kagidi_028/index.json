@@ -1,0 +1,34 @@
+{
+  "name": {
+    "tr": "NCR Kağıdı",
+    "en": "NCR Paper",
+    "ar": "ورق NCR"
+  },
+  "status": "play",
+  "category": "specialty",
+  "id": "ncr_kagidi_028",
+  "url": "",
+  "path": "ncr-kagidi",
+  "index": 27,
+  "icon": "home",
+  "img": "ncr_paper.png",
+  "description": {
+    "tr": "Hatem Paper NCR kağıdı: Karbon kopya kağıdı, ofis uygulamaları için özel tasarım, yüksek kalite.",
+    "en": "Hatem Paper NCR paper: Carbon copy paper, special design for office applications, high quality.",
+    "ar": "ورق NCR Hatem Paper: ورق نسخ كربوني، تصميم خاص للتطبيقات المكتبية، جودة عالية."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "desc": {},
+  "keyword": {
+    "tr": ""
+  },
+  "text": {
+    "tr": ""
+  },
+  "update": "2025-10-02T06:51:40.329Z",
+  "date": "2025-10-02T06:30:49.941Z"
+}

@@ -1,0 +1,35 @@
+{
+  "name": {
+    "tr": "Automatic Pre-Feeder Machine",
+    "en": "",
+    "ar": ""
+  },
+  "status": "play",
+  "category": "",
+  "id": "ccb828eitu",
+  "url": "",
+  "path": "automatic-pre-feeder-machine",
+  "desc": {},
+  "index": 3,
+  "icon": "home",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": ""
+  },
+  "keyword": {
+    "tr": ""
+  },
+  "text": {
+    "tr": ""
+  },
+  "spot": {
+    "tr": ""
+  },
+  "update": "2025-10-02T06:51:40.340Z",
+  "date": "2025-10-02T06:50:40.578Z"
+}

@@ -1,5 +1,5 @@
 
-  .ggi2s {
+  .h7j5k {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .ggi2stitle {
+  .h7j5ktitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .ggi2stitlebody {
+  .h7j5ktitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .ggi2stitlebodytitle {
+  .h7j5ktitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .ggi2stitlebodylang {
+  .h7j5ktitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .ggi2stitlebodylang ul {
+  .h7j5ktitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .ggi2sbody {
+  .h7j5kbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .ggi2smenu {
+  .h7j5kmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .ggi2smenulist {
+  .h7j5kmenulist {
     width: calc(100% - 20px);
     background-color: #e31524;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .ggi2smenubody {
+  .h7j5kmenubody {
     width: 100%;
     background-color: #e31524;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .ggi2smenulist ul {
+  .h7j5kmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .ggi2smenulist ul a {
+  .h7j5kmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -92,26 +92,26 @@
     white-space: nowrap;
   }
 
-  .ggi2smenulist ul a:hover {
+  .h7j5kmenulist ul a:hover {
     background-color: #fff;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .ggi2s-menu-list-active {
+  .h7j5k-menu-list-active {
     background-color: #fff;
     border-radius: 5px;
       color: #000 !important;
     cursor: pointer;
   }
 
-  .ggi2smenulistbody {
+  .h7j5kmenulistbody {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .ggi2sbodylogo {
+    .h7j5kbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -119,15 +119,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .ggi2smenu {
+    .h7j5kmenu {
       overflow-x: auto;
     }
 
-    .ggi2smenulist ul {
+    .h7j5kmenulist ul {
       flex-direction: row;
     }
 
-    .ggi2sbodylogo {
+    .h7j5kbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -135,25 +135,25 @@
   }
 
   @media screen and (max-width: 768px) {
-    .ggi2smenulist ul a {
+    .h7j5kmenulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .boy5l {
+  .o65bm {
     margin-top: 30px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .boy5lbody {
+  .o65bmbody {
     width: var(--max);
     display: grid;
     gap: 15px;
     grid-template-columns: repeat(4, 1fr);
   }
-  .boy5lbodyitem {
+  .o65bmbodyitem {
     cursor: pointer;
     background-color: #e9e9e9;
     border-radius: 8px;
@@ -169,22 +169,22 @@
     align-items: center;
     justify-content: center;
   }
-  .boy5lbodyitem:hover {
+  .o65bmbodyitem:hover {
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
     transform: translateY(-3px);
   }
-  .boy5lbodyitemimg {
+  .o65bmbodyitemimg {
     display: flex;
     justify-content: center;
     align-items: center;
   }
-  .boy5lbodyitemimg img {
+  .o65bmbodyitemimg img {
     width: 100%;
     height: auto;
     object-fit: cover;
     border-radius: 5px;
   }
-  .boy5lbodyitemtitle {
+  .o65bmbodyitemtitle {
     padding: 8px;
     background-color: #e5e5e5;
     text-align: center;
@@ -193,14 +193,14 @@
     font-size: 16px;
   }
   @media screen and (max-width: 1024px) {
-    .boy5lbody {
+    .o65bmbody {
       width: calc(100% - 20px);
       margin: 0 10px;
       grid-template-columns: repeat(3, 1fr);
     }
   }
   @media screen and (max-width: 768px) {
-    .boy5lbody {
+    .o65bmbody {
       width: calc(100% - 20px);
       margin: 0 10px;
       grid-template-columns: repeat(2, 1fr);

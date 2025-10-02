@@ -1,0 +1,38 @@
+{
+  "name": {
+    "tr": "Kitap Kağıdı",
+    "en": "Book Paper",
+    "ar": "ورق الكتب"
+  },
+  "status": "play",
+  "category": "publication",
+  "id": "kitap_kagidi_006",
+  "url": "",
+  "path": "kitap-kagidi",
+  "index": 5,
+  "icon": "home",
+  "img": "",
+  "description": {
+    "tr": "Hatem Paper kitap kağıdı: Kitap ve dergi baskıları için özel tasarım kağıt. Yüksek kalite, dayanıklı yapı, uzun ömür.",
+    "en": "Hatem Paper book paper: Special design paper for book and magazine printing. High quality, durable structure, long life.",
+    "ar": "ورق الكتب Hatem Paper: ورق بتصميم خاص لطباعة الكتب والمجلات. جودة عالية، هيكل متين، عمر طويل."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "desc": {},
+  "keyword": {
+    "tr": "kitap kağıdı, book paper, dergi kağıdı, yüksek kalite, dayanıklı yapı, Hatem Paper",
+    "en": "book paper, magazine paper, high quality, durable structure, Hatem Paper",
+    "ar": "ورق الكتب، ورق المجلات، جودة عالية، هيكل متين، Hatem Paper"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Kitap Kağıdı</h2>\n    <p style=\"font-size: 16px;\">\n        Hatem Paper kitap kağıdı, kitap ve dergi baskıları için özel tasarım edilmiş yüksek kaliteli bir kağıt türüdür. Yüksek kalite, dayanıklı yapı ve uzun ömür özellikleri ile profesyonel yayıncılık sektörü için ideal çözümler sunar.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Kitap kağıdımız, özel üretim süreçleri sayesinde mükemmel okuma deneyimi sağlarken, dayanıklı yapısı ile uzun süreli kullanım için idealdir. Bu özellikleri ile özellikle kitap, dergi ve katalog baskıları için mükemmel sonuçlar verir.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Çevre dostu üretim süreçleriyle sürdürülebilir çözümler sunan kitap kağıdımız, profesyonel yayıncılık uygulamaları için en yüksek standartları karşılar.\n    </p>",
+    "en": "<h2 style=\"font-size: 24px;\">Book Paper</h2>\n    <p style=\"font-size: 16px;\">\n        Hatem Paper book paper is a high-quality paper type specially designed for book and magazine printing. It offers ideal solutions for the professional publishing industry with its high quality, durable structure and long life features.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Our book paper provides an excellent reading experience thanks to special production processes while being ideal for long-term use with its durable structure. With these features, it provides perfect results especially for book, magazine and catalog printing.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Our book paper, which offers sustainable solutions with environmentally friendly production processes, meets the highest standards for professional publishing applications.\n    </p>",
+    "ar": "<h2 style=\"font-size: 24px;\">ورق الكتب</h2>\n    <p style=\"font-size: 16px;\">\n        ورق الكتب من Hatem Paper هو نوع ورق عالي الجودة مصمم خصيصاً لطباعة الكتب والمجلات. يقدم حلول مثالية لصناعة النشر المهنية بجودته العالية وهيكله المتين وميزات العمر الطويل.\n    </p>\n    <p style=\"font-size: 16px;\">\n        ورق الكتب الخاص بنا يوفر تجربة قراءة ممتازة بفضل عمليات الإنتاج الخاصة بينما يكون مثالي للاستخدام طويل الأمد بهيكله المتين. بهذه الميزات، يوفر نتائج مثالية خاصة لطباعة الكتب والمجلات والكتالوجات.\n    </p>\n    <p style=\"font-size: 16px;\">\n        ورق الكتب الخاص بنا، الذي يقدم حلول مستدامة مع عمليات إنتاج صديقة للبيئة، يلبي أعلى المعايير لتطبيقات النشر المهنية.\n    </p>"
+  },
+  "update": "2025-10-02T06:51:40.277Z",
+  "date": "2025-10-02T06:30:49.876Z"
+}

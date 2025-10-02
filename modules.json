@@ -199,29 +199,6 @@
     },
     {
       "index": 8,
-      "name": "Ürünlerimiz",
-      "path": "page-slider-5",
-      "local": "body",
-      "category": "page slider",
-      "desing": {
-        "page": "products",
-        "name": {
-          "tr": "Ürünlerimiz",
-          "en": "Our Products",
-          "ar": "منتجاتنا"
-        },
-        "size": 4,
-        "category": "",
-        "aspect-ratio": "3 / 2",
-        "margin": "0px 0px 0px 0px",
-        "max": 8,
-        "color": "#e31524",
-        "delay": 4000
-      },
-      "id": "vhi6fj"
-    },
-    {
-      "index": 9,
       "name": "Tanıtım Modülü",
       "path": "module-1",
       "local": "body",
@@ -266,6 +243,75 @@
         "marginbotton": "20"
       },
       "id": "w5hk74"
+    },
+    {
+      "index": 9,
+      "name": "Kutu ve Ambalaj",
+      "path": "page-slider-5",
+      "local": "body",
+      "category": "page slider",
+      "desing": {
+        "page": "products",
+        "name": {
+          "tr": "Ürünlerimiz",
+          "en": "",
+          "ar": ""
+        },
+        "size": 4,
+        "category": "",
+        "aspect-ratio": "3 / 2",
+        "margin": "0px 0px 0px 0px",
+        "max": 8,
+        "color": "#e31524",
+        "delay": 4000
+      },
+      "id": "vhi6fj"
+    },
+    {
+      "index": 10,
+      "name": "Kağıtlarımız",
+      "path": "page-slider-6",
+      "local": "body",
+      "category": "page slider",
+      "desing": {
+        "page": "kagitlarimiz",
+        "name": {
+          "tr": "Kağıtlarımız",
+          "en": "",
+          "ar": ""
+        },
+        "aspect-ratio": "1/1",
+        "color": "#0455d8",
+        "size": 4,
+        "category": "",
+        "margin": "0px 0px 0px 0px",
+        "max": 8,
+        "delay": 4000
+      },
+      "id": "vhi6fj2"
+    },
+    {
+      "index": 11,
+      "name": "Makinalarımız",
+      "path": "page-slider-5",
+      "local": "body",
+      "category": "page slider",
+      "desing": {
+        "page": "makinalarimiz",
+        "name": {
+          "tr": "Makinalarımız",
+          "en": "",
+          "ar": ""
+        },
+        "size": 4,
+        "category": "",
+        "aspect-ratio": "3 / 2",
+        "margin": "0px 0px 0px 0px",
+        "max": 8,
+        "color": "#e31524",
+        "delay": 4000
+      },
+      "id": "vhi6fj3"
     }
   ]
 }

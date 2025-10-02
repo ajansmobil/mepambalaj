@@ -50,6 +50,42 @@
         ],
         "footer": []
       }
+    },
+    {
+      "name": "Kağıtlarımız",
+      "path": "kagitlarimiz",
+      "desc": [],
+      "data": [],
+      "index": 3,
+      "desing": {
+        "header": [],
+        "body": [
+          "mfki0h"
+        ],
+        "footer": []
+      },
+      "modulestatus": {
+        "img": true,
+        "detail": true
+      }
+    },
+    {
+      "name": "Makinalarımız",
+      "path": "makinalarimiz",
+      "desc": [],
+      "data": [],
+      "index": 4,
+      "desing": {
+        "header": [],
+        "body": [
+          "mfki0h"
+        ],
+        "footer": []
+      },
+      "modulestatus": {
+        "img": true,
+        "detail": true
+      }
     }
   ]
 }

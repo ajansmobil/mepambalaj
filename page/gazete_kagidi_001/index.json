@@ -1,0 +1,44 @@
+{
+  "name": {
+    "tr": "Gazete Kağıdı",
+    "en": "Newsprint",
+    "ar": "ورق الصحف"
+  },
+  "status": "play",
+  "category": "publication",
+  "id": "gazete_kagidi_001",
+  "url": "",
+  "path": "gazete-kagidi",
+  "index": 0,
+  "icon": "home",
+  "img": "",
+  "description": {
+    "tr": "Hatem Paper gazete kağıdı: Yüksek kaliteli gazete kağıdı, düşük maliyet, çevre dostu üretim. Avrupa ve Uzak Doğu tedarikçilerinden.",
+    "en": "Hatem Paper newsprint: High quality newsprint paper, low cost, environmentally friendly production. From European and Far Eastern suppliers.",
+    "ar": "ورق الصحف Hatem Paper: ورق صحف عالي الجودة، تكلفة منخفضة، إنتاج صديق للبيئة. من الموردين الأوروبيين والشرق الأقصى."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "desc": {},
+  "keyword": {
+    "tr": "gazete kağıdı, newsprint, baskı kağıdı, düşük maliyet, çevre dostu, Hatem Paper",
+    "en": "newsprint, newspaper paper, printing paper, low cost, eco-friendly, Hatem Paper",
+    "ar": "ورق الصحف، ورق الجرائد، ورق الطباعة، تكلفة منخفضة، صديق للبيئة، Hatem Paper"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Gazete Kağıdı</h2>\n    <p style=\"font-size: 16px;\">\n        Hatem Paper olarak, yüksek kaliteli gazete kağıdı üretimi konusunda 35 yıllık deneyimimizle sektörde öncü konumdayız. Avrupa ve Uzak Doğu tedarikçilerimizden temin ettiğimiz premium kalitede gazete kağıdı, düşük maliyet ve çevre dostu üretim standartlarıyla üretilmektedir.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Gazete kağıdımız, yüksek opaklık, mükemmel baskı kalitesi ve dayanıklı yapısıyla profesyonel baskı uygulamaları için ideal çözüm sunar. Düşük gramajı sayesinde maliyet etkin, yüksek beyazlığı ile görsel kaliteyi artırır.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Sürdürülebilir üretim anlayışımızla, çevre dostu gazete kağıdı çözümleri sunarak, müşterilerimizin ihtiyaçlarına en uygun ürünleri temin ediyoruz.\n    </p>",
+    "en": "<h2 style=\"font-size: 24px;\">Newsprint</h2>\n    <p style=\"font-size: 16px;\">\n        As Hatem Paper, we are a pioneer in the industry with our 35 years of experience in high-quality newsprint production. Our premium quality newsprint, sourced from our European and Far Eastern suppliers, is produced with low cost and environmentally friendly production standards.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Our newsprint offers ideal solutions for professional printing applications with its high opacity, excellent print quality and durable structure. Thanks to its low grammage, it is cost-effective and increases visual quality with its high whiteness.\n    </p>\n    <p style=\"font-size: 16px;\">\n        With our sustainable production approach, we provide environmentally friendly newsprint solutions and supply the most suitable products for our customers' needs.\n    </p>",
+    "ar": "<h2 style=\"font-size: 24px;\">ورق الصحف</h2>\n    <p style=\"font-size: 16px;\">\n        بصفتنا Hatem Paper، نحن رواد في الصناعة بخبرتنا التي تبلغ 35 عاماً في إنتاج ورق الصحف عالي الجودة. ورق الصحف عالي الجودة الذي نحصل عليه من موردينا الأوروبيين والشرق الأقصى، يتم إنتاجه بتكلفة منخفضة ومعايير إنتاج صديقة للبيئة.\n    </p>\n    <p style=\"font-size: 16px;\">\n        ورق الصحف الخاص بنا يقدم حلول مثالية لتطبيقات الطباعة المهنية بعتامته العالية وجودة الطباعة الممتازة وهيكله المتين. بفضل وزنه المنخفض، فهو فعال من ناحية التكلفة ويزيد من الجودة البصرية ببياضه العالي.\n    </p>\n    <p style=\"font-size: 16px;\">\n        مع نهجنا في الإنتاج المستدام، نقدم حلول ورق الصحف الصديقة للبيئة ونوفر المنتجات الأنسب لاحتياجات عملائنا.\n    </p>"
+  },
+  "update": "2025-10-02T06:51:40.261Z",
+  "date": "2025-10-02T06:30:49.860Z",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "pathnext": ""
+}

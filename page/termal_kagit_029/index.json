@@ -1,0 +1,34 @@
+{
+  "name": {
+    "tr": "Termal Kağıt",
+    "en": "Thermal Paper",
+    "ar": "ورق حراري"
+  },
+  "status": "play",
+  "category": "specialty",
+  "id": "termal_kagit_029",
+  "url": "",
+  "path": "termal-kagit",
+  "index": 28,
+  "icon": "home",
+  "img": "thermal_paper.png",
+  "description": {
+    "tr": "Hatem Paper termal kağıt: Isıya duyarlı kağıt, yazıcı uygulamaları için özel tasarım, yüksek kalite.",
+    "en": "Hatem Paper thermal paper: Heat sensitive paper, special design for printer applications, high quality.",
+    "ar": "ورق حراري Hatem Paper: ورق حساس للحرارة، تصميم خاص لتطبيقات الطابعات، جودة عالية."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "desc": {},
+  "keyword": {
+    "tr": ""
+  },
+  "text": {
+    "tr": ""
+  },
+  "update": "2025-10-02T06:51:40.331Z",
+  "date": "2025-10-02T06:30:49.944Z"
+}

@@ -1,0 +1,34 @@
+{
+  "name": {
+    "tr": "Yağ Geçirmez Kağıt",
+    "en": "Grease Proof Paper",
+    "ar": "ورق مقاوم للدهون"
+  },
+  "status": "play",
+  "category": "specialty",
+  "id": "yag_gecirmez_kagit_027",
+  "url": "",
+  "path": "yag-gecirmez-kagit",
+  "index": 26,
+  "icon": "home",
+  "img": "grease_proof.png",
+  "description": {
+    "tr": "Hatem Paper yağ geçirmez kağıt: Yağ ve nem bariyeri, gıda ambalajı için özel tasarım, hijyenik üretim.",
+    "en": "Hatem Paper grease proof paper: Oil and moisture barrier, special design for food packaging, hygienic production.",
+    "ar": "ورق مقاوم للدهون Hatem Paper: حاجز للزيت والرطوبة، تصميم خاص لتعبئة الأغذية، إنتاج صحي."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "desc": {},
+  "keyword": {
+    "tr": ""
+  },
+  "text": {
+    "tr": ""
+  },
+  "update": "2025-10-02T06:51:40.327Z",
+  "date": "2025-10-02T06:30:49.938Z"
+}

@@ -1,0 +1,779 @@
+{
+  "name": "Kağıtlarımız",
+  "path": "kagitlarimiz",
+  "desc": [],
+  "data": [
+    {
+      "name": {
+        "tr": "Gazete Kağıdı",
+        "en": "Newsprint",
+        "ar": "ورق الصحف"
+      },
+      "status": "play",
+      "category": "publication",
+      "id": "gazete_kagidi_001",
+      "url": "",
+      "path": "gazete-kagidi",
+      "index": 0,
+      "icon": "home",
+      "img": "",
+      "description": {
+        "tr": "Hatem Paper gazete kağıdı: Yüksek kaliteli gazete kağıdı, düşük maliyet, çevre dostu üretim. Avrupa ve Uzak Doğu tedarikçilerinden.",
+        "en": "Hatem Paper newsprint: High quality newsprint paper, low cost, environmentally friendly production. From European and Far Eastern suppliers.",
+        "ar": "ورق الصحف Hatem Paper: ورق صحف عالي الجودة، تكلفة منخفضة، إنتاج صديق للبيئة. من الموردين الأوروبيين والشرق الأقصى."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "",
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Geliştirilmiş Gazete Kağıdı",
+        "en": "Improved Newsprint",
+        "ar": "ورق الصحف المحسن"
+      },
+      "status": "play",
+      "category": "publication",
+      "id": "gelistirilmis_gazete_002",
+      "url": "",
+      "path": "gelistirilmis-gazete-kagidi",
+      "index": 1,
+      "icon": "home",
+      "img": "",
+      "description": {
+        "tr": "Hatem Paper geliştirilmiş gazete kağıdı: Daha iyi baskı kalitesi, gelişmiş opaklık, düşük maliyet. Profesyonel baskı uygulamaları için.",
+        "en": "Hatem Paper improved newsprint: Better print quality, improved opacity, low cost. For professional printing applications.",
+        "ar": "ورق الصحف المحسن Hatem Paper: جودة طباعة أفضل، عتامة محسنة، تكلفة منخفضة. لتطبيقات الطباعة المهنية."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "SC Kağıdı",
+        "en": "SC Paper",
+        "ar": "ورق SC"
+      },
+      "status": "play",
+      "category": "publication",
+      "id": "sc_kagidi_003",
+      "url": "",
+      "path": "sc-kagidi",
+      "index": 2,
+      "icon": "home",
+      "img": "",
+      "description": {
+        "tr": "Hatem Paper SC kağıdı: Süper kalandırılmış kağıt, yüksek parlaklık, mükemmel baskı kalitesi. Dergi ve katalog baskıları için ideal.",
+        "en": "Hatem Paper SC paper: Super calendered paper, high brightness, excellent print quality. Ideal for magazine and catalog printing.",
+        "ar": "ورق SC Hatem Paper: ورق مكربن فائق، سطوع عالي، جودة طباعة ممتازة. مثالي لطباعة المجلات والكتالوجات."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "LWC Kağıdı",
+        "en": "LWC Paper",
+        "ar": "ورق LWC"
+      },
+      "status": "play",
+      "category": "publication",
+      "id": "lwc_kagidi_004",
+      "url": "",
+      "path": "lwc-kagidi",
+      "index": 3,
+      "icon": "home",
+      "img": "",
+      "description": {
+        "tr": "Hatem Paper LWC kağıdı: Hafif kaplamalı kağıt, yüksek kalite, düşük gramaj. Dergi ve reklam baskıları için özel tasarım.",
+        "en": "Hatem Paper LWC paper: Light weight coated paper, high quality, low grammage. Special design for magazine and advertising printing.",
+        "ar": "ورق LWC Hatem Paper: ورق مطلي خفيف الوزن، جودة عالية، وزن منخفض. تصميم خاص لطباعة المجلات والإعلانات."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "MWC Kağıdı",
+        "en": "MWC Paper",
+        "ar": "ورق MWC"
+      },
+      "status": "play",
+      "category": "publication",
+      "id": "mwc_kagidi_005",
+      "url": "",
+      "path": "mwc-kagidi",
+      "index": 4,
+      "icon": "home",
+      "img": "",
+      "description": {
+        "tr": "Hatem Paper MWC kağıdı: Orta ağırlıkta kaplamalı kağıt, yüksek kalite, çok amaçlı kullanım. Profesyonel baskı uygulamaları için.",
+        "en": "Hatem Paper MWC paper: Medium weight coated paper, high quality, versatile use. For professional printing applications.",
+        "ar": "ورق MWC Hatem Paper: ورق مطلي متوسط الوزن، جودة عالية، استخدام متعدد الأغراض. لتطبيقات الطباعة المهنية."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Kitap Kağıdı",
+        "en": "Book Paper",
+        "ar": "ورق الكتب"
+      },
+      "status": "play",
+      "category": "publication",
+      "id": "kitap_kagidi_006",
+      "url": "",
+      "path": "kitap-kagidi",
+      "index": 5,
+      "icon": "home",
+      "img": "",
+      "description": {
+        "tr": "Hatem Paper kitap kağıdı: Kitap ve dergi baskıları için özel tasarım kağıt. Yüksek kalite, dayanıklı yapı, uzun ömür.",
+        "en": "Hatem Paper book paper: Special design paper for book and magazine printing. High quality, durable structure, long life.",
+        "ar": "ورق الكتب Hatem Paper: ورق بتصميم خاص لطباعة الكتب والمجلات. جودة عالية، هيكل متين، عمر طويل."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Kaplamalı Odunsuz Kağıt",
+        "en": "Woodfree Coated",
+        "ar": "ورق خالي من الخشب مطلي"
+      },
+      "status": "play",
+      "category": "fine",
+      "id": "kaplamali_odunsuz_007",
+      "url": "",
+      "path": "kaplamali-odunsuz-kagit",
+      "index": 6,
+      "icon": "home",
+      "img": "",
+      "description": {
+        "tr": "Hatem Paper kaplamalı odunsuz kağıt: Yüksek kaliteli kaplamalı kağıt, mükemmel baskı kalitesi, profesyonel kullanım. Ofis ve ticari uygulamalar için.",
+        "en": "Hatem Paper woodfree coated: High quality coated paper, excellent print quality, professional use. For office and commercial applications.",
+        "ar": "ورق خالي من الخشب مطلي Hatem Paper: ورق مطلي عالي الجودة، جودة طباعة ممتازة، استخدام مهني. للتطبيقات المكتبية والتجارية."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Kaplamasız Odunsuz Kağıt",
+        "en": "Uncoated Woodfree",
+        "ar": "ورق خالي من الخشب غير مطلي"
+      },
+      "status": "play",
+      "category": "fine",
+      "id": "kaplamasiz_odunsuz_008",
+      "url": "",
+      "path": "kaplamasiz-odunsuz-kagit",
+      "index": 7,
+      "icon": "home",
+      "img": "",
+      "description": {
+        "tr": "Hatem Paper kaplamasız odunsuz kağıt: Doğal yüzey, yüksek kalite, çok amaçlı kullanım. Ofis ve ticari uygulamalar için ideal.",
+        "en": "Hatem Paper uncoated woodfree: Natural surface, high quality, versatile use. Ideal for office and commercial applications.",
+        "ar": "ورق خالي من الخشب غير مطلي Hatem Paper: سطح طبيعي، جودة عالية، استخدام متعدد الأغراض. مثالي للتطبيقات المكتبية والتجارية."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Kesik Boyut Kağıt",
+        "en": "Cut Size Paper",
+        "ar": "ورق مقصوص الحجم"
+      },
+      "status": "play",
+      "category": "fine",
+      "id": "kesik_boyut_009",
+      "url": "",
+      "path": "kesik-boyut-kagit",
+      "index": 8,
+      "icon": "home",
+      "img": "",
+      "description": {
+        "tr": "Hatem Paper kesik boyut kağıt: Standart ofis boyutları, yüksek kalite, hazır kullanım. Fotokopi ve yazıcı uygulamaları için.",
+        "en": "Hatem Paper cut size paper: Standard office sizes, high quality, ready to use. For photocopy and printer applications.",
+        "ar": "ورق مقصوص الحجم Hatem Paper: أحجام مكتبية قياسية، جودة عالية، جاهز للاستخدام. لتطبيقات النسخ والطباعة."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Renkli Kağıt",
+        "en": "Colored Paper",
+        "ar": "ورق ملون"
+      },
+      "status": "play",
+      "category": "fine",
+      "id": "renkli_kagit_010",
+      "url": "",
+      "path": "renkli-kagit",
+      "index": 9,
+      "icon": "home",
+      "img": "",
+      "description": {
+        "tr": "Hatem Paper renkli kağıt: Çeşitli renk seçenekleri, yüksek kalite, yaratıcı uygulamalar. Tasarım ve sanat projeleri için.",
+        "en": "Hatem Paper colored paper: Various color options, high quality, creative applications. For design and art projects.",
+        "ar": "ورق ملون Hatem Paper: خيارات ألوان متنوعة، جودة عالية، تطبيقات إبداعية. لمشاريع التصميم والفن."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "İncil Kağıdı",
+        "en": "Bible Paper",
+        "ar": "ورق الإنجيل"
+      },
+      "status": "play",
+      "category": "fine",
+      "id": "incil_kagidi_011",
+      "url": "",
+      "path": "incil-kagidi",
+      "index": 10,
+      "icon": "home",
+      "img": "",
+      "description": {
+        "tr": "Hatem Paper İncil kağıdı: Çok ince, şeffaf, yüksek kalite. Dini kitaplar ve özel baskılar için özel tasarım.",
+        "en": "Hatem Paper bible paper: Very thin, transparent, high quality. Special design for religious books and special prints.",
+        "ar": "ورق الإنجيل Hatem Paper: رقيق جداً، شفاف، جودة عالية. تصميم خاص للكتب الدينية والطباعات الخاصة."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Oluklu Kağıt",
+        "en": "Fluting",
+        "ar": "ورق مضلع"
+      },
+      "status": "play",
+      "category": "corrugating",
+      "id": "oluklu_kagit_012",
+      "url": "",
+      "path": "oluklu-kagit",
+      "index": 11,
+      "icon": "home",
+      "img": "",
+      "description": {
+        "tr": "Hatem Paper oluklu kağıt: Ambalaj sektörü için özel tasarım, dayanıklı yapı, yüksek kalite. Kutu ve ambalaj üretimi için.",
+        "en": "Hatem Paper fluting: Special design for packaging industry, durable structure, high quality. For box and packaging production.",
+        "ar": "ورق مضلع Hatem Paper: تصميم خاص لصناعة التعبئة والتغليف، هيكل متين، جودة عالية. لإنتاج الصناديق والتعبئة."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "NSSC Kağıdı",
+        "en": "NSSC Paper",
+        "ar": "ورق NSSC"
+      },
+      "status": "play",
+      "category": "corrugating",
+      "id": "nssc_kagidi_013",
+      "url": "",
+      "path": "nssc-kagidi",
+      "index": 12,
+      "icon": "home",
+      "img": "",
+      "description": {
+        "tr": "Hatem Paper NSSC kağıdı: Yarı kimyasal sülfat kağıdı, yüksek dayanıklılık, ambalaj uygulamaları için özel tasarım.",
+        "en": "Hatem Paper NSSC paper: Semi-chemical sulfate paper, high durability, special design for packaging applications.",
+        "ar": "ورق NSSC Hatem Paper: ورق كبريتات شبه كيميائي، متانة عالية، تصميم خاص لتطبيقات التعبئة والتغليف."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Testliner Kağıdı",
+        "en": "Testliner Paper",
+        "ar": "ورق Testliner"
+      },
+      "status": "play",
+      "category": "corrugating",
+      "id": "testliner_kagidi_014",
+      "url": "",
+      "path": "testliner-kagidi",
+      "index": 13,
+      "icon": "home",
+      "img": "",
+      "description": {
+        "tr": "Hatem Paper testliner kağıdı: Ambalaj sektörü için yüksek kaliteli kağıt, dayanıklı yapı, çok amaçlı kullanım.",
+        "en": "Hatem Paper testliner paper: High quality paper for packaging industry, durable structure, versatile use.",
+        "ar": "ورق Testliner Hatem Paper: ورق عالي الجودة لصناعة التعبئة والتغليف، هيكل متين، استخدام متعدد الأغراض."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Beyaz Testliner",
+        "en": "White Testliner",
+        "ar": "Testliner أبيض"
+      },
+      "status": "play",
+      "category": "corrugating",
+      "id": "beyaz_testliner_015",
+      "url": "",
+      "path": "beyaz-testliner",
+      "index": 14,
+      "icon": "home",
+      "img": "white_testliner.png",
+      "description": {
+        "tr": "Hatem Paper beyaz testliner: Yüksek beyazlık, ambalaj sektörü için özel tasarım, dayanıklı yapı.",
+        "en": "Hatem Paper white testliner: High whiteness, special design for packaging industry, durable structure.",
+        "ar": "Testliner أبيض Hatem Paper: بياض عالي، تصميم خاص لصناعة التعبئة والتغليف، هيكل متين."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Kaplamalı Beyaz Testliner",
+        "en": "Coated White Testliner",
+        "ar": "Testliner أبيض مطلي"
+      },
+      "status": "play",
+      "category": "corrugating",
+      "id": "kaplamali_beyaz_testliner_016",
+      "url": "",
+      "path": "kaplamali-beyaz-testliner",
+      "index": 15,
+      "icon": "home",
+      "img": "coated_white_testliner.png",
+      "description": {
+        "tr": "Hatem Paper kaplamalı beyaz testliner: Yüksek kalite, mükemmel baskı yüzeyi, ambalaj uygulamaları için özel tasarım.",
+        "en": "Hatem Paper coated white testliner: High quality, excellent print surface, special design for packaging applications.",
+        "ar": "Testliner أبيض مطلي Hatem Paper: جودة عالية، سطح طباعة ممتاز، تصميم خاص لتطبيقات التعبئة والتغليف."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Çuval Kraft Kağıdı",
+        "en": "Sack Kraft",
+        "ar": "ورق كرافت الأكياس"
+      },
+      "status": "play",
+      "category": "corrugating",
+      "id": "caval_kraft_017",
+      "url": "",
+      "path": "caval-kraft-kagidi",
+      "index": 16,
+      "icon": "home",
+      "img": "sack_kraft.png",
+      "description": {
+        "tr": "Hatem Paper çuval kraft kağıdı: Yüksek dayanıklılık, çuval üretimi için özel tasarım, güçlü yapı.",
+        "en": "Hatem Paper sack kraft: High durability, special design for sack production, strong structure.",
+        "ar": "ورق كرافت الأكياس Hatem Paper: متانة عالية، تصميم خاص لإنتاج الأكياس، هيكل قوي."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Kraftliner Kağıdı",
+        "en": "Kraftliner Paper",
+        "ar": "ورق Kraftliner"
+      },
+      "status": "play",
+      "category": "corrugating",
+      "id": "kraftliner_kagidi_018",
+      "url": "",
+      "path": "kraftliner-kagidi",
+      "index": 17,
+      "icon": "home",
+      "img": "kraftliner.png",
+      "description": {
+        "tr": "Hatem Paper kraftliner kağıdı: Ambalaj sektörü için yüksek kaliteli kraft kağıdı, dayanıklı yapı, çok amaçlı kullanım.",
+        "en": "Hatem Paper kraftliner paper: High quality kraft paper for packaging industry, durable structure, versatile use.",
+        "ar": "ورق Kraftliner Hatem Paper: ورق كرافت عالي الجودة لصناعة التعبئة والتغليف، هيكل متين، استخدام متعدد الأغراض."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Beyaz Üst Kraftliner",
+        "en": "White Top Kraftliner",
+        "ar": "Kraftliner أبيض العلوي"
+      },
+      "status": "play",
+      "category": "corrugating",
+      "id": "beyaz_ust_kraftliner_019",
+      "url": "",
+      "path": "beyaz-ust-kraftliner",
+      "index": 18,
+      "icon": "home",
+      "img": "white_top_kraftliner.png",
+      "description": {
+        "tr": "Hatem Paper beyaz üst kraftliner: Yüksek beyazlık, ambalaj sektörü için özel tasarım, dayanıklı yapı.",
+        "en": "Hatem Paper white top kraftliner: High whiteness, special design for packaging industry, durable structure.",
+        "ar": "Kraftliner أبيض العلوي Hatem Paper: بياض عالي، تصميم خاص لصناعة التعبئة والتغليف، هيكل متين."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Kaplamalı Beyaz Üst Kraftliner",
+        "en": "Coated White Top Kraftliner",
+        "ar": "Kraftliner أبيض العلوي مطلي"
+      },
+      "status": "play",
+      "category": "corrugating",
+      "id": "kaplamali_beyaz_ust_kraftliner_020",
+      "url": "",
+      "path": "kaplamali-beyaz-ust-kraftliner",
+      "index": 19,
+      "icon": "home",
+      "img": "coated_white_top_kraftliner.png",
+      "description": {
+        "tr": "Hatem Paper kaplamalı beyaz üst kraftliner: Yüksek kalite, mükemmel baskı yüzeyi, ambalaj uygulamaları için özel tasarım.",
+        "en": "Hatem Paper coated white top kraftliner: High quality, excellent print surface, special design for packaging applications.",
+        "ar": "Kraftliner أبيض العلوي مطلي Hatem Paper: جودة عالية، سطح طباعة ممتاز، تصميم خاص لتطبيقات التعبئة والتغليف."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Duplex Board",
+        "en": "Duplex Board",
+        "ar": "لوح دوبلكس"
+      },
+      "status": "play",
+      "category": "board",
+      "id": "duplex_board_021",
+      "url": "",
+      "path": "duplex-board",
+      "index": 20,
+      "icon": "home",
+      "img": "duplex_board.png",
+      "description": {
+        "tr": "Hatem Paper duplex board: Çift katmanlı karton, yüksek kalite, ambalaj uygulamaları için özel tasarım.",
+        "en": "Hatem Paper duplex board: Double layer cardboard, high quality, special design for packaging applications.",
+        "ar": "لوح دوبلكس Hatem Paper: كرتون مزدوج الطبقة، جودة عالية، تصميم خاص لتطبيقات التعبئة والتغليف."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Triplex Board",
+        "en": "Triplex Board",
+        "ar": "لوح تريبلكس"
+      },
+      "status": "play",
+      "category": "board",
+      "id": "triplex_board_022",
+      "url": "",
+      "path": "triplex-board",
+      "index": 21,
+      "icon": "home",
+      "img": "triplex_board.png",
+      "description": {
+        "tr": "Hatem Paper triplex board: Üç katmanlı karton, yüksek dayanıklılık, ambalaj uygulamaları için özel tasarım.",
+        "en": "Hatem Paper triplex board: Three layer cardboard, high durability, special design for packaging applications.",
+        "ar": "لوح تريبلكس Hatem Paper: كرتون ثلاثي الطبقة، متانة عالية، تصميم خاص لتطبيقات التعبئة والتغليف."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Katlanır Kutu Kartonu",
+        "en": "Folding Box Board",
+        "ar": "كرتون صناديق قابلة للطي"
+      },
+      "status": "play",
+      "category": "board",
+      "id": "katlanir_kutu_kartonu_023",
+      "url": "",
+      "path": "katlanir-kutu-kartonu",
+      "index": 22,
+      "icon": "home",
+      "img": "folding_box_board.png",
+      "description": {
+        "tr": "Hatem Paper katlanır kutu kartonu: Kutu üretimi için özel tasarım, yüksek kalite, dayanıklı yapı.",
+        "en": "Hatem Paper folding box board: Special design for box production, high quality, durable structure.",
+        "ar": "كرتون صناديق قابلة للطي Hatem Paper: تصميم خاص لإنتاج الصناديق، جودة عالية، هيكل متين."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "SBS Board",
+        "en": "SBS Board",
+        "ar": "لوح SBS"
+      },
+      "status": "play",
+      "category": "board",
+      "id": "sbs_board_024",
+      "url": "",
+      "path": "sbs-board",
+      "index": 23,
+      "icon": "home",
+      "img": "sbs_board.png",
+      "description": {
+        "tr": "Hatem Paper SBS board: Yüksek kaliteli karton, ambalaj uygulamaları için özel tasarım, dayanıklı yapı.",
+        "en": "Hatem Paper SBS board: High quality cardboard, special design for packaging applications, durable structure.",
+        "ar": "لوح SBS Hatem Paper: كرتون عالي الجودة، تصميم خاص لتطبيقات التعبئة والتغليف، هيكل متين."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Core Board",
+        "en": "Core Board",
+        "ar": "لوح الأساس"
+      },
+      "status": "play",
+      "category": "board",
+      "id": "core_board_025",
+      "url": "",
+      "path": "core-board",
+      "index": 24,
+      "icon": "home",
+      "img": "core_board.png",
+      "description": {
+        "tr": "Hatem Paper core board: Çekirdek karton, yüksek dayanıklılık, ambalaj uygulamaları için özel tasarım.",
+        "en": "Hatem Paper core board: Core cardboard, high durability, special design for packaging applications.",
+        "ar": "لوح الأساس Hatem Paper: كرتون أساسي، متانة عالية، تصميم خاص لتطبيقات التعبئة والتغليف."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Gri Karton",
+        "en": "Grey Board",
+        "ar": "كرتون رمادي"
+      },
+      "status": "play",
+      "category": "board",
+      "id": "gri_karton_026",
+      "url": "",
+      "path": "gri-karton",
+      "index": 25,
+      "icon": "home",
+      "img": "grey_board.png",
+      "description": {
+        "tr": "Hatem Paper gri karton: Yüksek kaliteli gri karton, ambalaj uygulamaları için özel tasarım, dayanıklı yapı.",
+        "en": "Hatem Paper grey board: High quality grey cardboard, special design for packaging applications, durable structure.",
+        "ar": "كرتون رمادي Hatem Paper: كرتون رمادي عالي الجودة، تصميم خاص لتطبيقات التعبئة والتغليف، هيكل متين."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Yağ Geçirmez Kağıt",
+        "en": "Grease Proof Paper",
+        "ar": "ورق مقاوم للدهون"
+      },
+      "status": "play",
+      "category": "specialty",
+      "id": "yag_gecirmez_kagit_027",
+      "url": "",
+      "path": "yag-gecirmez-kagit",
+      "index": 26,
+      "icon": "home",
+      "img": "grease_proof.png",
+      "description": {
+        "tr": "Hatem Paper yağ geçirmez kağıt: Yağ ve nem bariyeri, gıda ambalajı için özel tasarım, hijyenik üretim.",
+        "en": "Hatem Paper grease proof paper: Oil and moisture barrier, special design for food packaging, hygienic production.",
+        "ar": "ورق مقاوم للدهون Hatem Paper: حاجز للزيت والرطوبة، تصميم خاص لتعبئة الأغذية، إنتاج صحي."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "NCR Kağıdı",
+        "en": "NCR Paper",
+        "ar": "ورق NCR"
+      },
+      "status": "play",
+      "category": "specialty",
+      "id": "ncr_kagidi_028",
+      "url": "",
+      "path": "ncr-kagidi",
+      "index": 27,
+      "icon": "home",
+      "img": "ncr_paper.png",
+      "description": {
+        "tr": "Hatem Paper NCR kağıdı: Karbon kopya kağıdı, ofis uygulamaları için özel tasarım, yüksek kalite.",
+        "en": "Hatem Paper NCR paper: Carbon copy paper, special design for office applications, high quality.",
+        "ar": "ورق NCR Hatem Paper: ورق نسخ كربوني، تصميم خاص للتطبيقات المكتبية، جودة عالية."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Termal Kağıt",
+        "en": "Thermal Paper",
+        "ar": "ورق حراري"
+      },
+      "status": "play",
+      "category": "specialty",
+      "id": "termal_kagit_029",
+      "url": "",
+      "path": "termal-kagit",
+      "index": 28,
+      "icon": "home",
+      "img": "thermal_paper.png",
+      "description": {
+        "tr": "Hatem Paper termal kağıt: Isıya duyarlı kağıt, yazıcı uygulamaları için özel tasarım, yüksek kalite.",
+        "en": "Hatem Paper thermal paper: Heat sensitive paper, special design for printer applications, high quality.",
+        "ar": "ورق حراري Hatem Paper: ورق حساس للحرارة، تصميم خاص لتطبيقات الطابعات، جودة عالية."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    }
+  ],
+  "index": 3,
+  "desing": {
+    "header": [],
+    "body": [
+      "mfki0h"
+    ],
+    "footer": []
+  },
+  "modulestatus": {
+    "img": true,
+    "detail": true
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "name": "Makinalarımız",
+  "path": "makinalarimiz",
+  "desc": [],
+  "data": [
+    {
+      "name": {
+        "tr": "Carton Box Making Machine With In-line Folder Gluer",
+        "en": "",
+        "ar": ""
+      },
+      "status": "play",
+      "category": "",
+      "id": "rkozhrao3a",
+      "url": "",
+      "path": "carton-box-making-machine-with-in-line-folder-gluer",
+      "index": 0,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": ""
+      },
+      "spot": {
+        "tr": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "High Graphic Printer Varnish Dryer",
+        "en": "",
+        "ar": ""
+      },
+      "status": "play",
+      "category": "",
+      "id": "dkdvr34o4h",
+      "url": "",
+      "path": "high-graphic-printer-varnish-dryer",
+      "index": 1,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": ""
+      },
+      "spot": {
+        "tr": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "High Speed Computerized Printer",
+        "en": "",
+        "ar": ""
+      },
+      "status": "play",
+      "category": "",
+      "id": "jp7c5gzox5",
+      "url": "",
+      "path": "high-speed-computerized-printer",
+      "index": 2,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": ""
+      },
+      "spot": {
+        "tr": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Automatic Pre-Feeder Machine",
+        "en": "",
+        "ar": ""
+      },
+      "status": "play",
+      "category": "",
+      "id": "ccb828eitu",
+      "url": "",
+      "path": "automatic-pre-feeder-machine",
+      "index": 3,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": ""
+      },
+      "spot": {
+        "tr": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Xieyang Machinery (Guangdong) Co.,Ltd.",
+        "en": "",
+        "ar": ""
+      },
+      "status": "play",
+      "category": "",
+      "id": "wskskl86uf",
+      "url": "",
+      "path": "xieyang-machinery-guangdong-coltd",
+      "index": 4,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": ""
+      },
+      "spot": {
+        "tr": ""
+      },
+      "desc": {}
+    }
+  ],
+  "index": 4,
+  "desing": {
+    "header": [],
+    "body": [
+      "mfki0h"
+    ],
+    "footer": []
+  },
+  "modulestatus": {
+    "img": true,
+    "detail": true
+  }
+}

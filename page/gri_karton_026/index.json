@@ -1,0 +1,34 @@
+{
+  "name": {
+    "tr": "Gri Karton",
+    "en": "Grey Board",
+    "ar": "كرتون رمادي"
+  },
+  "status": "play",
+  "category": "board",
+  "id": "gri_karton_026",
+  "url": "",
+  "path": "gri-karton",
+  "index": 25,
+  "icon": "home",
+  "img": "grey_board.png",
+  "description": {
+    "tr": "Hatem Paper gri karton: Yüksek kaliteli gri karton, ambalaj uygulamaları için özel tasarım, dayanıklı yapı.",
+    "en": "Hatem Paper grey board: High quality grey cardboard, special design for packaging applications, durable structure.",
+    "ar": "كرتون رمادي Hatem Paper: كرتون رمادي عالي الجودة، تصميم خاص لتطبيقات التعبئة والتغليف، هيكل متين."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "desc": {},
+  "keyword": {
+    "tr": ""
+  },
+  "text": {
+    "tr": ""
+  },
+  "update": "2025-10-02T06:51:40.325Z",
+  "date": "2025-10-02T06:30:49.934Z"
+}

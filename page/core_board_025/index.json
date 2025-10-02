@@ -1,0 +1,34 @@
+{
+  "name": {
+    "tr": "Core Board",
+    "en": "Core Board",
+    "ar": "لوح الأساس"
+  },
+  "status": "play",
+  "category": "board",
+  "id": "core_board_025",
+  "url": "",
+  "path": "core-board",
+  "index": 24,
+  "icon": "home",
+  "img": "core_board.png",
+  "description": {
+    "tr": "Hatem Paper core board: Çekirdek karton, yüksek dayanıklılık, ambalaj uygulamaları için özel tasarım.",
+    "en": "Hatem Paper core board: Core cardboard, high durability, special design for packaging applications.",
+    "ar": "لوح الأساس Hatem Paper: كرتون أساسي، متانة عالية، تصميم خاص لتطبيقات التعبئة والتغليف."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "desc": {},
+  "keyword": {
+    "tr": ""
+  },
+  "text": {
+    "tr": ""
+  },
+  "update": "2025-10-02T06:51:40.323Z",
+  "date": "2025-10-02T06:30:49.932Z"
+}

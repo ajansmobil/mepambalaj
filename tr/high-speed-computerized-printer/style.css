@@ -1,5 +1,5 @@
 
-  .xtjbt {
+  .zlpdf {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .xtjbttitle {
+  .zlpdftitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .xtjbttitlebody {
+  .zlpdftitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .xtjbttitlebodytitle {
+  .zlpdftitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .xtjbttitlebodylang {
+  .zlpdftitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .xtjbttitlebodylang ul {
+  .zlpdftitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .xtjbtbody {
+  .zlpdfbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .xtjbtmenu {
+  .zlpdfmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .xtjbtmenulist {
+  .zlpdfmenulist {
     width: calc(100% - 20px);
     background-color: #e31524;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .xtjbtmenubody {
+  .zlpdfmenubody {
     width: 100%;
     background-color: #e31524;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .xtjbtmenulist ul {
+  .zlpdfmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .xtjbtmenulist ul a {
+  .zlpdfmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -92,26 +92,26 @@
     white-space: nowrap;
   }
 
-  .xtjbtmenulist ul a:hover {
+  .zlpdfmenulist ul a:hover {
     background-color: #fff;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .xtjbt-menu-list-active {
+  .zlpdf-menu-list-active {
     background-color: #fff;
     border-radius: 5px;
       color: #000 !important;
     cursor: pointer;
   }
 
-  .xtjbtmenulistbody {
+  .zlpdfmenulistbody {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .xtjbtbodylogo {
+    .zlpdfbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -119,15 +119,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .xtjbtmenu {
+    .zlpdfmenu {
       overflow-x: auto;
     }
 
-    .xtjbtmenulist ul {
+    .zlpdfmenulist ul {
       flex-direction: row;
     }
 
-    .xtjbtbodylogo {
+    .zlpdfbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -135,7 +135,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .xtjbtmenulist ul a {
+    .zlpdfmenulist ul a {
       font-size: 14px;
     }
   }
@@ -145,7 +145,7 @@
     justify-content: start;
   }
 
-  .gqinu {
+  .ctyzp {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
@@ -153,7 +153,7 @@
     position: relative;
   }
 
-  .gqinu-menu-btn {
+  .ctyzp-menu-btn {
     display: none;
     background-color: #000;
     padding: 10px 20px;
@@ -165,11 +165,11 @@
     align-items: center;
   }
 
-  .gqinu-menu-btn i {
+  .ctyzp-menu-btn i {
     font-size: 20px;
   }
 
-  .gqinu-menu {
+  .ctyzp-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -180,28 +180,28 @@
     float: left;
   }
 
-  .gqinu-desc {
+  .ctyzp-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .gqinu-menu > a {
+  .ctyzp-menu > a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .gqinu-menu > .active,
-  .gqinu-menu > a:hover {
+  .ctyzp-menu > .active,
+  .ctyzp-menu > a:hover {
     background-color: #000;
     color: #fff;
     display: flex;
   }
 
-  .gqinu-desc-menu {
+  .ctyzp-desc-menu {
     width: 200px;
     background-color: #000;
     display: flex;
@@ -209,19 +209,19 @@
     border-radius: 5px;
   }
 
-  .gqinu-desc-menu > div {
+  .ctyzp-desc-menu > div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .gqinu-desc-body {
+  .ctyzp-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .gqinu-title {
+  .ctyzp-title {
     width: 100%;
     height: 100px;
     background-color: #000;
@@ -234,7 +234,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .gqinu-title::before {
+  .ctyzp-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -249,44 +249,44 @@
     z-index: 1;
   }
 
-  .gqinu-title span {
+  .ctyzp-title span {
     position: relative;
     z-index: 2;
     font-size: 32px;
   }
 
-  .gqinu-body {
+  .ctyzp-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
     text-align: left;
   }
 
-  .gqinu-img {
+  .ctyzp-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .gqinu-img img {
+  .ctyzp-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .gqinu-desc {
+    .ctyzp-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .gqinu-menu-btn {
+    .ctyzp-menu-btn {
       display: flex;
       width: calc(100% - 55px);
       margin-left: 5px;
     }
 
-    .gqinu {
+    .ctyzp {
       display: flex;
       flex-direction: column;
       width: 100%;
@@ -295,17 +295,17 @@
       margin-top: 0px;
     }
 
-    .gqinu-img {
+    .ctyzp-img {
       width: 100%;
     }
 
-    .gqinu-body {
+    .ctyzp-body {
       width: 100%;
       order: 3;
       padding: 10px;
     }
 
-    .gqinu-menu {
+    .ctyzp-menu {
       width: 100%;
       float: none;
       flex-direction: column;
@@ -313,11 +313,11 @@
       display: none;
     }
 
-    .gqinu-menu.active {
+    .ctyzp-menu.active {
       display: flex;
     }
 
-    .gqinu-desc {
+    .ctyzp-desc {
       width: 100% !important;
       order: 2;
     }

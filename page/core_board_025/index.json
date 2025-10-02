@@ -11,7 +11,7 @@
   "path": "core-board",
   "index": 24,
   "icon": "home",
-  "img": "core_board.png",
+  "img": "",
   "description": {
     "tr": "Hatem Paper core board: Çekirdek karton, yüksek dayanıklılık, ambalaj uygulamaları için özel tasarım.",
     "en": "Hatem Paper core board: Core cardboard, high durability, special design for packaging applications.",
@@ -24,10 +24,14 @@
   },
   "desc": {},
   "keyword": {
-    "tr": ""
+    "tr": "core board, çekirdek karton, yüksek dayanıklılık, ambalaj uygulamaları, Hatem Paper",
+    "en": "core board, core cardboard, high durability, packaging applications, Hatem Paper",
+    "ar": "لوح الأساس، كرتون أساسي، متانة عالية، تطبيقات التعبئة والتغليف، Hatem Paper"
   },
   "text": {
-    "tr": ""
+    "tr": "<h2 style=\"font-size: 24px;\">Core Board</h2>\n    <p style=\"font-size: 16px;\">\n        Hatem Paper core board, çekirdek karton teknolojisi ile üretilen yüksek dayanıklılığa sahip ambalaj uygulamaları için özel tasarım edilmiş bir karton türüdür. Yüksek dayanıklılık ve özel tasarım özellikleri ile ambalaj uygulamaları için ideal çözümler sunar.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Core board kartonumuz, çekirdek yapısı sayesinde mükemmel dayanıklılık sağlarken, yüksek kalitesi ile profesyonel sonuçlar verir. Bu özellikleri ile özellikle ambalaj, kutu ve yüksek dayanıklılık gerektiren uygulamalar için mükemmel sonuçlar verir.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Sürdürülebilir üretim anlayışımızla, çevre dostu core board çözümleri sunarak, müşterilerimizin ambalaj ihtiyaçlarına en uygun ürünleri temin ediyoruz.\n    </p>",
+    "en": "<h2 style=\"font-size: 24px;\">Core Board</h2>\n    <p style=\"font-size: 16px;\">\n        Hatem Paper core board is a cardboard type with high durability specially designed for packaging applications, produced with core cardboard technology. It offers ideal solutions for packaging applications with its high durability and special design features.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Our core board cardboard provides excellent durability thanks to its core structure while delivering professional results with its high quality. With these features, it provides perfect results especially for packaging, box and applications requiring high durability.\n    </p>\n    <p style=\"font-size: 16px;\">\n        With our sustainable production approach, we provide environmentally friendly core board solutions and supply the most suitable products for our customers' packaging needs.\n    </p>",
+    "ar": "<h2 style=\"font-size: 24px;\">لوح الأساس</h2>\n    <p style=\"font-size: 16px;\">\n        لوح الأساس من Hatem Paper هو نوع كرتون ذو متانة عالية مصمم خصيصاً لتطبيقات التعبئة والتغليف، يتم إنتاجه بتقنية الكرتون الأساسي. يقدم حلول مثالية لتطبيقات التعبئة والتغليف بمتانته العالية وميزات التصميم الخاص.\n    </p>\n    <p style=\"font-size: 16px;\">\n        كرتون لوح الأساس الخاص بنا يوفر متانة ممتازة بفضل هيكله الأساسي بينما يقدم نتائج مهنية بجودته العالية. بهذه الميزات، يوفر نتائج مثالية خاصة للتعبئة والتغليف والتطبيقات التي تتطلب متانة عالية.\n    </p>\n    <p style=\"font-size: 16px;\">\n        مع نهجنا في الإنتاج المستدام، نقدم حلول لوح الأساس صديقة للبيئة ونوفر المنتجات الأنسب لاحتياجات التعبئة والتغليف لعملائنا.\n    </p>"
   },
   "update": "2025-10-02T06:51:40.323Z",
   "date": "2025-10-02T06:30:49.932Z"

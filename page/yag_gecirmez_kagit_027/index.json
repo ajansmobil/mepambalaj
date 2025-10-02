@@ -11,7 +11,7 @@
   "path": "yag-gecirmez-kagit",
   "index": 26,
   "icon": "home",
-  "img": "grease_proof.png",
+  "img": "",
   "description": {
     "tr": "Hatem Paper yağ geçirmez kağıt: Yağ ve nem bariyeri, gıda ambalajı için özel tasarım, hijyenik üretim.",
     "en": "Hatem Paper grease proof paper: Oil and moisture barrier, special design for food packaging, hygienic production.",
@@ -24,10 +24,14 @@
   },
   "desc": {},
   "keyword": {
-    "tr": ""
+    "tr": "yağ geçirmez kağıt, grease proof paper, yağ ve nem bariyeri, gıda ambalajı, hijyenik üretim, Hatem Paper",
+    "en": "grease proof paper, oil and moisture barrier, food packaging, hygienic production, Hatem Paper",
+    "ar": "ورق مقاوم للدهون، حاجز للزيت والرطوبة، تعبئة الأغذية، إنتاج صحي، Hatem Paper"
   },
   "text": {
-    "tr": ""
+    "tr": "<h2 style=\"font-size: 24px;\">Yağ Geçirmez Kağıt</h2>\n    <p style=\"font-size: 16px;\">\n        Hatem Paper yağ geçirmez kağıt, yağ ve nem bariyeri özelliği ile üretilen gıda ambalajı için özel tasarım edilmiş hijyenik üretim süreçleri ile üretilen bir kağıt türüdür. Yağ ve nem bariyeri özellikleri ile gıda ambalajı için ideal çözümler sunar.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Yağ geçirmez kağıdımız, özel bariyer teknolojisi sayesinde mükemmel koruma sağlarken, hijyenik üretim süreçleri ile güvenli sonuçlar verir. Bu özellikleri ile özellikle gıda, ambalaj ve koruma gerektiren uygulamalar için mükemmel sonuçlar verir.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Sürdürülebilir üretim anlayışımızla, çevre dostu yağ geçirmez kağıt çözümleri sunarak, müşterilerimizin gıda ambalajı ihtiyaçlarına en uygun ürünleri temin ediyoruz.\n    </p>",
+    "en": "<h2 style=\"font-size: 24px;\">Grease Proof Paper</h2>\n    <p style=\"font-size: 16px;\">\n        Hatem Paper grease proof paper is a paper type specially designed for food packaging, produced with oil and moisture barrier properties and hygienic production processes. It offers ideal solutions for food packaging with its oil and moisture barrier features.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Our grease proof paper provides excellent protection thanks to its special barrier technology while delivering safe results with hygienic production processes. With these features, it provides perfect results especially for food, packaging and applications requiring protection.\n    </p>\n    <p style=\"font-size: 16px;\">\n        With our sustainable production approach, we provide environmentally friendly grease proof paper solutions and supply the most suitable products for our customers' food packaging needs.\n    </p>",
+    "ar": "<h2 style=\"font-size: 24px;\">ورق مقاوم للدهون</h2>\n    <p style=\"font-size: 16px;\">\n        ورق مقاوم للدهون من Hatem Paper هو نوع ورق مصمم خصيصاً لتعبئة الأغذية، يتم إنتاجه بخصائص حاجز الزيت والرطوبة وعمليات إنتاج صحية. يقدم حلول مثالية لتعبئة الأغذية بميزات حاجز الزيت والرطوبة.\n    </p>\n    <p style=\"font-size: 16px;\">\n        ورقنا المقاوم للدهون يوفر حماية ممتازة بفضل تقنية الحاجز الخاصة بينما يقدم نتائج آمنة مع عمليات الإنتاج الصحية. بهذه الميزات، يوفر نتائج مثالية خاصة للأغذية والتعبئة والتطبيقات التي تتطلب حماية.\n    </p>\n    <p style=\"font-size: 16px;\">\n        مع نهجنا في الإنتاج المستدام، نقدم حلول ورق مقاوم للدهون صديقة للبيئة ونوفر المنتجات الأنسب لاحتياجات تعبئة الأغذية لعملائنا.\n    </p>"
   },
   "update": "2025-10-02T06:51:40.327Z",
   "date": "2025-10-02T06:30:49.938Z"

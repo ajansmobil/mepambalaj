@@ -1,6 +1,6 @@
 {
   "name": {
-    "tr": "Hizmetlerimiz",
+    "tr": "Kutu ve Ambalajlar",
     "en": "Our Services",
     "ar": "خدماتنا"
   },
@@ -31,7 +31,7 @@
     "ar": "خدماتنا، حلول التعبئة والتغليف، تصميم مخصص، إنتاج عالي الجودة، رضا العملاء، خدمات MEP Ambalaj"
   },
   "text": {
-    "tr": "<h2 style=\"font-size: 24px;\">Hizmetlerimiz</h2>\n    <p style=\"font-size: 16px;\">\n        MEP Ambalaj olarak kapsamlı ambalaj çözümleri ve özel tasarım hizmetleri sunmaktayız. Kaliteli üretim süreçlerimizle müşteri memnuniyetini ön planda tutarak hizmet vermekteyiz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Farklı sektörlerin ihtiyaçlarına özel olarak tasarlanmış ambalaj çözümleri üretmekteyiz. Sürdürülebilir ve çevre dostu malzeme kullanımıyla kaliteli hizmet sunmaktayız.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Teknik destek ve müşteri hizmetleri ekibimizle size en iyi hizmeti sunmak için çalışmaktayız.\n    </p>",
+    "tr": "",
     "en": "<h2 style=\"font-size: 24px;\">Our Services</h2>\n    <p style=\"font-size: 16px;\">\n        As MEP Packaging, we offer comprehensive packaging solutions and custom design services. We provide service by prioritizing customer satisfaction with our quality production processes.\n    </p>\n    <p style=\"font-size: 16px;\">\n        We produce packaging solutions specially designed for the needs of different sectors. We provide quality service with sustainable and environmentally friendly material use.\n    </p>\n    <p style=\"font-size: 16px;\">\n        We work to provide you with the best service with our technical support and customer service team.\n    </p>",
     "ar": "<h2 style=\"font-size: 24px;\">خدماتنا</h2>\n    <p style=\"font-size: 16px;\">\n        بصفتنا MEP Ambalaj، نقدم حلول التعبئة والتغليف الشاملة وخدمات التصميم المخصص. نقدم الخدمة من خلال إعطاء الأولوية لرضا العملاء مع عمليات الإنتاج عالية الجودة.\n    </p>\n    <p style=\"font-size: 16px;\">\n        ننتج حلول التعبئة والتغليف المصممة خصيصاً لاحتياجات القطاعات المختلفة. نقدم خدمة عالية الجودة مع استخدام مواد مستدامة وصديقة للبيئة.\n    </p>\n    <p style=\"font-size: 16px;\">\n        نعمل على تقديم أفضل خدمة لك مع فريق الدعم التقني وخدمة العملاء.\n    </p>"
   },
@@ -40,6 +40,6 @@
     "en": "",
     "ar": ""
   },
-  "update": "2025-10-02T06:51:40.176Z",
+  "update": "2025-10-02T06:57:55.273Z",
   "date": "2025-10-01T08:33:30.310Z"
 }

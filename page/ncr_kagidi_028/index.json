@@ -11,7 +11,7 @@
   "path": "ncr-kagidi",
   "index": 27,
   "icon": "home",
-  "img": "ncr_paper.png",
+  "img": "",
   "description": {
     "tr": "Hatem Paper NCR kağıdı: Karbon kopya kağıdı, ofis uygulamaları için özel tasarım, yüksek kalite.",
     "en": "Hatem Paper NCR paper: Carbon copy paper, special design for office applications, high quality.",
@@ -24,10 +24,14 @@
   },
   "desc": {},
   "keyword": {
-    "tr": ""
+    "tr": "NCR kağıdı, karbon kopya kağıdı, ofis uygulamaları, yüksek kalite, Hatem Paper",
+    "en": "NCR paper, carbon copy paper, office applications, high quality, Hatem Paper",
+    "ar": "ورق NCR، ورق نسخ كربوني، تطبيقات مكتبية، جودة عالية، Hatem Paper"
   },
   "text": {
-    "tr": ""
+    "tr": "<h2 style=\"font-size: 24px;\">NCR Kağıdı</h2>\n    <p style=\"font-size: 16px;\">\n        Hatem Paper NCR kağıdı, karbon kopya teknolojisi ile üretilen ofis uygulamaları için özel tasarım edilmiş yüksek kaliteli bir kağıt türüdür. Yüksek kalite ve özel tasarım özellikleri ile ofis uygulamaları için ideal çözümler sunar.\n    </p>\n    <p style=\"font-size: 16px;\">\n        NCR kağıdımız, özel karbon kopya teknolojisi sayesinde mükemmel kopya kalitesi sağlarken, yüksek kalitesi ile profesyonel sonuçlar verir. Bu özellikleri ile özellikle ofis, ticari ve kopya gerektiren uygulamalar için mükemmel sonuçlar verir.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Sürdürülebilir üretim anlayışımızla, çevre dostu NCR kağıdı çözümleri sunarak, müşterilerimizin ofis ihtiyaçlarına en uygun ürünleri temin ediyoruz.\n    </p>",
+    "en": "<h2 style=\"font-size: 24px;\">NCR Paper</h2>\n    <p style=\"font-size: 16px;\">\n        Hatem Paper NCR paper is a high-quality paper type specially designed for office applications, produced with carbon copy technology. It offers ideal solutions for office applications with its high quality and special design features.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Our NCR paper provides excellent copy quality thanks to its special carbon copy technology while delivering professional results with its high quality. With these features, it provides perfect results especially for office, commercial and applications requiring copying.\n    </p>\n    <p style=\"font-size: 16px;\">\n        With our sustainable production approach, we provide environmentally friendly NCR paper solutions and supply the most suitable products for our customers' office needs.\n    </p>",
+    "ar": "<h2 style=\"font-size: 24px;\">ورق NCR</h2>\n    <p style=\"font-size: 16px;\">\n        ورق NCR من Hatem Paper هو نوع ورق عالي الجودة مصمم خصيصاً للتطبيقات المكتبية، يتم إنتاجه بتقنية النسخ الكربوني. يقدم حلول مثالية للتطبيقات المكتبية بجودته العالية وميزات التصميم الخاص.\n    </p>\n    <p style=\"font-size: 16px;\">\n        ورق NCR الخاص بنا يوفر جودة نسخ ممتازة بفضل تقنية النسخ الكربوني الخاصة بينما يقدم نتائج مهنية بجودته العالية. بهذه الميزات، يوفر نتائج مثالية خاصة للمكتب والتجاري والتطبيقات التي تتطلب نسخ.\n    </p>\n    <p style=\"font-size: 16px;\">\n        مع نهجنا في الإنتاج المستدام، نقدم حلول ورق NCR صديقة للبيئة ونوفر المنتجات الأنسب للاحتياجات المكتبية لعملائنا.\n    </p>"
   },
   "update": "2025-10-02T06:51:40.329Z",
   "date": "2025-10-02T06:30:49.941Z"

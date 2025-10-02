@@ -1,5 +1,5 @@
 
-  .meo6g {
+  .clsjr {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .meo6gtitle {
+  .clsjrtitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .meo6gtitlebody {
+  .clsjrtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .meo6gtitlebodytitle {
+  .clsjrtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .meo6gtitlebodylang {
+  .clsjrtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .meo6gtitlebodylang ul {
+  .clsjrtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .meo6gbody {
+  .clsjrbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .meo6gmenu {
+  .clsjrmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .meo6gmenulist {
+  .clsjrmenulist {
     width: calc(100% - 20px);
     background-color: #e31524;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .meo6gmenubody {
+  .clsjrmenubody {
     width: 100%;
     background-color: #e31524;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .meo6gmenulist ul {
+  .clsjrmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .meo6gmenulist ul a {
+  .clsjrmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -92,26 +92,26 @@
     white-space: nowrap;
   }
 
-  .meo6gmenulist ul a:hover {
+  .clsjrmenulist ul a:hover {
     background-color: #fff;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .meo6g-menu-list-active {
+  .clsjr-menu-list-active {
     background-color: #fff;
     border-radius: 5px;
       color: #000 !important;
     cursor: pointer;
   }
 
-  .meo6gmenulistbody {
+  .clsjrmenulistbody {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .meo6gbodylogo {
+    .clsjrbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -119,15 +119,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .meo6gmenu {
+    .clsjrmenu {
       overflow-x: auto;
     }
 
-    .meo6gmenulist ul {
+    .clsjrmenulist ul {
       flex-direction: row;
     }
 
-    .meo6gbodylogo {
+    .clsjrbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -135,7 +135,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .meo6gmenulist ul a {
+    .clsjrmenulist ul a {
       font-size: 14px;
     }
   }

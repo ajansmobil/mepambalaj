@@ -11,7 +11,7 @@
   "path": "gri-karton",
   "index": 25,
   "icon": "home",
-  "img": "grey_board.png",
+  "img": "",
   "description": {
     "tr": "Hatem Paper gri karton: Yüksek kaliteli gri karton, ambalaj uygulamaları için özel tasarım, dayanıklı yapı.",
     "en": "Hatem Paper grey board: High quality grey cardboard, special design for packaging applications, durable structure.",
@@ -24,10 +24,14 @@
   },
   "desc": {},
   "keyword": {
-    "tr": ""
+    "tr": "gri karton, grey board, yüksek kaliteli gri karton, ambalaj uygulamaları, dayanıklı yapı, Hatem Paper",
+    "en": "grey board, high quality grey cardboard, packaging applications, durable structure, Hatem Paper",
+    "ar": "كرتون رمادي، كرتون رمادي عالي الجودة، تطبيقات التعبئة والتغليف، هيكل متين، Hatem Paper"
   },
   "text": {
-    "tr": ""
+    "tr": "<h2 style=\"font-size: 24px;\">Gri Karton</h2>\n    <p style=\"font-size: 16px;\">\n        Hatem Paper gri karton, yüksek kaliteli gri karton teknolojisi ile üretilen ambalaj uygulamaları için özel tasarım edilmiş dayanıklı yapıya sahip bir karton türüdür. Yüksek kalite ve dayanıklı yapı özellikleri ile ambalaj uygulamaları için ideal çözümler sunar.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Gri kartonumuz, özel gri renk teknolojisi sayesinde mükemmel görsel kalite sağlarken, dayanıklı yapısı ile profesyonel sonuçlar verir. Bu özellikleri ile özellikle ambalaj, kutu ve gri renk gerektiren uygulamalar için mükemmel sonuçlar verir.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Sürdürülebilir üretim anlayışımızla, çevre dostu gri karton çözümleri sunarak, müşterilerimizin ambalaj ihtiyaçlarına en uygun ürünleri temin ediyoruz.\n    </p>",
+    "en": "<h2 style=\"font-size: 24px;\">Grey Board</h2>\n    <p style=\"font-size: 16px;\">\n        Hatem Paper grey board is a cardboard type with durable structure specially designed for packaging applications, produced with high-quality grey cardboard technology. It offers ideal solutions for packaging applications with its high quality and durable structure features.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Our grey board cardboard provides excellent visual quality thanks to its special grey color technology while delivering professional results with its durable structure. With these features, it provides perfect results especially for packaging, box and applications requiring grey color.\n    </p>\n    <p style=\"font-size: 16px;\">\n        With our sustainable production approach, we provide environmentally friendly grey board solutions and supply the most suitable products for our customers' packaging needs.\n    </p>",
+    "ar": "<h2 style=\"font-size: 24px;\">كرتون رمادي</h2>\n    <p style=\"font-size: 16px;\">\n        كرتون رمادي من Hatem Paper هو نوع كرتون لهيكل متين مصمم خصيصاً لتطبيقات التعبئة والتغليف، يتم إنتاجه بتقنية الكرتون الرمادي عالي الجودة. يقدم حلول مثالية لتطبيقات التعبئة والتغليف بجودته العالية وميزات الهيكل المتين.\n    </p>\n    <p style=\"font-size: 16px;\">\n        كرتوننا الرمادي يوفر جودة بصرية ممتازة بفضل تقنية اللون الرمادي الخاصة بينما يقدم نتائج مهنية بهيكله المتين. بهذه الميزات، يوفر نتائج مثالية خاصة للتعبئة والتغليف والتطبيقات التي تتطلب لون رمادي.\n    </p>\n    <p style=\"font-size: 16px;\">\n        مع نهجنا في الإنتاج المستدام، نقدم حلول كرتون رمادي صديقة للبيئة ونوفر المنتجات الأنسب لاحتياجات التعبئة والتغليف لعملائنا.\n    </p>"
   },
   "update": "2025-10-02T06:51:40.325Z",
   "date": "2025-10-02T06:30:49.934Z"

@@ -1,5 +1,5 @@
 
-  .deshi {
+  .mfigy {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .deshititle {
+  .mfigytitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .deshititlebody {
+  .mfigytitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .deshititlebodytitle {
+  .mfigytitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .deshititlebodylang {
+  .mfigytitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .deshititlebodylang ul {
+  .mfigytitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .deshibody {
+  .mfigybody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .deshimenu {
+  .mfigymenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .deshimenulist {
+  .mfigymenulist {
     width: calc(100% - 20px);
     background-color: #e31524;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .deshimenubody {
+  .mfigymenubody {
     width: 100%;
     background-color: #e31524;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .deshimenulist ul {
+  .mfigymenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .deshimenulist ul a {
+  .mfigymenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -92,26 +92,26 @@
     white-space: nowrap;
   }
 
-  .deshimenulist ul a:hover {
+  .mfigymenulist ul a:hover {
     background-color: #fff;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .deshi-menu-list-active {
+  .mfigy-menu-list-active {
     background-color: #fff;
     border-radius: 5px;
       color: #000 !important;
     cursor: pointer;
   }
 
-  .deshimenulistbody {
+  .mfigymenulistbody {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .deshibodylogo {
+    .mfigybodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -119,15 +119,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .deshimenu {
+    .mfigymenu {
       overflow-x: auto;
     }
 
-    .deshimenulist ul {
+    .mfigymenulist ul {
       flex-direction: row;
     }
 
-    .deshibodylogo {
+    .mfigybodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -135,7 +135,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .deshimenulist ul a {
+    .mfigymenulist ul a {
       font-size: 14px;
     }
   }
@@ -145,7 +145,7 @@
     justify-content: start;
   }
 
-  .buirw {
+  .eqyta {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
@@ -153,7 +153,7 @@
     position: relative;
   }
 
-  .buirw-menu-btn {
+  .eqyta-menu-btn {
     display: none;
     background-color: #000;
     padding: 10px 20px;
@@ -165,11 +165,11 @@
     align-items: center;
   }
 
-  .buirw-menu-btn i {
+  .eqyta-menu-btn i {
     font-size: 20px;
   }
 
-  .buirw-menu {
+  .eqyta-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -180,28 +180,28 @@
     float: left;
   }
 
-  .buirw-desc {
+  .eqyta-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .buirw-menu > a {
+  .eqyta-menu > a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .buirw-menu > .active,
-  .buirw-menu > a:hover {
+  .eqyta-menu > .active,
+  .eqyta-menu > a:hover {
     background-color: #000;
     color: #fff;
     display: flex;
   }
 
-  .buirw-desc-menu {
+  .eqyta-desc-menu {
     width: 200px;
     background-color: #000;
     display: flex;
@@ -209,19 +209,19 @@
     border-radius: 5px;
   }
 
-  .buirw-desc-menu > div {
+  .eqyta-desc-menu > div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .buirw-desc-body {
+  .eqyta-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .buirw-title {
+  .eqyta-title {
     width: 100%;
     height: 100px;
     background-color: #000;
@@ -234,7 +234,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .buirw-title::before {
+  .eqyta-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -249,44 +249,44 @@
     z-index: 1;
   }
 
-  .buirw-title span {
+  .eqyta-title span {
     position: relative;
     z-index: 2;
     font-size: 32px;
   }
 
-  .buirw-body {
+  .eqyta-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
     text-align: left;
   }
 
-  .buirw-img {
+  .eqyta-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .buirw-img img {
+  .eqyta-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .buirw-desc {
+    .eqyta-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .buirw-menu-btn {
+    .eqyta-menu-btn {
       display: flex;
       width: calc(100% - 55px);
       margin-left: 5px;
     }
 
-    .buirw {
+    .eqyta {
       display: flex;
       flex-direction: column;
       width: 100%;
@@ -295,17 +295,17 @@
       margin-top: 0px;
     }
 
-    .buirw-img {
+    .eqyta-img {
       width: 100%;
     }
 
-    .buirw-body {
+    .eqyta-body {
       width: 100%;
       order: 3;
       padding: 10px;
     }
 
-    .buirw-menu {
+    .eqyta-menu {
       width: 100%;
       float: none;
       flex-direction: column;
@@ -313,11 +313,11 @@
       display: none;
     }
 
-    .buirw-menu.active {
+    .eqyta-menu.active {
       display: flex;
     }
 
-    .buirw-desc {
+    .eqyta-desc {
       width: 100% !important;
       order: 2;
     }

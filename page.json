@@ -35,9 +35,9 @@
     },
     {
       "name": {
-        "tr": "Hizmetlerimiz",
-        "en": "Our Services",
-        "ar": "خدماتنا"
+        "tr": "Kutu ve Ambalajlar",
+        "en": "Boxes and Packaging",
+        "ar": "الصناديق والتعبئة"
       },
       "status": "play",
       "category": "",
@@ -69,8 +69,8 @@
     {
       "name": {
         "tr": "Makinalarımız",
-        "en": "",
-        "ar": ""
+        "en": "Our Machines",
+        "ar": "آلاتنا"
       },
       "status": "play",
       "category": "",
@@ -86,9 +86,9 @@
       },
       "pathnext": "",
       "description": {
-        "tr": "",
-        "en": "",
-        "ar": ""
+        "tr": "MEP Ambalaj makinalarımız: Modern üretim teknolojileri, yüksek kapasiteli makineler ve otomatik üretim sistemleri. Kaliteli üretim için gerekli tüm ekipmanlar.",
+        "en": "MEP Packaging machines: Modern production technologies, high capacity machines and automated production systems. All necessary equipment for quality production.",
+        "ar": "آلات MEP Ambalaj: تقنيات الإنتاج الحديثة، آلات عالية السعة وأنظمة إنتاج آلية. جميع المعدات اللازمة للإنتاج عالي الجودة."
       },
       "spot": {
         "tr": "",
@@ -100,8 +100,8 @@
     {
       "name": {
         "tr": "Kağıtlarımız",
-        "en": "",
-        "ar": ""
+        "en": "Our Papers",
+        "ar": "أوراقنا"
       },
       "status": "play",
       "category": "",
@@ -117,10 +117,14 @@
       },
       "pathnext": "",
       "description": {
-        "tr": ""
+        "tr": "MEP Ambalaj kağıtlarımız: Yüksek kaliteli kağıt ürünleri, çeşitli gramaj ve boyut seçenekleri. Profesyonel baskı ve ambalaj uygulamaları için ideal çözümler.",
+        "en": "MEP Packaging papers: High quality paper products, various grammage and size options. Ideal solutions for professional printing and packaging applications.",
+        "ar": "أوراق MEP Ambalaj: منتجات ورقية عالية الجودة، خيارات وزن وأحجام متنوعة. حلول مثالية لتطبيقات الطباعة المهنية والتعبئة والتغليف."
       },
       "spot": {
-        "tr": ""
+        "tr": "",
+        "en": "",
+        "ar": ""
       },
       "desc": {}
     },

@@ -1,15 +1,14 @@
 {
   "name": {
-    "tr": "High Speed Computerized Printer",
-    "en": "",
-    "ar": ""
+    "tr": "Yüksek Hızlı Bilgisayarlı Yazıcı",
+    "en": "High Speed Computerized Printer",
+    "ar": "طابعة عالية السرعة محوسبة"
   },
   "status": "play",
   "category": "",
   "id": "jp7c5gzox5",
   "url": "",
   "path": "high-speed-computerized-printer",
-  "desc": {},
   "index": 2,
   "icon": "home",
   "desing": {
@@ -19,17 +18,25 @@
   },
   "pathnext": "",
   "description": {
-    "tr": ""
-  },
-  "keyword": {
-    "tr": ""
-  },
-  "text": {
-    "tr": ""
+    "tr": "MEP Ambalaj yüksek hızlı bilgisayarlı yazıcı: Yüksek hızda ve hassas baskı kalitesi ile üretim. Bilgisayar kontrollü otomatik baskı sistemi.",
+    "en": "MEP Packaging high speed computerized printer: High speed and precise print quality production. Computer controlled automatic printing system.",
+    "ar": "طابعة عالية السرعة محوسبة MEP Ambalaj: إنتاج عالي السرعة ودقة في جودة الطباعة. نظام طباعة آلي محوسب."
   },
   "spot": {
-    "tr": ""
+    "tr": "",
+    "en": "",
+    "ar": ""
   },
-  "update": "2025-10-02T06:51:40.338Z",
-  "date": "2025-10-02T06:50:32.546Z"
+  "desc": {},
+  "keyword": {
+    "tr": "yüksek hızlı yazıcı, bilgisayarlı yazıcı, otomatik baskı, yüksek kalite, MEP Ambalaj",
+    "en": "high speed printer, computerized printer, automatic printing, high quality, MEP Packaging",
+    "ar": "طابعة عالية السرعة، طابعة محوسبة، طباعة آلية، جودة عالية، MEP Ambalaj"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Yüksek Hızlı Bilgisayarlı Yazıcı</h2>\n    <p style=\"font-size: 16px;\">\n        MEP Ambalaj yüksek hızlı bilgisayarlı yazıcı, yüksek hızda ve hassas baskı kalitesi ile üretim yapan modern bir makinedir. Bilgisayar kontrollü otomatik baskı sistemi ile verimli çalışma sağlar.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Bu makine, çeşitli malzemeler üzerinde yüksek kaliteli baskı yapabilir. Otomatik besleme sistemi sayesinde kesintisiz üretim imkanı sunar.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Modern yazılım teknolojisi ile donatılmış bu makine, karmaşık tasarımları bile hassas bir şekilde basabilir. Müşteri ihtiyaçlarına göre özelleştirilebilir baskı seçenekleri sunar.\n    </p>",
+    "en": "<h2 style=\"font-size: 24px;\">High Speed Computerized Printer</h2>\n    <p style=\"font-size: 16px;\">\n        MEP Packaging high speed computerized printer is a modern machine that produces with high speed and precise print quality. It provides efficient operation with computer controlled automatic printing system.\n    </p>\n    <p style=\"font-size: 16px;\">\n        This machine can perform high quality printing on various materials. It offers uninterrupted production opportunity thanks to automatic feeding system.\n    </p>\n    <p style=\"font-size: 16px;\">\n        This machine equipped with modern software technology can even print complex designs precisely. It offers customizable printing options according to customer needs.\n    </p>",
+    "ar": "<h2 style=\"font-size: 24px;\">طابعة عالية السرعة محوسبة</h2>\n    <p style=\"font-size: 16px;\">\n        طابعة عالية السرعة محوسبة MEP Ambalaj هي آلة حديثة تنتج بسرعة عالية وجودة طباعة دقيقة. توفر تشغيل فعال مع نظام طباعة آلي محوسب.\n    </p>\n    <p style=\"font-size: 16px;\">\n        هذه الآلة يمكنها أداء طباعة عالية الجودة على مواد متنوعة. تقدم فرصة إنتاج غير منقطعة بفضل نظام التغذية الآلي.\n    </p>\n    <p style=\"font-size: 16px;\">\n        هذه الآلة المجهزة بتقنية البرمجيات الحديثة يمكنها حتى طباعة التصاميم المعقدة بدقة. تقدم خيارات طباعة قابلة للتخصيص حسب احتياجات العملاء.\n    </p>"
+  },
+  "img": "a4c7i.png"
 }

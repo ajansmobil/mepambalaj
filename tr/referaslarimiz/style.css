@@ -1,5 +1,5 @@
 
-  .ve2s2 {
+  .gv4od {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .ve2s2title {
+  .gv4odtitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .ve2s2titlebody {
+  .gv4odtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .ve2s2titlebodytitle {
+  .gv4odtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .ve2s2titlebodylang {
+  .gv4odtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .ve2s2titlebodylang ul {
+  .gv4odtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .ve2s2body {
+  .gv4odbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .ve2s2menu {
+  .gv4odmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .ve2s2menulist {
+  .gv4odmenulist {
     width: calc(100% - 20px);
     background-color: #e31524;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .ve2s2menubody {
+  .gv4odmenubody {
     width: 100%;
     background-color: #e31524;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .ve2s2menulist ul {
+  .gv4odmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .ve2s2menulist ul a {
+  .gv4odmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -92,26 +92,26 @@
     white-space: nowrap;
   }
 
-  .ve2s2menulist ul a:hover {
+  .gv4odmenulist ul a:hover {
     background-color: #fff;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .ve2s2-menu-list-active {
+  .gv4od-menu-list-active {
     background-color: #fff;
     border-radius: 5px;
       color: #000 !important;
     cursor: pointer;
   }
 
-  .ve2s2menulistbody {
+  .gv4odmenulistbody {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .ve2s2bodylogo {
+    .gv4odbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -119,15 +119,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .ve2s2menu {
+    .gv4odmenu {
       overflow-x: auto;
     }
 
-    .ve2s2menulist ul {
+    .gv4odmenulist ul {
       flex-direction: row;
     }
 
-    .ve2s2bodylogo {
+    .gv4odbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -135,25 +135,25 @@
   }
 
   @media screen and (max-width: 768px) {
-    .ve2s2menulist ul a {
+    .gv4odmenulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .zuyyn {
+  .va119 {
     margin-top: 30px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .zuyynbody {
+  .va119body {
     width: var(--max);
     display: grid;
     gap: 15px;
     grid-template-columns: repeat(4, 1fr);
   }
-  .zuyynbodyitem {
+  .va119bodyitem {
     cursor: pointer;
     background-color: #e9e9e9;
     border-radius: 8px;
@@ -169,22 +169,22 @@
     align-items: center;
     justify-content: center;
   }
-  .zuyynbodyitem:hover {
+  .va119bodyitem:hover {
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
     transform: translateY(-3px);
   }
-  .zuyynbodyitemimg {
+  .va119bodyitemimg {
     display: flex;
     justify-content: center;
     align-items: center;
   }
-  .zuyynbodyitemimg img {
+  .va119bodyitemimg img {
     width: 100%;
     height: auto;
     object-fit: cover;
     border-radius: 5px;
   }
-  .zuyynbodyitemtitle {
+  .va119bodyitemtitle {
     padding: 8px;
     background-color: #e5e5e5;
     text-align: center;
@@ -193,14 +193,14 @@
     font-size: 16px;
   }
   @media screen and (max-width: 1024px) {
-    .zuyynbody {
+    .va119body {
       width: calc(100% - 20px);
       margin: 0 10px;
       grid-template-columns: repeat(3, 1fr);
     }
   }
   @media screen and (max-width: 768px) {
-    .zuyynbody {
+    .va119body {
       width: calc(100% - 20px);
       margin: 0 10px;
       grid-template-columns: repeat(2, 1fr);

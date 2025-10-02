@@ -5,9 +5,9 @@
   "data": [
     {
       "name": {
-        "tr": "Carton Box Making Machine With In-line Folder Gluer",
-        "en": "",
-        "ar": ""
+        "tr": "Karton Kutu Yapım Makinesi İnline Katlama Yapıştırma",
+        "en": "Carton Box Making Machine With In-line Folder Gluer",
+        "ar": "آلة صنع صناديق الكرتون مع طي ولصق متصل"
       },
       "status": "play",
       "category": "",
@@ -27,13 +27,15 @@
       "spot": {
         "tr": ""
       },
-      "desc": {}
+      "desc": {},
+      "icon": "home",
+      "img": "dm6gg.png"
     },
     {
       "name": {
-        "tr": "High Graphic Printer Varnish Dryer",
-        "en": "",
-        "ar": ""
+        "tr": "Yüksek Grafikli Yazıcı Vernik Kurutucu",
+        "en": "High Graphic Printer Varnish Dryer",
+        "ar": "مجفف الورنيش للطابعة عالية الجرافيك"
       },
       "status": "play",
       "category": "",
@@ -54,13 +56,14 @@
       "spot": {
         "tr": ""
       },
-      "desc": {}
+      "desc": {},
+      "img": "l9h30.png"
     },
     {
       "name": {
-        "tr": "High Speed Computerized Printer",
-        "en": "",
-        "ar": ""
+        "tr": "Yüksek Hızlı Bilgisayarlı Yazıcı",
+        "en": "High Speed Computerized Printer",
+        "ar": "طابعة عالية السرعة محوسبة"
       },
       "status": "play",
       "category": "",
@@ -81,13 +84,14 @@
       "spot": {
         "tr": ""
       },
-      "desc": {}
+      "desc": {},
+      "img": "a4c7i.png"
     },
     {
       "name": {
-        "tr": "Automatic Pre-Feeder Machine",
-        "en": "",
-        "ar": ""
+        "tr": "Otomatik Ön Besleme Makinesi",
+        "en": "Automatic Pre-Feeder Machine",
+        "ar": "آلة التغذية المسبقة الأوتوماتيكية"
       },
       "status": "play",
       "category": "",
@@ -108,13 +112,14 @@
       "spot": {
         "tr": ""
       },
-      "desc": {}
+      "desc": {},
+      "img": "sqxea.png"
     },
     {
       "name": {
-        "tr": "Xieyang Machinery (Guangdong) Co.,Ltd.",
-        "en": "",
-        "ar": ""
+        "tr": "Xieyang Makine (Guangdong) A.Ş.",
+        "en": "Xieyang Machinery (Guangdong) Co.,Ltd.",
+        "ar": "شركة Xieyang للآلات (Guangdong) المحدودة"
       },
       "status": "play",
       "category": "",
@@ -135,7 +140,8 @@
       "spot": {
         "tr": ""
       },
-      "desc": {}
+      "desc": {},
+      "img": "xlnlo.png"
     }
   ],
   "index": 4,

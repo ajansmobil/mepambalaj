@@ -69,8 +69,8 @@
     {
       "name": {
         "tr": "Makinalarımız",
-        "en": "Our Machines",
-        "ar": "آلاتنا"
+        "en": "",
+        "ar": ""
       },
       "status": "play",
       "category": "",
@@ -81,14 +81,16 @@
       "icon": "home",
       "desing": {
         "header": [],
-        "body": [],
+        "body": [
+          "vhi6fj3"
+        ],
         "footer": []
       },
       "pathnext": "",
       "description": {
-        "tr": "MEP Ambalaj makinalarımız: Modern üretim teknolojileri, yüksek kapasiteli makineler ve otomatik üretim sistemleri. Kaliteli üretim için gerekli tüm ekipmanlar.",
-        "en": "MEP Packaging machines: Modern production technologies, high capacity machines and automated production systems. All necessary equipment for quality production.",
-        "ar": "آلات MEP Ambalaj: تقنيات الإنتاج الحديثة، آلات عالية السعة وأنظمة إنتاج آلية. جميع المعدات اللازمة للإنتاج عالي الجودة."
+        "tr": "",
+        "en": "",
+        "ar": ""
       },
       "spot": {
         "tr": "",

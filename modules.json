@@ -135,6 +135,25 @@
     },
     {
       "index": 7,
+      "name": "Makinalarımız",
+      "path": "page-column",
+      "local": "body",
+      "category": "page list",
+      "desing": {
+        "page": "makinalarimiz",
+        "bgcolor": "#e31524",
+        "color": "#fff",
+        "height": "200px",
+        "font-size": "18px",
+        "opacity": "0.5",
+        "chilebgcolor": "#000",
+        "chilecolor": "#fff",
+        "chilesize": "16px"
+      },
+      "id": "nzx31c"
+    },
+    {
+      "index": 8,
       "name": "Module Listesi Kare",
       "path": "module-list",
       "local": "body",
@@ -198,7 +217,7 @@
       "id": "twgv9d"
     },
     {
-      "index": 8,
+      "index": 9,
       "name": "Tanıtım Modülü",
       "path": "module-1",
       "local": "body",
@@ -245,7 +264,7 @@
       "id": "w5hk74"
     },
     {
-      "index": 9,
+      "index": 10,
       "name": "Kutu ve Ambalaj",
       "path": "page-slider-5",
       "local": "body",
@@ -268,7 +287,7 @@
       "id": "vhi6fj"
     },
     {
-      "index": 10,
+      "index": 11,
       "name": "Kağıtlarımız",
       "path": "page-slider-6",
       "local": "body",
@@ -291,7 +310,7 @@
       "id": "vhi6fj2"
     },
     {
-      "index": 11,
+      "index": 12,
       "name": "Makinalarımız",
       "path": "page-slider-5",
       "local": "body",

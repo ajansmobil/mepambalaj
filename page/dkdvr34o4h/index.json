@@ -1,15 +1,14 @@
 {
   "name": {
-    "tr": "High Graphic Printer Varnish Dryer",
-    "en": "",
-    "ar": ""
+    "tr": "Yüksek Grafikli Yazıcı Vernik Kurutucu",
+    "en": "High Graphic Printer Varnish Dryer",
+    "ar": "مجفف الورنيش للطابعة عالية الجرافيك"
   },
   "status": "play",
   "category": "",
   "id": "dkdvr34o4h",
   "url": "",
   "path": "high-graphic-printer-varnish-dryer",
-  "desc": {},
   "index": 1,
   "icon": "home",
   "desing": {
@@ -19,17 +18,25 @@
   },
   "pathnext": "",
   "description": {
-    "tr": ""
-  },
-  "keyword": {
-    "tr": ""
-  },
-  "text": {
-    "tr": ""
+    "tr": "MEP Ambalaj yüksek grafikli yazıcı vernik kurutucu: Yüksek kaliteli baskı sonrası vernik kurutma işlemi. Hızlı kurutma teknolojisi ve verimli üretim.",
+    "en": "MEP Packaging high graphic printer varnish dryer: High quality varnish drying process after printing. Fast drying technology and efficient production.",
+    "ar": "مجفف الورنيش للطابعة عالية الجرافيك MEP Ambalaj: عملية تجفيف الورنيش عالية الجودة بعد الطباعة. تقنية التجفيف السريع والإنتاج الفعال."
   },
   "spot": {
-    "tr": ""
+    "tr": "",
+    "en": "",
+    "ar": ""
   },
-  "update": "2025-10-02T06:51:40.336Z",
-  "date": "2025-10-02T06:50:24.745Z"
+  "desc": {},
+  "keyword": {
+    "tr": "yüksek grafikli yazıcı, vernik kurutucu, baskı sonrası işlem, hızlı kurutma, MEP Ambalaj",
+    "en": "high graphic printer, varnish dryer, post-printing process, fast drying, MEP Packaging",
+    "ar": "طابعة عالية الجرافيك، مجفف الورنيش، معالجة ما بعد الطباعة، تجفيف سريع، MEP Ambalaj"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Yüksek Grafikli Yazıcı Vernik Kurutucu</h2>\n    <p style=\"font-size: 16px;\">\n        MEP Ambalaj yüksek grafikli yazıcı vernik kurutucu, baskı sonrası vernik kurutma işlemi için özel tasarlanmış yüksek teknoloji bir makinedir. Hızlı kurutma teknolojisi ile verimli üretim sağlar.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Bu makine, yüksek kaliteli baskıların verniklenmesi ve kurutulması işlemlerini otomatik olarak gerçekleştirir. Hızlı kurutma sayesinde üretim hızını artırır ve kaliteyi korur.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Modern kurutma teknolojisi ile donatılmış bu makine, çeşitli vernik türleri için idealdir. Enerji tasarrufu sağlarken yüksek performans gösterir.\n    </p>",
+    "en": "<h2 style=\"font-size: 24px;\">High Graphic Printer Varnish Dryer</h2>\n    <p style=\"font-size: 16px;\">\n        MEP Packaging high graphic printer varnish dryer is a high-tech machine specially designed for varnish drying process after printing. It provides efficient production with fast drying technology.\n    </p>\n    <p style=\"font-size: 16px;\">\n        This machine automatically performs the varnishing and drying processes of high quality prints. It increases production speed and maintains quality thanks to fast drying.\n    </p>\n    <p style=\"font-size: 16px;\">\n        This machine equipped with modern drying technology is ideal for various varnish types. It shows high performance while providing energy savings.\n    </p>",
+    "ar": "<h2 style=\"font-size: 24px;\">مجفف الورنيش للطابعة عالية الجرافيك</h2>\n    <p style=\"font-size: 16px;\">\n        مجفف الورنيش للطابعة عالية الجرافيك MEP Ambalaj هو آلة عالية التقنية مصممة خصيصاً لعملية تجفيف الورنيش بعد الطباعة. يوفر إنتاج فعال مع تقنية التجفيف السريع.\n    </p>\n    <p style=\"font-size: 16px;\">\n        هذه الآلة تقوم تلقائياً بعمليات الورنيش والتجفيف للطباعات عالية الجودة. تزيد من سرعة الإنتاج وتحافظ على الجودة بفضل التجفيف السريع.\n    </p>\n    <p style=\"font-size: 16px;\">\n        هذه الآلة المجهزة بتقنية التجفيف الحديثة مثالية لأنواع الورنيش المختلفة. تُظهر أداء عالي مع توفير الطاقة.\n    </p>"
+  },
+  "img": "l9h30.png"
 }

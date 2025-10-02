@@ -1,15 +1,14 @@
 {
   "name": {
-    "tr": "Xieyang Machinery (Guangdong) Co.,Ltd.",
-    "en": "",
-    "ar": ""
+    "tr": "Xieyang Makine (Guangdong) A.Ş.",
+    "en": "Xieyang Machinery (Guangdong) Co.,Ltd.",
+    "ar": "شركة Xieyang للآلات (Guangdong) المحدودة"
   },
   "status": "play",
   "category": "",
   "id": "wskskl86uf",
   "url": "",
   "path": "xieyang-machinery-guangdong-coltd",
-  "desc": {},
   "index": 4,
   "icon": "home",
   "desing": {
@@ -19,17 +18,25 @@
   },
   "pathnext": "",
   "description": {
-    "tr": ""
-  },
-  "keyword": {
-    "tr": ""
-  },
-  "text": {
-    "tr": ""
+    "tr": "MEP Ambalaj Xieyang Makine işbirliği: Guangdong merkezli makine üreticisi ile stratejik ortaklık. Yüksek kaliteli makine teknolojileri ve teknik destek.",
+    "en": "MEP Packaging Xieyang Machinery partnership: Strategic partnership with Guangdong-based machine manufacturer. High quality machine technologies and technical support.",
+    "ar": "شراكة MEP Ambalaj مع Xieyang للآلات: شراكة استراتيجية مع مصنع آلات مقره في Guangdong. تقنيات آلات عالية الجودة والدعم التقني."
   },
   "spot": {
-    "tr": ""
+    "tr": "",
+    "en": "",
+    "ar": ""
   },
-  "update": "2025-10-02T06:51:40.342Z",
-  "date": "2025-10-02T06:50:54.002Z"
+  "desc": {},
+  "keyword": {
+    "tr": "Xieyang Makine, Guangdong, makine üreticisi, stratejik ortaklık, teknik destek, MEP Ambalaj",
+    "en": "Xieyang Machinery, Guangdong, machine manufacturer, strategic partnership, technical support, MEP Packaging",
+    "ar": "Xieyang للآلات، Guangdong، مصنع آلات، شراكة استراتيجية، دعم تقني، MEP Ambalaj"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Xieyang Makine (Guangdong) A.Ş.</h2>\n    <p style=\"font-size: 16px;\">\n        MEP Ambalaj Xieyang Makine işbirliği, Guangdong merkezli makine üreticisi ile stratejik ortaklık kurmuştur. Yüksek kaliteli makine teknolojileri ve teknik destek sağlar.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Bu işbirliği sayesinde, en son makine teknolojilerine erişim sağlanır. Uzman teknik ekibi ile sürekli destek ve danışmanlık hizmetleri sunulur.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Xieyang Makine'nin deneyimi ve MEP Ambalaj'ın sektör bilgisi birleşerek, müşterilere en iyi çözümler sunulur. Kaliteli üretim ve müşteri memnuniyeti odaklı hizmet anlayışı benimsenir.\n    </p>",
+    "en": "<h2 style=\"font-size: 24px;\">Xieyang Machinery (Guangdong) Co.,Ltd.</h2>\n    <p style=\"font-size: 16px;\">\n        MEP Packaging Xieyang Machinery partnership has established a strategic partnership with Guangdong-based machine manufacturer. It provides high quality machine technologies and technical support.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Thanks to this partnership, access to the latest machine technologies is provided. Continuous support and consulting services are offered with expert technical team.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Combining Xieyang Machinery's experience and MEP Packaging's industry knowledge, the best solutions are offered to customers. Quality production and customer satisfaction focused service approach is adopted.\n    </p>",
+    "ar": "<h2 style=\"font-size: 24px;\">شركة Xieyang للآلات (Guangdong) المحدودة</h2>\n    <p style=\"font-size: 16px;\">\n        شراكة MEP Ambalaj مع Xieyang للآلات أقامت شراكة استراتيجية مع مصنع آلات مقره في Guangdong. توفر تقنيات آلات عالية الجودة والدعم التقني.\n    </p>\n    <p style=\"font-size: 16px;\">\n        بفضل هذه الشراكة، يتم توفير الوصول إلى أحدث تقنيات الآلات. يتم تقديم الدعم المستمر وخدمات الاستشارة مع فريق تقني متخصص.\n    </p>\n    <p style=\"font-size: 16px;\">\n        بجمع خبرة Xieyang للآلات ومعرفة MEP Ambalaj الصناعية، يتم تقديم أفضل الحلول للعملاء. يتم تبني نهج خدمة يركز على الإنتاج عالي الجودة ورضا العملاء.\n    </p>"
+  },
+  "img": "xlnlo.png"
 }

@@ -1,5 +1,5 @@
 
-  .ulisn {
+  .zaxy0 {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .ulisntitle {
+  .zaxy0title {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .ulisntitlebody {
+  .zaxy0titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .ulisntitlebodytitle {
+  .zaxy0titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .ulisntitlebodylang {
+  .zaxy0titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .ulisntitlebodylang ul {
+  .zaxy0titlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .ulisnbody {
+  .zaxy0body {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .ulisnmenu {
+  .zaxy0menu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .ulisnmenulist {
+  .zaxy0menulist {
     width: calc(100% - 20px);
     background-color: #e31524;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .ulisnmenubody {
+  .zaxy0menubody {
     width: 100%;
     background-color: #e31524;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .ulisnmenulist ul {
+  .zaxy0menulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .ulisnmenulist ul a {
+  .zaxy0menulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -92,26 +92,26 @@
     white-space: nowrap;
   }
 
-  .ulisnmenulist ul a:hover {
+  .zaxy0menulist ul a:hover {
     background-color: #fff;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .ulisn-menu-list-active {
+  .zaxy0-menu-list-active {
     background-color: #fff;
     border-radius: 5px;
       color: #000 !important;
     cursor: pointer;
   }
 
-  .ulisnmenulistbody {
+  .zaxy0menulistbody {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .ulisnbodylogo {
+    .zaxy0bodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -119,15 +119,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .ulisnmenu {
+    .zaxy0menu {
       overflow-x: auto;
     }
 
-    .ulisnmenulist ul {
+    .zaxy0menulist ul {
       flex-direction: row;
     }
 
-    .ulisnbodylogo {
+    .zaxy0bodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -135,27 +135,27 @@
   }
 
   @media screen and (max-width: 768px) {
-    .ulisnmenulist ul a {
+    .zaxy0menulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .xtv82 {
+  .efnwb {
     margin-top: 20px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
 
-  .xtv82-body {
+  .efnwb-body {
     width: var(--max);
     display: grid;
     gap: 10px;
     grid-template-columns: repeat(4, 1fr);
   }
 
-  .xtv82-body-item {
+  .efnwb-body-item {
     aspect-ratio: 7 / 4;
     background-color: #f2f2f2;
     border-radius: 5px;
@@ -166,7 +166,7 @@
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
   }
 
-  .xtv82-body-item-img {
+  .efnwb-body-item-img {
     aspect-ratio: 12 / 8;
     display: flex;
     justify-content: center;
@@ -177,7 +177,7 @@
     /* Taşma durumunda kesme */
   }
 
-  .xtv82-body-item-img img {
+  .efnwb-body-item-img img {
     width: 100%;
     height: 100%;
     object-fit: contain;
@@ -185,7 +185,7 @@
     border-radius: 5px;
   }
 
-  .xtv82-body-item-title {
+  .efnwb-body-item-title {
     border-radius: 3px;
     padding: 5px;
     background-color: #e9e9e9;
@@ -198,7 +198,7 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .xtv82-body {
+    .efnwb-body {
       width: calc(100% - 10px);
       margin: 0px 5px 0px 5px;
       grid-template-columns: repeat(3, 1fr);
@@ -206,7 +206,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .xtv82-body {
+    .efnwb-body {
       width: calc(100% - 10px);
       margin: 0px 5px 0px 5px;
       grid-template-columns: repeat(2, 1fr);

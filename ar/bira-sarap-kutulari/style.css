@@ -1,5 +1,5 @@
 
-  .ba6uo {
+  .t4npc {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .ba6uotitle {
+  .t4npctitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .ba6uotitlebody {
+  .t4npctitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .ba6uotitlebodytitle {
+  .t4npctitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .ba6uotitlebodylang {
+  .t4npctitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .ba6uotitlebodylang ul {
+  .t4npctitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .ba6uobody {
+  .t4npcbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .ba6uomenu {
+  .t4npcmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .ba6uomenulist {
+  .t4npcmenulist {
     width: calc(100% - 20px);
     background-color: #e31524;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .ba6uomenubody {
+  .t4npcmenubody {
     width: 100%;
     background-color: #e31524;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .ba6uomenulist ul {
+  .t4npcmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .ba6uomenulist ul a {
+  .t4npcmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -92,26 +92,26 @@
     white-space: nowrap;
   }
 
-  .ba6uomenulist ul a:hover {
+  .t4npcmenulist ul a:hover {
     background-color: #fff;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .ba6uo-menu-list-active {
+  .t4npc-menu-list-active {
     background-color: #fff;
     border-radius: 5px;
       color: #000 !important;
     cursor: pointer;
   }
 
-  .ba6uomenulistbody {
+  .t4npcmenulistbody {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .ba6uobodylogo {
+    .t4npcbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -119,15 +119,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .ba6uomenu {
+    .t4npcmenu {
       overflow-x: auto;
     }
 
-    .ba6uomenulist ul {
+    .t4npcmenulist ul {
       flex-direction: row;
     }
 
-    .ba6uobodylogo {
+    .t4npcbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -135,7 +135,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .ba6uomenulist ul a {
+    .t4npcmenulist ul a {
       font-size: 14px;
     }
   }
@@ -145,7 +145,7 @@
     justify-content: start;
   }
 
-  .byipa {
+  .g7rpg {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
@@ -153,7 +153,7 @@
     position: relative;
   }
 
-  .byipa-menu-btn {
+  .g7rpg-menu-btn {
     display: none;
     background-color: #000;
     padding: 10px 20px;
@@ -165,11 +165,11 @@
     align-items: center;
   }
 
-  .byipa-menu-btn i {
+  .g7rpg-menu-btn i {
     font-size: 20px;
   }
 
-  .byipa-menu {
+  .g7rpg-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -180,28 +180,28 @@
     float: left;
   }
 
-  .byipa-desc {
+  .g7rpg-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .byipa-menu > a {
+  .g7rpg-menu > a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .byipa-menu > .active,
-  .byipa-menu > a:hover {
+  .g7rpg-menu > .active,
+  .g7rpg-menu > a:hover {
     background-color: #000;
     color: #fff;
     display: flex;
   }
 
-  .byipa-desc-menu {
+  .g7rpg-desc-menu {
     width: 200px;
     background-color: #000;
     display: flex;
@@ -209,19 +209,19 @@
     border-radius: 5px;
   }
 
-  .byipa-desc-menu > div {
+  .g7rpg-desc-menu > div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .byipa-desc-body {
+  .g7rpg-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .byipa-title {
+  .g7rpg-title {
     width: 100%;
     height: 100px;
     background-color: #000;
@@ -234,7 +234,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .byipa-title::before {
+  .g7rpg-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -249,44 +249,44 @@
     z-index: 1;
   }
 
-  .byipa-title span {
+  .g7rpg-title span {
     position: relative;
     z-index: 2;
     font-size: 32px;
   }
 
-  .byipa-body {
+  .g7rpg-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
     text-align: left;
   }
 
-  .byipa-img {
+  .g7rpg-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .byipa-img img {
+  .g7rpg-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .byipa-desc {
+    .g7rpg-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .byipa-menu-btn {
+    .g7rpg-menu-btn {
       display: flex;
       width: calc(100% - 55px);
       margin-left: 5px;
     }
 
-    .byipa {
+    .g7rpg {
       display: flex;
       flex-direction: column;
       width: 100%;
@@ -295,17 +295,17 @@
       margin-top: 0px;
     }
 
-    .byipa-img {
+    .g7rpg-img {
       width: 100%;
     }
 
-    .byipa-body {
+    .g7rpg-body {
       width: 100%;
       order: 3;
       padding: 10px;
     }
 
-    .byipa-menu {
+    .g7rpg-menu {
       width: 100%;
       float: none;
       flex-direction: column;
@@ -313,11 +313,11 @@
       display: none;
     }
 
-    .byipa-menu.active {
+    .g7rpg-menu.active {
       display: flex;
     }
 
-    .byipa-desc {
+    .g7rpg-desc {
       width: 100% !important;
       order: 2;
     }

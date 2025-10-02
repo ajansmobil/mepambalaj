@@ -1,5 +1,5 @@
 
-  .vuz71 {
+  .yg8xi {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .vuz71title {
+  .yg8xititle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .vuz71titlebody {
+  .yg8xititlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .vuz71titlebodytitle {
+  .yg8xititlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .vuz71titlebodylang {
+  .yg8xititlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .vuz71titlebodylang ul {
+  .yg8xititlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .vuz71body {
+  .yg8xibody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .vuz71menu {
+  .yg8ximenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .vuz71menulist {
+  .yg8ximenulist {
     width: calc(100% - 20px);
     background-color: #e31524;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .vuz71menubody {
+  .yg8ximenubody {
     width: 100%;
     background-color: #e31524;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .vuz71menulist ul {
+  .yg8ximenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .vuz71menulist ul a {
+  .yg8ximenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -92,26 +92,26 @@
     white-space: nowrap;
   }
 
-  .vuz71menulist ul a:hover {
+  .yg8ximenulist ul a:hover {
     background-color: #fff;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .vuz71-menu-list-active {
+  .yg8xi-menu-list-active {
     background-color: #fff;
     border-radius: 5px;
       color: #000 !important;
     cursor: pointer;
   }
 
-  .vuz71menulistbody {
+  .yg8ximenulistbody {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .vuz71bodylogo {
+    .yg8xibodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -119,15 +119,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .vuz71menu {
+    .yg8ximenu {
       overflow-x: auto;
     }
 
-    .vuz71menulist ul {
+    .yg8ximenulist ul {
       flex-direction: row;
     }
 
-    .vuz71bodylogo {
+    .yg8xibodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -135,27 +135,27 @@
   }
 
   @media screen and (max-width: 768px) {
-    .vuz71menulist ul a {
+    .yg8ximenulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .vop76 {
+  .q8nzq {
     margin-top: 20px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
 
-  .vop76-body {
+  .q8nzq-body {
     width: var(--max);
     display: grid;
     gap: 10px;
     grid-template-columns: repeat(4, 1fr);
   }
 
-  .vop76-body-item {
+  .q8nzq-body-item {
     aspect-ratio: 7 / 4;
     background-color: #f2f2f2;
     border-radius: 5px;
@@ -166,7 +166,7 @@
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
   }
 
-  .vop76-body-item-img {
+  .q8nzq-body-item-img {
     aspect-ratio: 12 / 8;
     display: flex;
     justify-content: center;
@@ -177,7 +177,7 @@
     /* Taşma durumunda kesme */
   }
 
-  .vop76-body-item-img img {
+  .q8nzq-body-item-img img {
     width: 100%;
     height: 100%;
     object-fit: contain;
@@ -185,7 +185,7 @@
     border-radius: 5px;
   }
 
-  .vop76-body-item-title {
+  .q8nzq-body-item-title {
     border-radius: 3px;
     padding: 5px;
     background-color: #e9e9e9;
@@ -198,7 +198,7 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .vop76-body {
+    .q8nzq-body {
       width: calc(100% - 10px);
       margin: 0px 5px 0px 5px;
       grid-template-columns: repeat(3, 1fr);
@@ -206,7 +206,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .vop76-body {
+    .q8nzq-body {
       width: calc(100% - 10px);
       margin: 0px 5px 0px 5px;
       grid-template-columns: repeat(2, 1fr);

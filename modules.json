@@ -41,10 +41,10 @@
       },
       "data": [
         {
-          "img": "1.png"
+          "img": "b1.png"
         },
         {
-          "img": "2.png"
+          "img": "b2.png"
         }
       ],
       "id": "x2phjr"
@@ -72,7 +72,8 @@
         },
         {
           "icon": "email",
-          "text": "info@{{domain}}"
+          "text": "mustafa@mepambalaj.org",
+          "url": "email:mustafa@mepambalaj.org"
         },
         {
           "icon": "map",
@@ -135,7 +136,7 @@
     },
     {
       "index": 7,
-      "name": "Makinalarımız x",
+      "name": "Makinalarımız",
       "path": "page-column",
       "local": "body",
       "category": "page list",
@@ -150,29 +151,10 @@
         "chilecolor": "#fff",
         "chilesize": "16px"
       },
-      "id": "nzx31c"
+      "id": "nzx31c2"
     },
     {
       "index": 8,
-      "name": "Makinalarımız x",
-      "path": "page-column",
-      "local": "body",
-      "category": "page slider",
-      "desing": {
-        "page": "makinalarimiz",
-        "bgcolor": "#e31524",
-        "color": "#fff",
-        "height": "200px",
-        "font-size": "18px",
-        "opacity": "0.5",
-        "chilebgcolor": "#000",
-        "chilecolor": "#fff",
-        "chilesize": "16px"
-      },
-      "id": "vhi6fj3"
-    },
-    {
-      "index": 9,
       "name": "Module Listesi Kare",
       "path": "module-list",
       "local": "body",
@@ -236,54 +218,7 @@
       "id": "twgv9d"
     },
     {
-      "index": 10,
-      "name": "Tanıtım Modülü",
-      "path": "module-1",
-      "local": "body",
-      "category": "module",
-      "desing": {
-        "name": {
-          "tr": "MEP Ambalaj'ı Tanıyın",
-          "en": "Get to Know MEP Packaging",
-          "ar": "تعرف على MEP Ambalaj"
-        },
-        "spot": {
-          "tr": "MEP Ambalaj olarak yılların verdiği deneyim ve uzman kadromuzla kaliteli ambalaj çözümleri sunmaktayız. Gıda güvenliği standartlarına uygun üretim koşullarında hijyenik ambalaj çözümleri üretmekteyiz. Çevre dostu malzeme kullanımıyla sürdürülebilir ambalaj çözümleri sunuyoruz.",
-          "en": "As MEP Packaging, we provide quality packaging solutions with our experienced and expert staff. We produce hygienic packaging solutions under production conditions that comply with food safety standards. We offer sustainable packaging solutions with environmentally friendly material usage.",
-          "ar": "نحن في MEP Ambalaj نقدم حلول التعبئة والتغليف عالية الجودة بخبرتنا وطاقمنا المتخصص. ننتج حلول التعبئة والتغليف الصحية في ظروف إنتاج متوافقة مع معايير سلامة الغذاء. نقدم حلول التعبئة والتغليف المستدامة باستخدام المواد الصديقة للبيئة."
-        },
-        "name2": {
-          "tr": "Vizyonumuz",
-          "en": "Our Vision",
-          "ar": "رؤيتنا"
-        },
-        "spot2": {
-          "tr": "Sektörümüzde en güvenilir ve tercih edilen firma olmak. Müşteri memnuniyetini ön planda tutarak sürekli gelişim ve iyileştirme.",
-          "en": "To be the most trusted and preferred company in our sector. Continuous development and improvement by prioritizing customer satisfaction.",
-          "ar": "أن نكون الشركة الأكثر موثوقية ومفضلة في قطاعنا. التطوير والتحسين المستمر مع إعطاء الأولوية لرضا العملاء."
-        },
-        "icon2": "home",
-        "name3": {
-          "tr": "Misyonumuz",
-          "en": "Our Mission",
-          "ar": "مهمتنا"
-        },
-        "spot3": {
-          "tr": "Çevre dostu uygulamalarla sürdürülebilir bir gelecek için katkıda bulunmak. Kaliteli ambalaj çözümleriyle müşteri memnuniyetini sağlamak.",
-          "en": "To contribute to a sustainable future with environmentally friendly practices. To ensure customer satisfaction with quality packaging solutions.",
-          "ar": "المساهمة في مستقبل مستدام من خلال الممارسات الصديقة للبيئة. ضمان رضا العملاء من خلال حلول التعبئة والتغليف عالية الجودة."
-        },
-        "icon3": "home",
-        "img": "index.jpg",
-        "bgcolor": "#e31524",
-        "fontcolor": "#fff",
-        "margintop": "20",
-        "marginbotton": "20"
-      },
-      "id": "w5hk74"
-    },
-    {
-      "index": 11,
+      "index": 9,
       "name": "Kutu ve Ambalaj",
       "path": "page-slider-5",
       "local": "body",
@@ -306,7 +241,7 @@
       "id": "vhi6fj"
     },
     {
-      "index": 12,
+      "index": 10,
       "name": "Kağıtlarımız",
       "path": "page-slider-6",
       "local": "body",
@@ -329,7 +264,7 @@
       "id": "vhi6fj2"
     },
     {
-      "index": 13,
+      "index": 11,
       "name": "Sayfa Listesi Kare",
       "path": "page-list",
       "local": "body",

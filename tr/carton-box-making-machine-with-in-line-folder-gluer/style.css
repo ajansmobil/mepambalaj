@@ -1,5 +1,5 @@
 
-  .lum31 {
+  .pacrv {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .lum31title {
+  .pacrvtitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .lum31titlebody {
+  .pacrvtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .lum31titlebodytitle {
+  .pacrvtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .lum31titlebodylang {
+  .pacrvtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .lum31titlebodylang ul {
+  .pacrvtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .lum31body {
+  .pacrvbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .lum31menu {
+  .pacrvmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .lum31menulist {
+  .pacrvmenulist {
     width: calc(100% - 20px);
     background-color: #e31524;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .lum31menubody {
+  .pacrvmenubody {
     width: 100%;
     background-color: #e31524;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .lum31menulist ul {
+  .pacrvmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .lum31menulist ul a {
+  .pacrvmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -92,26 +92,26 @@
     white-space: nowrap;
   }
 
-  .lum31menulist ul a:hover {
+  .pacrvmenulist ul a:hover {
     background-color: #fff;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .lum31-menu-list-active {
+  .pacrv-menu-list-active {
     background-color: #fff;
     border-radius: 5px;
       color: #000 !important;
     cursor: pointer;
   }
 
-  .lum31menulistbody {
+  .pacrvmenulistbody {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .lum31bodylogo {
+    .pacrvbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -119,15 +119,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .lum31menu {
+    .pacrvmenu {
       overflow-x: auto;
     }
 
-    .lum31menulist ul {
+    .pacrvmenulist ul {
       flex-direction: row;
     }
 
-    .lum31bodylogo {
+    .pacrvbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -135,7 +135,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .lum31menulist ul a {
+    .pacrvmenulist ul a {
       font-size: 14px;
     }
   }
@@ -145,7 +145,7 @@
     justify-content: start;
   }
 
-  .pv6a7 {
+  .cyx75 {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
@@ -153,7 +153,7 @@
     position: relative;
   }
 
-  .pv6a7-menu-btn {
+  .cyx75-menu-btn {
     display: none;
     background-color: #000;
     padding: 10px 20px;
@@ -165,11 +165,11 @@
     align-items: center;
   }
 
-  .pv6a7-menu-btn i {
+  .cyx75-menu-btn i {
     font-size: 20px;
   }
 
-  .pv6a7-menu {
+  .cyx75-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -180,28 +180,28 @@
     float: left;
   }
 
-  .pv6a7-desc {
+  .cyx75-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .pv6a7-menu > a {
+  .cyx75-menu > a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .pv6a7-menu > .active,
-  .pv6a7-menu > a:hover {
+  .cyx75-menu > .active,
+  .cyx75-menu > a:hover {
     background-color: #000;
     color: #fff;
     display: flex;
   }
 
-  .pv6a7-desc-menu {
+  .cyx75-desc-menu {
     width: 200px;
     background-color: #000;
     display: flex;
@@ -209,19 +209,19 @@
     border-radius: 5px;
   }
 
-  .pv6a7-desc-menu > div {
+  .cyx75-desc-menu > div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .pv6a7-desc-body {
+  .cyx75-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .pv6a7-title {
+  .cyx75-title {
     width: 100%;
     height: 100px;
     background-color: #000;
@@ -234,7 +234,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .pv6a7-title::before {
+  .cyx75-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -249,44 +249,44 @@
     z-index: 1;
   }
 
-  .pv6a7-title span {
+  .cyx75-title span {
     position: relative;
     z-index: 2;
     font-size: 32px;
   }
 
-  .pv6a7-body {
+  .cyx75-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
     text-align: left;
   }
 
-  .pv6a7-img {
+  .cyx75-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .pv6a7-img img {
+  .cyx75-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .pv6a7-desc {
+    .cyx75-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .pv6a7-menu-btn {
+    .cyx75-menu-btn {
       display: flex;
       width: calc(100% - 55px);
       margin-left: 5px;
     }
 
-    .pv6a7 {
+    .cyx75 {
       display: flex;
       flex-direction: column;
       width: 100%;
@@ -295,17 +295,17 @@
       margin-top: 0px;
     }
 
-    .pv6a7-img {
+    .cyx75-img {
       width: 100%;
     }
 
-    .pv6a7-body {
+    .cyx75-body {
       width: 100%;
       order: 3;
       padding: 10px;
     }
 
-    .pv6a7-menu {
+    .cyx75-menu {
       width: 100%;
       float: none;
       flex-direction: column;
@@ -313,11 +313,11 @@
       display: none;
     }
 
-    .pv6a7-menu.active {
+    .cyx75-menu.active {
       display: flex;
     }
 
-    .pv6a7-desc {
+    .cyx75-desc {
       width: 100% !important;
       order: 2;
     }

@@ -1,5 +1,5 @@
 
-  .ng8pv {
+  .ah9gl {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .ng8pvtitle {
+  .ah9gltitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .ng8pvtitlebody {
+  .ah9gltitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .ng8pvtitlebodytitle {
+  .ah9gltitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .ng8pvtitlebodylang {
+  .ah9gltitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .ng8pvtitlebodylang ul {
+  .ah9gltitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .ng8pvbody {
+  .ah9glbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .ng8pvmenu {
+  .ah9glmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .ng8pvmenulist {
+  .ah9glmenulist {
     width: calc(100% - 20px);
     background-color: #e31524;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .ng8pvmenubody {
+  .ah9glmenubody {
     width: 100%;
     background-color: #e31524;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .ng8pvmenulist ul {
+  .ah9glmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .ng8pvmenulist ul a {
+  .ah9glmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -92,26 +92,26 @@
     white-space: nowrap;
   }
 
-  .ng8pvmenulist ul a:hover {
+  .ah9glmenulist ul a:hover {
     background-color: #fff;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .ng8pv-menu-list-active {
+  .ah9gl-menu-list-active {
     background-color: #fff;
     border-radius: 5px;
       color: #000 !important;
     cursor: pointer;
   }
 
-  .ng8pvmenulistbody {
+  .ah9glmenulistbody {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .ng8pvbodylogo {
+    .ah9glbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -119,15 +119,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .ng8pvmenu {
+    .ah9glmenu {
       overflow-x: auto;
     }
 
-    .ng8pvmenulist ul {
+    .ah9glmenulist ul {
       flex-direction: row;
     }
 
-    .ng8pvbodylogo {
+    .ah9glbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -135,7 +135,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .ng8pvmenulist ul a {
+    .ah9glmenulist ul a {
       font-size: 14px;
     }
   }
@@ -145,7 +145,7 @@
     justify-content: start;
   }
 
-  .h6v5p {
+  .pgold {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
@@ -153,7 +153,7 @@
     position: relative;
   }
 
-  .h6v5p-menu-btn {
+  .pgold-menu-btn {
     display: none;
     background-color: #000;
     padding: 10px 20px;
@@ -165,11 +165,11 @@
     align-items: center;
   }
 
-  .h6v5p-menu-btn i {
+  .pgold-menu-btn i {
     font-size: 20px;
   }
 
-  .h6v5p-menu {
+  .pgold-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -180,28 +180,28 @@
     float: left;
   }
 
-  .h6v5p-desc {
+  .pgold-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .h6v5p-menu > a {
+  .pgold-menu > a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .h6v5p-menu > .active,
-  .h6v5p-menu > a:hover {
+  .pgold-menu > .active,
+  .pgold-menu > a:hover {
     background-color: #000;
     color: #fff;
     display: flex;
   }
 
-  .h6v5p-desc-menu {
+  .pgold-desc-menu {
     width: 200px;
     background-color: #000;
     display: flex;
@@ -209,19 +209,19 @@
     border-radius: 5px;
   }
 
-  .h6v5p-desc-menu > div {
+  .pgold-desc-menu > div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .h6v5p-desc-body {
+  .pgold-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .h6v5p-title {
+  .pgold-title {
     width: 100%;
     height: 100px;
     background-color: #000;
@@ -234,7 +234,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .h6v5p-title::before {
+  .pgold-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -249,44 +249,44 @@
     z-index: 1;
   }
 
-  .h6v5p-title span {
+  .pgold-title span {
     position: relative;
     z-index: 2;
     font-size: 32px;
   }
 
-  .h6v5p-body {
+  .pgold-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
     text-align: left;
   }
 
-  .h6v5p-img {
+  .pgold-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .h6v5p-img img {
+  .pgold-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .h6v5p-desc {
+    .pgold-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .h6v5p-menu-btn {
+    .pgold-menu-btn {
       display: flex;
       width: calc(100% - 55px);
       margin-left: 5px;
     }
 
-    .h6v5p {
+    .pgold {
       display: flex;
       flex-direction: column;
       width: 100%;
@@ -295,17 +295,17 @@
       margin-top: 0px;
     }
 
-    .h6v5p-img {
+    .pgold-img {
       width: 100%;
     }
 
-    .h6v5p-body {
+    .pgold-body {
       width: 100%;
       order: 3;
       padding: 10px;
     }
 
-    .h6v5p-menu {
+    .pgold-menu {
       width: 100%;
       float: none;
       flex-direction: column;
@@ -313,11 +313,11 @@
       display: none;
     }
 
-    .h6v5p-menu.active {
+    .pgold-menu.active {
       display: flex;
     }
 
-    .h6v5p-desc {
+    .pgold-desc {
       width: 100% !important;
       order: 2;
     }

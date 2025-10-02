@@ -9,7 +9,9 @@
   "path": "kalite-politikamiz",
   "category": "kurumsal",
   "text": {
-    "tr": "<h2 style=\"font-size: 24px;\">Kalite Politikamız</h2><p style=\" font-size: 16px;\">Kalite politikamız, müşteri memnuniyetini en üst seviyede tutmayı ve sürekli iyileştirmeyi hedefleyen bir yaklaşıma dayanır. Her projede, en iyi kalite standartlarını sağlamak için çalışıyor ve tüm süreçlerimizi bu doğrultuda sürekli gözden geçiriyoruz.</p>"
+    "tr": "<h2 style=\"font-size: 24px;\">Kalite Politikamız</h2><p style=\" font-size: 16px;\">Kalite politikamız, müşteri memnuniyetini en üst seviyede tutmayı ve sürekli iyileştirmeyi hedefleyen bir yaklaşıma dayanır. Her projede, en iyi kalite standartlarını sağlamak için çalışıyor ve tüm süreçlerimizi bu doğrultuda sürekli gözden geçiriyoruz.</p>",
+    "en": "<h2 style=\"font-size: 24px;\">Our Quality Policy</h2><p style=\" font-size: 16px;\">Our quality policy is based on an approach that aims to keep customer satisfaction at the highest level and continuous improvement. In every project, we work to ensure the best quality standards and continuously review all our processes in this direction.</p>",
+    "ar": "<h2 style=\"font-size: 24px;\">سياسة الجودة الخاصة بنا</h2><p style=\" font-size: 16px;\">سياسة الجودة الخاصة بنا مبنية على نهج يهدف إلى الحفاظ على رضا العملاء في أعلى مستوى والتحسين المستمر. في كل مشروع، نعمل على ضمان أفضل معايير الجودة ونراجع باستمرار جميع عملياتنا في هذا الاتجاه.</p>"
   },
   "desing": {
     "header": [],

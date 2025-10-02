@@ -1,5 +1,5 @@
 
-  .ymn62 {
+  .nby7c {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .ymn62title {
+  .nby7ctitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .ymn62titlebody {
+  .nby7ctitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .ymn62titlebodytitle {
+  .nby7ctitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .ymn62titlebodylang {
+  .nby7ctitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .ymn62titlebodylang ul {
+  .nby7ctitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .ymn62body {
+  .nby7cbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .ymn62menu {
+  .nby7cmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .ymn62menulist {
+  .nby7cmenulist {
     width: calc(100% - 20px);
     background-color: #e31524;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .ymn62menubody {
+  .nby7cmenubody {
     width: 100%;
     background-color: #e31524;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .ymn62menulist ul {
+  .nby7cmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .ymn62menulist ul a {
+  .nby7cmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -92,26 +92,26 @@
     white-space: nowrap;
   }
 
-  .ymn62menulist ul a:hover {
+  .nby7cmenulist ul a:hover {
     background-color: #fff;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .ymn62-menu-list-active {
+  .nby7c-menu-list-active {
     background-color: #fff;
     border-radius: 5px;
       color: #000 !important;
     cursor: pointer;
   }
 
-  .ymn62menulistbody {
+  .nby7cmenulistbody {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .ymn62bodylogo {
+    .nby7cbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -119,15 +119,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .ymn62menu {
+    .nby7cmenu {
       overflow-x: auto;
     }
 
-    .ymn62menulist ul {
+    .nby7cmenulist ul {
       flex-direction: row;
     }
 
-    .ymn62bodylogo {
+    .nby7cbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -135,7 +135,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .ymn62menulist ul a {
+    .nby7cmenulist ul a {
       font-size: 14px;
     }
   }
@@ -145,7 +145,7 @@
     justify-content: start;
   }
 
-  .gh50b {
+  .lwvlj {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
@@ -153,7 +153,7 @@
     position: relative;
   }
 
-  .gh50b-menu-btn {
+  .lwvlj-menu-btn {
     display: none;
     background-color: #000;
     padding: 10px 20px;
@@ -165,11 +165,11 @@
     align-items: center;
   }
 
-  .gh50b-menu-btn i {
+  .lwvlj-menu-btn i {
     font-size: 20px;
   }
 
-  .gh50b-menu {
+  .lwvlj-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -180,28 +180,28 @@
     float: left;
   }
 
-  .gh50b-desc {
+  .lwvlj-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .gh50b-menu > a {
+  .lwvlj-menu > a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .gh50b-menu > .active,
-  .gh50b-menu > a:hover {
+  .lwvlj-menu > .active,
+  .lwvlj-menu > a:hover {
     background-color: #000;
     color: #fff;
     display: flex;
   }
 
-  .gh50b-desc-menu {
+  .lwvlj-desc-menu {
     width: 200px;
     background-color: #000;
     display: flex;
@@ -209,19 +209,19 @@
     border-radius: 5px;
   }
 
-  .gh50b-desc-menu > div {
+  .lwvlj-desc-menu > div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .gh50b-desc-body {
+  .lwvlj-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .gh50b-title {
+  .lwvlj-title {
     width: 100%;
     height: 100px;
     background-color: #000;
@@ -234,7 +234,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .gh50b-title::before {
+  .lwvlj-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -249,44 +249,44 @@
     z-index: 1;
   }
 
-  .gh50b-title span {
+  .lwvlj-title span {
     position: relative;
     z-index: 2;
     font-size: 32px;
   }
 
-  .gh50b-body {
+  .lwvlj-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
     text-align: left;
   }
 
-  .gh50b-img {
+  .lwvlj-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .gh50b-img img {
+  .lwvlj-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .gh50b-desc {
+    .lwvlj-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .gh50b-menu-btn {
+    .lwvlj-menu-btn {
       display: flex;
       width: calc(100% - 55px);
       margin-left: 5px;
     }
 
-    .gh50b {
+    .lwvlj {
       display: flex;
       flex-direction: column;
       width: 100%;
@@ -295,17 +295,17 @@
       margin-top: 0px;
     }
 
-    .gh50b-img {
+    .lwvlj-img {
       width: 100%;
     }
 
-    .gh50b-body {
+    .lwvlj-body {
       width: 100%;
       order: 3;
       padding: 10px;
     }
 
-    .gh50b-menu {
+    .lwvlj-menu {
       width: 100%;
       float: none;
       flex-direction: column;
@@ -313,11 +313,11 @@
       display: none;
     }
 
-    .gh50b-menu.active {
+    .lwvlj-menu.active {
       display: flex;
     }
 
-    .gh50b-desc {
+    .lwvlj-desc {
       width: 100% !important;
       order: 2;
     }

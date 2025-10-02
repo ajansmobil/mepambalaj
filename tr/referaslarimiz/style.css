@@ -1,5 +1,5 @@
 
-  .uocav {
+  .woio1 {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .uocavtitle {
+  .woio1title {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .uocavtitlebody {
+  .woio1titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .uocavtitlebodytitle {
+  .woio1titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .uocavtitlebodylang {
+  .woio1titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .uocavtitlebodylang ul {
+  .woio1titlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .uocavbody {
+  .woio1body {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .uocavmenu {
+  .woio1menu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .uocavmenulist {
+  .woio1menulist {
     width: calc(100% - 20px);
     background-color: #e31524;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .uocavmenubody {
+  .woio1menubody {
     width: 100%;
     background-color: #e31524;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .uocavmenulist ul {
+  .woio1menulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .uocavmenulist ul a {
+  .woio1menulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -92,26 +92,26 @@
     white-space: nowrap;
   }
 
-  .uocavmenulist ul a:hover {
+  .woio1menulist ul a:hover {
     background-color: #fff;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .uocav-menu-list-active {
+  .woio1-menu-list-active {
     background-color: #fff;
     border-radius: 5px;
       color: #000 !important;
     cursor: pointer;
   }
 
-  .uocavmenulistbody {
+  .woio1menulistbody {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .uocavbodylogo {
+    .woio1bodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -119,15 +119,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .uocavmenu {
+    .woio1menu {
       overflow-x: auto;
     }
 
-    .uocavmenulist ul {
+    .woio1menulist ul {
       flex-direction: row;
     }
 
-    .uocavbodylogo {
+    .woio1bodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -135,25 +135,25 @@
   }
 
   @media screen and (max-width: 768px) {
-    .uocavmenulist ul a {
+    .woio1menulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .s6jnl {
+  .nwf1h {
     margin-top: 30px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .s6jnlbody {
+  .nwf1hbody {
     width: var(--max);
     display: grid;
     gap: 15px;
     grid-template-columns: repeat(4, 1fr);
   }
-  .s6jnlbodyitem {
+  .nwf1hbodyitem {
     cursor: pointer;
     background-color: #e9e9e9;
     border-radius: 8px;
@@ -169,22 +169,22 @@
     align-items: center;
     justify-content: center;
   }
-  .s6jnlbodyitem:hover {
+  .nwf1hbodyitem:hover {
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
     transform: translateY(-3px);
   }
-  .s6jnlbodyitemimg {
+  .nwf1hbodyitemimg {
     display: flex;
     justify-content: center;
     align-items: center;
   }
-  .s6jnlbodyitemimg img {
+  .nwf1hbodyitemimg img {
     width: 100%;
     height: auto;
     object-fit: cover;
     border-radius: 5px;
   }
-  .s6jnlbodyitemtitle {
+  .nwf1hbodyitemtitle {
     padding: 8px;
     background-color: #e5e5e5;
     text-align: center;
@@ -193,14 +193,14 @@
     font-size: 16px;
   }
   @media screen and (max-width: 1024px) {
-    .s6jnlbody {
+    .nwf1hbody {
       width: calc(100% - 20px);
       margin: 0 10px;
       grid-template-columns: repeat(3, 1fr);
     }
   }
   @media screen and (max-width: 768px) {
-    .s6jnlbody {
+    .nwf1hbody {
       width: calc(100% - 20px);
       margin: 0 10px;
       grid-template-columns: repeat(2, 1fr);

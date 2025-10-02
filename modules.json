@@ -215,12 +215,13 @@
         "aspect-ratio": "3 / 2",
         "margin": "0px 0px 0px 0px",
         "max": 8,
-        "color": "#006B65",
+        "color": "#e31524",
         "delay": 4000
       },
       "id": "vhi6fj"
     },
     {
+      "index": 9,
       "name": "Tanıtım Modülü",
       "path": "module-1",
       "local": "body",
@@ -259,13 +260,12 @@
         },
         "icon3": "home",
         "img": "index.jpg",
-        "bgcolor": "#1e3046",
+        "bgcolor": "#e31524",
         "fontcolor": "#fff",
         "margintop": "20",
         "marginbotton": "20"
       },
-      "id": "w5hk74",
-      "index": 9
+      "id": "w5hk74"
     }
   ]
 }

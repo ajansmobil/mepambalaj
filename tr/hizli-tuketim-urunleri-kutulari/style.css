@@ -1,5 +1,5 @@
 
-  .avgrv {
+  .wh3kq {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .avgrvtitle {
+  .wh3kqtitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .avgrvtitlebody {
+  .wh3kqtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .avgrvtitlebodytitle {
+  .wh3kqtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .avgrvtitlebodylang {
+  .wh3kqtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .avgrvtitlebodylang ul {
+  .wh3kqtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .avgrvbody {
+  .wh3kqbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .avgrvmenu {
+  .wh3kqmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .avgrvmenulist {
+  .wh3kqmenulist {
     width: calc(100% - 20px);
     background-color: #e31524;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .avgrvmenubody {
+  .wh3kqmenubody {
     width: 100%;
     background-color: #e31524;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .avgrvmenulist ul {
+  .wh3kqmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .avgrvmenulist ul a {
+  .wh3kqmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -92,26 +92,26 @@
     white-space: nowrap;
   }
 
-  .avgrvmenulist ul a:hover {
+  .wh3kqmenulist ul a:hover {
     background-color: #fff;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .avgrv-menu-list-active {
+  .wh3kq-menu-list-active {
     background-color: #fff;
     border-radius: 5px;
       color: #000 !important;
     cursor: pointer;
   }
 
-  .avgrvmenulistbody {
+  .wh3kqmenulistbody {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .avgrvbodylogo {
+    .wh3kqbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -119,15 +119,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .avgrvmenu {
+    .wh3kqmenu {
       overflow-x: auto;
     }
 
-    .avgrvmenulist ul {
+    .wh3kqmenulist ul {
       flex-direction: row;
     }
 
-    .avgrvbodylogo {
+    .wh3kqbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -135,7 +135,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .avgrvmenulist ul a {
+    .wh3kqmenulist ul a {
       font-size: 14px;
     }
   }
@@ -145,7 +145,7 @@
     justify-content: start;
   }
 
-  .vuxve {
+  .aizii {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
@@ -153,7 +153,7 @@
     position: relative;
   }
 
-  .vuxve-menu-btn {
+  .aizii-menu-btn {
     display: none;
     background-color: #000;
     padding: 10px 20px;
@@ -165,11 +165,11 @@
     align-items: center;
   }
 
-  .vuxve-menu-btn i {
+  .aizii-menu-btn i {
     font-size: 20px;
   }
 
-  .vuxve-menu {
+  .aizii-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -180,28 +180,28 @@
     float: left;
   }
 
-  .vuxve-desc {
+  .aizii-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .vuxve-menu > a {
+  .aizii-menu > a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .vuxve-menu > .active,
-  .vuxve-menu > a:hover {
+  .aizii-menu > .active,
+  .aizii-menu > a:hover {
     background-color: #000;
     color: #fff;
     display: flex;
   }
 
-  .vuxve-desc-menu {
+  .aizii-desc-menu {
     width: 200px;
     background-color: #000;
     display: flex;
@@ -209,19 +209,19 @@
     border-radius: 5px;
   }
 
-  .vuxve-desc-menu > div {
+  .aizii-desc-menu > div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .vuxve-desc-body {
+  .aizii-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .vuxve-title {
+  .aizii-title {
     width: 100%;
     height: 100px;
     background-color: #000;
@@ -234,7 +234,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .vuxve-title::before {
+  .aizii-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -249,44 +249,44 @@
     z-index: 1;
   }
 
-  .vuxve-title span {
+  .aizii-title span {
     position: relative;
     z-index: 2;
     font-size: 32px;
   }
 
-  .vuxve-body {
+  .aizii-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
     text-align: left;
   }
 
-  .vuxve-img {
+  .aizii-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .vuxve-img img {
+  .aizii-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .vuxve-desc {
+    .aizii-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .vuxve-menu-btn {
+    .aizii-menu-btn {
       display: flex;
       width: calc(100% - 55px);
       margin-left: 5px;
     }
 
-    .vuxve {
+    .aizii {
       display: flex;
       flex-direction: column;
       width: 100%;
@@ -295,17 +295,17 @@
       margin-top: 0px;
     }
 
-    .vuxve-img {
+    .aizii-img {
       width: 100%;
     }
 
-    .vuxve-body {
+    .aizii-body {
       width: 100%;
       order: 3;
       padding: 10px;
     }
 
-    .vuxve-menu {
+    .aizii-menu {
       width: 100%;
       float: none;
       flex-direction: column;
@@ -313,11 +313,11 @@
       display: none;
     }
 
-    .vuxve-menu.active {
+    .aizii-menu.active {
       display: flex;
     }
 
-    .vuxve-desc {
+    .aizii-desc {
       width: 100% !important;
       order: 2;
     }

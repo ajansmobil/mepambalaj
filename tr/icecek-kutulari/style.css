@@ -1,5 +1,5 @@
 
-  .fiewf {
+  .vc1fk {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .fiewftitle {
+  .vc1fktitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .fiewftitlebody {
+  .vc1fktitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .fiewftitlebodytitle {
+  .vc1fktitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .fiewftitlebodylang {
+  .vc1fktitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .fiewftitlebodylang ul {
+  .vc1fktitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .fiewfbody {
+  .vc1fkbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .fiewfmenu {
+  .vc1fkmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .fiewfmenulist {
+  .vc1fkmenulist {
     width: calc(100% - 20px);
     background-color: #e31524;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .fiewfmenubody {
+  .vc1fkmenubody {
     width: 100%;
     background-color: #e31524;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .fiewfmenulist ul {
+  .vc1fkmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .fiewfmenulist ul a {
+  .vc1fkmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -92,26 +92,26 @@
     white-space: nowrap;
   }
 
-  .fiewfmenulist ul a:hover {
+  .vc1fkmenulist ul a:hover {
     background-color: #fff;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .fiewf-menu-list-active {
+  .vc1fk-menu-list-active {
     background-color: #fff;
     border-radius: 5px;
       color: #000 !important;
     cursor: pointer;
   }
 
-  .fiewfmenulistbody {
+  .vc1fkmenulistbody {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .fiewfbodylogo {
+    .vc1fkbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -119,15 +119,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .fiewfmenu {
+    .vc1fkmenu {
       overflow-x: auto;
     }
 
-    .fiewfmenulist ul {
+    .vc1fkmenulist ul {
       flex-direction: row;
     }
 
-    .fiewfbodylogo {
+    .vc1fkbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -135,7 +135,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .fiewfmenulist ul a {
+    .vc1fkmenulist ul a {
       font-size: 14px;
     }
   }
@@ -145,7 +145,7 @@
     justify-content: start;
   }
 
-  .pea6f {
+  .nsvb5 {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
@@ -153,7 +153,7 @@
     position: relative;
   }
 
-  .pea6f-menu-btn {
+  .nsvb5-menu-btn {
     display: none;
     background-color: #000;
     padding: 10px 20px;
@@ -165,11 +165,11 @@
     align-items: center;
   }
 
-  .pea6f-menu-btn i {
+  .nsvb5-menu-btn i {
     font-size: 20px;
   }
 
-  .pea6f-menu {
+  .nsvb5-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -180,28 +180,28 @@
     float: left;
   }
 
-  .pea6f-desc {
+  .nsvb5-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .pea6f-menu > a {
+  .nsvb5-menu > a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .pea6f-menu > .active,
-  .pea6f-menu > a:hover {
+  .nsvb5-menu > .active,
+  .nsvb5-menu > a:hover {
     background-color: #000;
     color: #fff;
     display: flex;
   }
 
-  .pea6f-desc-menu {
+  .nsvb5-desc-menu {
     width: 200px;
     background-color: #000;
     display: flex;
@@ -209,19 +209,19 @@
     border-radius: 5px;
   }
 
-  .pea6f-desc-menu > div {
+  .nsvb5-desc-menu > div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .pea6f-desc-body {
+  .nsvb5-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .pea6f-title {
+  .nsvb5-title {
     width: 100%;
     height: 100px;
     background-color: #000;
@@ -234,7 +234,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .pea6f-title::before {
+  .nsvb5-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -249,44 +249,44 @@
     z-index: 1;
   }
 
-  .pea6f-title span {
+  .nsvb5-title span {
     position: relative;
     z-index: 2;
     font-size: 32px;
   }
 
-  .pea6f-body {
+  .nsvb5-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
     text-align: left;
   }
 
-  .pea6f-img {
+  .nsvb5-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .pea6f-img img {
+  .nsvb5-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .pea6f-desc {
+    .nsvb5-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .pea6f-menu-btn {
+    .nsvb5-menu-btn {
       display: flex;
       width: calc(100% - 55px);
       margin-left: 5px;
     }
 
-    .pea6f {
+    .nsvb5 {
       display: flex;
       flex-direction: column;
       width: 100%;
@@ -295,17 +295,17 @@
       margin-top: 0px;
     }
 
-    .pea6f-img {
+    .nsvb5-img {
       width: 100%;
     }
 
-    .pea6f-body {
+    .nsvb5-body {
       width: 100%;
       order: 3;
       padding: 10px;
     }
 
-    .pea6f-menu {
+    .nsvb5-menu {
       width: 100%;
       float: none;
       flex-direction: column;
@@ -313,11 +313,11 @@
       display: none;
     }
 
-    .pea6f-menu.active {
+    .nsvb5-menu.active {
       display: flex;
     }
 
-    .pea6f-desc {
+    .nsvb5-desc {
       width: 100% !important;
       order: 2;
     }

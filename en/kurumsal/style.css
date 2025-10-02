@@ -1,5 +1,5 @@
 
-  .gl2is {
+  .oneby {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .gl2istitle {
+  .onebytitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .gl2istitlebody {
+  .onebytitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .gl2istitlebodytitle {
+  .onebytitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .gl2istitlebodylang {
+  .onebytitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .gl2istitlebodylang ul {
+  .onebytitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .gl2isbody {
+  .onebybody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .gl2ismenu {
+  .onebymenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .gl2ismenulist {
+  .onebymenulist {
     width: calc(100% - 20px);
     background-color: #e31524;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .gl2ismenubody {
+  .onebymenubody {
     width: 100%;
     background-color: #e31524;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .gl2ismenulist ul {
+  .onebymenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .gl2ismenulist ul a {
+  .onebymenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -92,26 +92,26 @@
     white-space: nowrap;
   }
 
-  .gl2ismenulist ul a:hover {
+  .onebymenulist ul a:hover {
     background-color: #fff;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .gl2is-menu-list-active {
+  .oneby-menu-list-active {
     background-color: #fff;
     border-radius: 5px;
       color: #000 !important;
     cursor: pointer;
   }
 
-  .gl2ismenulistbody {
+  .onebymenulistbody {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .gl2isbodylogo {
+    .onebybodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -119,15 +119,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .gl2ismenu {
+    .onebymenu {
       overflow-x: auto;
     }
 
-    .gl2ismenulist ul {
+    .onebymenulist ul {
       flex-direction: row;
     }
 
-    .gl2isbodylogo {
+    .onebybodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -135,7 +135,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .gl2ismenulist ul a {
+    .onebymenulist ul a {
       font-size: 14px;
     }
   }

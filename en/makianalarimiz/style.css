@@ -1,5 +1,5 @@
 
-  .enfak {
+  .px4y0 {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .enfaktitle {
+  .px4y0title {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .enfaktitlebody {
+  .px4y0titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .enfaktitlebodytitle {
+  .px4y0titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .enfaktitlebodylang {
+  .px4y0titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .enfaktitlebodylang ul {
+  .px4y0titlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .enfakbody {
+  .px4y0body {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .enfakmenu {
+  .px4y0menu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .enfakmenulist {
+  .px4y0menulist {
     width: calc(100% - 20px);
     background-color: #e31524;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .enfakmenubody {
+  .px4y0menubody {
     width: 100%;
     background-color: #e31524;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .enfakmenulist ul {
+  .px4y0menulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .enfakmenulist ul a {
+  .px4y0menulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -92,26 +92,26 @@
     white-space: nowrap;
   }
 
-  .enfakmenulist ul a:hover {
+  .px4y0menulist ul a:hover {
     background-color: #fff;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .enfak-menu-list-active {
+  .px4y0-menu-list-active {
     background-color: #fff;
     border-radius: 5px;
       color: #000 !important;
     cursor: pointer;
   }
 
-  .enfakmenulistbody {
+  .px4y0menulistbody {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .enfakbodylogo {
+    .px4y0bodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -119,15 +119,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .enfakmenu {
+    .px4y0menu {
       overflow-x: auto;
     }
 
-    .enfakmenulist ul {
+    .px4y0menulist ul {
       flex-direction: row;
     }
 
-    .enfakbodylogo {
+    .px4y0bodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -135,24 +135,24 @@
   }
 
   @media screen and (max-width: 768px) {
-    .enfakmenulist ul a {
+    .px4y0menulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .mz5nj {
+  .fyu7q {
     width: 100%;
     margin: 15px 0;
   }
 
-  .mz5njbody {
+  .fyu7qbody {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 15px;
   }
 
-  .mz5njbodyitem {
+  .fyu7qbodyitem {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -163,7 +163,7 @@
     position: relative;
   }
 
-  .mz5njbodyitemlink {
+  .fyu7qbodyitemlink {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -172,7 +172,7 @@
     gap: 10px;
   }
 
-  .mz5njbodyitemimg {
+  .fyu7qbodyitemimg {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -183,18 +183,18 @@
     transition: all 0.3s ease;
   }
 
-  .mz5njbodyitemimg:hover {
+  .fyu7qbodyitemimg:hover {
     box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5);
     transform: translateY(-5px);
   }
 
-  .mz5njbodyitemimg img {
+  .fyu7qbodyitemimg img {
     max-height: 200px;
     max-width: calc(200px * 2);
     border-radius: 10px;
   }
 
-  .mz5njbodyitemtitle {
+  .fyu7qbodyitemtitle {
     padding: 5px;
     display: flex;
     height: calc(18px * 2);
@@ -205,7 +205,7 @@
     color: #fff;
   }
 
-  .mz5njbodybg {
+  .fyu7qbodybg {
     width: 100%;
     height: 100%;
     position: absolute;
@@ -216,7 +216,7 @@
     opacity: 0.5;
   }
 
-  .mz5njbodyitems {
+  .fyu7qbodyitems {
     padding: 5px;
     display: flex;
     flex-direction: column;
@@ -227,25 +227,25 @@
     position: relative;
   }
 
-  .mz5njbodyitems.left {
+  .fyu7qbodyitems.left {
     align-self: flex-start;
     border-radius: 0px 10px 10px 0px;
     transform: translateY(60px);
     animation: slideInLeft 1s forwards;
   }
 
-  .mz5njbodyitems.right {
+  .fyu7qbodyitems.right {
     align-self: flex-end;
     border-radius: 10px 0px 0px 10px;
     transform: translateY(60px);
     animation: slideInRight 1s forwards;
   }
 
-  .mz5njbodyitem.lefts {
+  .fyu7qbodyitem.lefts {
     align-self: flex-end;
   }
 
-  .mz5njbodyitem.rights {
+  .fyu7qbodyitem.rights {
     align-self: flex-start;
   }
 
@@ -273,18 +273,18 @@
     }
   }
 
-  .mz5njbodyitems {
+  .fyu7qbodyitems {
     animation-delay: 0.3s;
   }
 
  
 
   @media screen and (max-width: 1024px) {
-    .mz5njbodyitem {
+    .fyu7qbodyitem {
       width: 100%;
     }
 
-    .mz5njbody {
+    .fyu7qbody {
       display: flex;
       flex-direction: column;
       gap: 15px;

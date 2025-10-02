@@ -14,10 +14,12 @@
   "icon": "home",
   "desing": {
     "header": [],
-    "body": [],
+    "body": [
+      "kcy6ud"
+    ],
     "footer": []
   },
-  "pathnext": "",
+  "pathnext": "gazete-kagidi",
   "description": {
     "tr": ""
   },
@@ -30,6 +32,6 @@
   "spot": {
     "tr": ""
   },
-  "update": "2025-10-02T06:51:40.182Z",
+  "update": "2025-10-02T07:40:07.039Z",
   "date": "2025-10-02T06:06:33.713Z"
 }

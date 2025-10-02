@@ -102,8 +102,8 @@
     {
       "name": {
         "tr": "Kağıtlarımız",
-        "en": "Our Papers",
-        "ar": "أوراقنا"
+        "en": "",
+        "ar": ""
       },
       "status": "play",
       "category": "",
@@ -114,19 +114,17 @@
       "icon": "home",
       "desing": {
         "header": [],
-        "body": [],
+        "body": [
+          "kcy6ud"
+        ],
         "footer": []
       },
-      "pathnext": "",
+      "pathnext": "gazete-kagidi",
       "description": {
-        "tr": "MEP Ambalaj kağıtlarımız: Yüksek kaliteli kağıt ürünleri, çeşitli gramaj ve boyut seçenekleri. Profesyonel baskı ve ambalaj uygulamaları için ideal çözümler.",
-        "en": "MEP Packaging papers: High quality paper products, various grammage and size options. Ideal solutions for professional printing and packaging applications.",
-        "ar": "أوراق MEP Ambalaj: منتجات ورقية عالية الجودة، خيارات وزن وأحجام متنوعة. حلول مثالية لتطبيقات الطباعة المهنية والتعبئة والتغليف."
+        "tr": ""
       },
       "spot": {
-        "tr": "",
-        "en": "",
-        "ar": ""
+        "tr": ""
       },
       "desc": {}
     },

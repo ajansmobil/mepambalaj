@@ -1,5 +1,5 @@
 
-  .gv4od {
+  .kahtu {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .gv4odtitle {
+  .kahtutitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .gv4odtitlebody {
+  .kahtutitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .gv4odtitlebodytitle {
+  .kahtutitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .gv4odtitlebodylang {
+  .kahtutitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .gv4odtitlebodylang ul {
+  .kahtutitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .gv4odbody {
+  .kahtubody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .gv4odmenu {
+  .kahtumenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .gv4odmenulist {
+  .kahtumenulist {
     width: calc(100% - 20px);
     background-color: #e31524;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .gv4odmenubody {
+  .kahtumenubody {
     width: 100%;
     background-color: #e31524;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .gv4odmenulist ul {
+  .kahtumenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .gv4odmenulist ul a {
+  .kahtumenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -92,26 +92,26 @@
     white-space: nowrap;
   }
 
-  .gv4odmenulist ul a:hover {
+  .kahtumenulist ul a:hover {
     background-color: #fff;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .gv4od-menu-list-active {
+  .kahtu-menu-list-active {
     background-color: #fff;
     border-radius: 5px;
       color: #000 !important;
     cursor: pointer;
   }
 
-  .gv4odmenulistbody {
+  .kahtumenulistbody {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .gv4odbodylogo {
+    .kahtubodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -119,15 +119,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .gv4odmenu {
+    .kahtumenu {
       overflow-x: auto;
     }
 
-    .gv4odmenulist ul {
+    .kahtumenulist ul {
       flex-direction: row;
     }
 
-    .gv4odbodylogo {
+    .kahtubodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -135,25 +135,25 @@
   }
 
   @media screen and (max-width: 768px) {
-    .gv4odmenulist ul a {
+    .kahtumenulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .va119 {
+  .zhzi6 {
     margin-top: 30px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .va119body {
+  .zhzi6body {
     width: var(--max);
     display: grid;
     gap: 15px;
     grid-template-columns: repeat(4, 1fr);
   }
-  .va119bodyitem {
+  .zhzi6bodyitem {
     cursor: pointer;
     background-color: #e9e9e9;
     border-radius: 8px;
@@ -169,22 +169,22 @@
     align-items: center;
     justify-content: center;
   }
-  .va119bodyitem:hover {
+  .zhzi6bodyitem:hover {
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
     transform: translateY(-3px);
   }
-  .va119bodyitemimg {
+  .zhzi6bodyitemimg {
     display: flex;
     justify-content: center;
     align-items: center;
   }
-  .va119bodyitemimg img {
+  .zhzi6bodyitemimg img {
     width: 100%;
     height: auto;
     object-fit: cover;
     border-radius: 5px;
   }
-  .va119bodyitemtitle {
+  .zhzi6bodyitemtitle {
     padding: 8px;
     background-color: #e5e5e5;
     text-align: center;
@@ -193,14 +193,14 @@
     font-size: 16px;
   }
   @media screen and (max-width: 1024px) {
-    .va119body {
+    .zhzi6body {
       width: calc(100% - 20px);
       margin: 0 10px;
       grid-template-columns: repeat(3, 1fr);
     }
   }
   @media screen and (max-width: 768px) {
-    .va119body {
+    .zhzi6body {
       width: calc(100% - 20px);
       margin: 0 10px;
       grid-template-columns: repeat(2, 1fr);

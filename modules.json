@@ -135,7 +135,7 @@
     },
     {
       "index": 7,
-      "name": "Makinalarımız",
+      "name": "Makinalarımız x",
       "path": "page-column",
       "local": "body",
       "category": "page list",
@@ -154,6 +154,25 @@
     },
     {
       "index": 8,
+      "name": "Makinalarımız x",
+      "path": "page-column",
+      "local": "body",
+      "category": "page slider",
+      "desing": {
+        "page": "makinalarimiz",
+        "bgcolor": "#e31524",
+        "color": "#fff",
+        "height": "200px",
+        "font-size": "18px",
+        "opacity": "0.5",
+        "chilebgcolor": "#000",
+        "chilecolor": "#fff",
+        "chilesize": "16px"
+      },
+      "id": "vhi6fj3"
+    },
+    {
+      "index": 9,
       "name": "Module Listesi Kare",
       "path": "module-list",
       "local": "body",
@@ -217,7 +236,7 @@
       "id": "twgv9d"
     },
     {
-      "index": 9,
+      "index": 10,
       "name": "Tanıtım Modülü",
       "path": "module-1",
       "local": "body",
@@ -264,7 +283,7 @@
       "id": "w5hk74"
     },
     {
-      "index": 10,
+      "index": 11,
       "name": "Kutu ve Ambalaj",
       "path": "page-slider-5",
       "local": "body",
@@ -287,7 +306,7 @@
       "id": "vhi6fj"
     },
     {
-      "index": 11,
+      "index": 12,
       "name": "Kağıtlarımız",
       "path": "page-slider-6",
       "local": "body",
@@ -310,27 +329,18 @@
       "id": "vhi6fj2"
     },
     {
-      "index": 12,
-      "name": "Makinalarımız",
-      "path": "page-slider-5",
+      "index": 13,
+      "name": "Sayfa Listesi Kare",
+      "path": "page-list",
       "local": "body",
-      "category": "page slider",
+      "category": "page list",
       "desing": {
-        "page": "makinalarimiz",
-        "name": {
-          "tr": "Makinalarımız",
-          "en": "",
-          "ar": ""
-        },
+        "page": "kagitlarimiz",
         "size": 4,
         "category": "",
-        "aspect-ratio": "3 / 2",
-        "margin": "0px 0px 0px 0px",
-        "max": 8,
-        "color": "#e31524",
-        "delay": 4000
+        "aspect-ratio": "3 / 2"
       },
-      "id": "vhi6fj3"
+      "id": "kcy6ud"
     }
   ]
 }

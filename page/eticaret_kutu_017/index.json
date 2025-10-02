@@ -1,0 +1,36 @@
+{
+  "name": {
+    "tr": "E-Ticaret Kutuları",
+    "en": "E-Commerce Boxes",
+    "ar": "صناديق التجارة الإلكترونية"
+  },
+  "status": "play",
+  "category": "ambalaj",
+  "id": "eticaret_kutu_017",
+  "url": "",
+  "path": "e-ticaret-kutulari",
+  "desc": {},
+  "index": 16,
+  "icon": "home",
+  "img": "cfu1n.png",
+  "description": {
+    "tr": "MEP Ambalaj e-ticaret kutuları: Online satış için özel tasarım ambalaj çözümleri. Dayanıklı malzeme, güvenli taşıma, özel tasarım çözümleri.",
+    "en": "MEP Packaging e-commerce boxes: Special design packaging solutions for online sales. Durable material, safe transportation, custom design solutions.",
+    "ar": "صناديق التجارة الإلكترونية MEP Ambalaj: حلول التعبئة والتغليف بتصميم خاص للمبيعات عبر الإنترنت. مادة متينة، نقل آمن، حلول تصميم مخصصة."
+  },
+  "keyword": {
+    "tr": "e-ticaret kutusu, online satış ambalajı, dayanıklı e-ticaret kutusu, güvenli taşıma, özel tasarım e-ticaret",
+    "en": "e-commerce box, online sales packaging, durable e-commerce box, safe transportation, custom design e-commerce",
+    "ar": "صندوق تجارة إلكترونية، تغليف مبيعات عبر الإنترنت، صندوق تجارة إلكترونية متين، نقل آمن، تجارة إلكترونية تصميم مخصص"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">E-Ticaret Kutuları</h2>\n    <p style=\"font-size: 16px;\">\n        MEP Ambalaj olarak e-ticaret sektörü için özel tasarım ambalaj çözümleri üretiyoruz. Online satış için dayanıklı malzeme kullanarak güvenli taşıma sağlayan ambalajlarımızla ürünlerinizin korunmasını garanti ediyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Farklı boyutlarda ve özel tasarım seçenekleriyle markanızın ihtiyaçlarına uygun çözümler üretiyoruz. Sürdürülebilir malzeme kullanımıyla çevre dostu ambalaj çözümleri sunuyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        E-ticaret kutularımız, ürünlerinizin online satış sürecinde güvenli şekilde müşterilere ulaşmasını sağlar.\n    </p>"
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "update": "2025-10-02T04:58:13.811Z",
+  "date": "2025-10-02T03:54:07.039Z"
+}

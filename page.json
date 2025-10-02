@@ -1,0 +1,180 @@
+{
+  "name": "Sayfalar",
+  "path": "page",
+  "desc": [],
+  "data": [
+    {
+      "name": {
+        "tr": "Kurumsal",
+        "en": "Corporate",
+        "ar": "الشركة"
+      },
+      "status": "play",
+      "category": "",
+      "id": "dbapsz7v7q",
+      "url": "",
+      "path": "kurumsal",
+      "index": 0,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "hakkimizda",
+      "description": {
+        "tr": "MEP Ambalaj kurumsal sayfası: Firmamız hakkında detaylı bilgiler, vizyonumuz, misyonumuz ve değerlerimiz. Güvenilir ambalaj çözümleri.",
+        "en": "MEP Packaging corporate page: Detailed information about our company, our vision, mission and values. Reliable packaging solutions.",
+        "ar": "صفحة الشركة MEP Ambalaj: معلومات مفصلة عن شركتنا ورؤيتنا ورسالتنا وقيمنا. حلول التعبئة والتغليف الموثوقة."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Hizmetlerimiz",
+        "en": "Our Services",
+        "ar": "خدماتنا"
+      },
+      "status": "play",
+      "category": "",
+      "id": "zr09mkijyk",
+      "url": "",
+      "path": "hizmetlerimiz",
+      "index": 1,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [
+          "nzx31c"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "MEP Ambalaj hizmetlerimiz: Kapsamlı ambalaj çözümleri, özel tasarım hizmetleri, kaliteli üretim ve müşteri memnuniyeti odaklı hizmetler.",
+        "en": "MEP Packaging services: Comprehensive packaging solutions, custom design services, quality production and customer satisfaction focused services.",
+        "ar": "خدمات MEP Ambalaj: حلول التعبئة والتغليف الشاملة وخدمات التصميم المخصص والإنتاج عالي الجودة والخدمات المرتكزة على رضا العملاء."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Markalarımız",
+        "en": "Our Brands",
+        "ar": "علاماتنا التجارية"
+      },
+      "status": "play",
+      "category": "",
+      "id": "ufz7vw7s4j",
+      "url": "",
+      "path": "markalarimiz",
+      "index": 2,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "MEP Ambalaj markalarımız: Güvenilir marka portföyümüz ve kaliteli ürün çeşitliliğimiz. Sektörde öncü marka çözümleri.",
+        "en": "MEP Packaging brands: Our reliable brand portfolio and quality product diversity. Leading brand solutions in the industry.",
+        "ar": "علامات MEP Ambalaj التجارية: محفظة العلامات التجارية الموثوقة وتنوع المنتجات عالية الجودة. حلول العلامات التجارية الرائدة في الصناعة."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Referaslarımız",
+        "en": "Our References",
+        "ar": "مراجعنا"
+      },
+      "status": "play",
+      "category": "",
+      "id": "avift60ag9",
+      "url": "",
+      "path": "referaslarimiz",
+      "index": 3,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [
+          "twgv9d"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "MEP Ambalaj referanslarımız: Güvenilir müşteri portföyümüz ve başarılı projelerimiz. Sektördeki deneyimimizi gösteren referans çalışmalarımız.",
+        "en": "MEP Packaging references: Our reliable customer portfolio and successful projects. Reference works that demonstrate our experience in the industry.",
+        "ar": "مراجع MEP Ambalaj: محفظة العملاء الموثوقة والمشاريع الناجحة. أعمال مرجعية تُظهر خبرتنا في الصناعة."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "İletişim",
+        "en": "Contact",
+        "ar": "اتصل بنا"
+      },
+      "status": "play",
+      "category": "",
+      "id": "woxcsduyqz",
+      "url": "",
+      "path": "iletisim",
+      "index": 4,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [
+          "rnqtrn",
+          "fd388u"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "MEP Ambalaj iletişim: İletişim bilgilerimiz, adres ve telefon numaralarımız. Müşteri hizmetleri ve destek için iletişime geçin.",
+        "en": "MEP Packaging contact: Our contact information, address and phone numbers. Contact us for customer service and support.",
+        "ar": "اتصل بـ MEP Ambalaj: معلومات الاتصال الخاصة بنا والعنوان وأرقام الهاتف. تواصل معنا للحصول على خدمة العملاء والدعم."
+      },
+      "spot": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "desc": {}
+    }
+  ],
+  "index": 0,
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "modulestatus": {
+    "page": true,
+    "bgimg": true,
+    "detail": true,
+    "body": true
+  }
+}

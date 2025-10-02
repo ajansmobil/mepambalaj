@@ -1,0 +1,36 @@
+{
+  "name": {
+    "tr": "Dijital Baskı",
+    "en": "Digital Printing",
+    "ar": "الطباعة الرقمية"
+  },
+  "status": "play",
+  "category": "baski",
+  "id": "dijital_baski_010",
+  "url": "",
+  "path": "dijital-baski",
+  "desc": {},
+  "index": 9,
+  "icon": "home",
+  "img": "llfas.png",
+  "description": {
+    "tr": "MEP Ambalaj dijital baskı hizmetleri: Yüksek kaliteli dijital baskı, özel tasarım çözümleri, hızlı teslimat. Profesyonel baskı teknolojileri.",
+    "en": "MEP Packaging digital printing services: High quality digital printing, custom design solutions, fast delivery. Professional printing technologies.",
+    "ar": "خدمات الطباعة الرقمية MEP Ambalaj: طباعة رقمية عالية الجودة، حلول تصميم مخصصة، تسليم سريع. تقنيات طباعة مهنية."
+  },
+  "keyword": {
+    "tr": "dijital baskı, ambalaj baskı, özel tasarım baskı, yüksek kalite baskı, profesyonel baskı hizmetleri",
+    "en": "digital printing, packaging printing, custom design printing, high quality printing, professional printing services",
+    "ar": "طباعة رقمية، طباعة تغليف، طباعة تصميم مخصص، طباعة عالية الجودة، خدمات طباعة مهنية"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Dijital Baskı</h2>\n    <p style=\"font-size: 16px;\">\n        MEP Ambalaj olarak dijital baskı hizmetlerimizle ambalajlarınıza özel tasarım çözümleri sunuyoruz. Yüksek kaliteli dijital baskı teknolojileri kullanarak markanızın ihtiyaçlarına uygun çözümler üretiyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Hızlı teslimat süreçlerimizle zamanında teslim garantisi veriyoruz. Profesyonel baskı teknolojilerimizle kaliteli sonuçlar elde ediyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Farklı malzeme seçenekleriyle markanızın ihtiyaçlarına uygun çözümler üretiyoruz.\n    </p>"
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "update": "2025-10-02T04:58:13.794Z",
+  "date": "2025-10-02T03:54:07.023Z"
+}

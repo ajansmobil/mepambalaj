@@ -1,0 +1,36 @@
+{
+  "name": {
+    "tr": "Modül Kutuları",
+    "en": "Module Boxes",
+    "ar": "صناديق الوحدات"
+  },
+  "status": "play",
+  "category": "ambalaj",
+  "id": "modul_kutu_016",
+  "url": "",
+  "path": "modul-kutulari",
+  "desc": {},
+  "index": 15,
+  "icon": "home",
+  "img": "mozu1.png",
+  "description": {
+    "tr": "MEP Ambalaj modül kutuları: Modüler ambalaj çözümleri için özel tasarım kutular. Dayanıklı malzeme, güvenli taşıma, özel tasarım çözümleri.",
+    "en": "MEP Packaging module boxes: Special design boxes for modular packaging solutions. Durable material, safe transportation, custom design solutions.",
+    "ar": "صناديق الوحدات MEP Ambalaj: صناديق بتصميم خاص لحلول التعبئة والتغليف المعيارية. مادة متينة، نقل آمن، حلول تصميم مخصصة."
+  },
+  "keyword": {
+    "tr": "modül kutusu, modüler ambalaj, dayanıklı modül kutusu, güvenli taşıma, özel tasarım modül",
+    "en": "module box, modular packaging, durable module box, safe transportation, custom design module",
+    "ar": "صندوق وحدة، تغليف معياري، صندوق وحدة متين، نقل آمن، وحدة تصميم مخصص"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Modül Kutuları</h2>\n    <p style=\"font-size: 16px;\">\n        MEP Ambalaj olarak modüler ambalaj çözümleri için özel tasarım kutular üretiyoruz. Modül kutularımızla ürünlerinizin güvenli taşınmasını sağlayan ambalajlarımızla ürünlerinizin korunmasını garanti ediyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Dayanıklı malzeme kullanarak sürdürülebilir ambalaj çözümleri sunuyoruz. Farklı boyutlarda ve özel tasarım seçenekleriyle markanızın ihtiyaçlarına uygun çözümler üretiyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Çevre dostu malzeme kullanımıyla sürdürülebilir ambalaj çözümleri sunuyoruz.\n    </p>"
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "update": "2025-10-02T04:58:13.808Z",
+  "date": "2025-10-02T03:54:07.037Z"
+}

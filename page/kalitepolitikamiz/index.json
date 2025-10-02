@@ -1,0 +1,37 @@
+{
+  "name": {
+    "tr": "Kalite Politikamız",
+    "en": "Our Quality Policy",
+    "ar": "سياسة الجودة الخاصة بنا"
+  },
+  "status": "play",
+  "id": "kalitepolitikamiz",
+  "path": "kalite-politikamiz",
+  "category": "kurumsal",
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Kalite Politikamız</h2><p style=\" font-size: 16px;\">Kalite politikamız, müşteri memnuniyetini en üst seviyede tutmayı ve sürekli iyileştirmeyi hedefleyen bir yaklaşıma dayanır. Her projede, en iyi kalite standartlarını sağlamak için çalışıyor ve tüm süreçlerimizi bu doğrultuda sürekli gözden geçiriyoruz.</p>"
+  },
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "index": 3,
+  "icon": "home",
+  "description": {
+    "tr": "MEP Ambalaj kalite politikası: Müşteri memnuniyetini ön planda tutan, sürekli iyileştirme odaklı kalite anlayışımız. ISO standartlarına uygun üretim.",
+    "en": "MEP Packaging quality policy: Our quality approach that prioritizes customer satisfaction and focuses on continuous improvement. ISO standard compliant production.",
+    "ar": "سياسة الجودة MEP Ambalaj: نهجنا في الجودة الذي يعطي الأولوية لرضا العملاء ويركز على التحسين المستمر. إنتاج متوافق مع معايير ISO."
+  },
+  "keyword": {
+    "tr": "kalite politikası, müşteri memnuniyeti, sürekli iyileştirme, ISO standartları, kalite yönetimi, MEP Ambalaj kalite",
+    "en": "quality policy, customer satisfaction, continuous improvement, ISO standards, quality management, MEP Packaging quality",
+    "ar": "سياسة الجودة، رضا العملاء، التحسين المستمر، معايير ISO، إدارة الجودة، جودة MEP Ambalaj"
+  },
+  "spot": {
+    "tr": ""
+  },
+  "update": "2025-10-02T04:58:13.823Z",
+  "date": "2025-10-02T03:54:07.053Z"
+}

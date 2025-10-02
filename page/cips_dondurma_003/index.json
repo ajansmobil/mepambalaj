@@ -1,0 +1,36 @@
+{
+  "name": {
+    "tr": "Cips & Dondurma Kutuları",
+    "en": "Chips & Ice Cream Boxes",
+    "ar": "صناديق الرقائق والآيس كريم"
+  },
+  "status": "play",
+  "category": "ambalaj",
+  "id": "cips_dondurma_003",
+  "url": "",
+  "path": "cips-dondurma-kutulari",
+  "desc": {},
+  "index": 2,
+  "icon": "home",
+  "img": "nq665.png",
+  "description": {
+    "tr": "MEP Ambalaj cips ve dondurma kutuları: Soğuk zincir koruma, nem bariyeri, özel tasarım ambalaj çözümleri. Gıda güvenliği standartlarına uygun üretim.",
+    "en": "MEP Packaging chips and ice cream boxes: Cold chain protection, moisture barrier, special design packaging solutions. Production according to food safety standards.",
+    "ar": "صناديق الرقائق والآيس كريم MEP Ambalaj: حماية السلسلة الباردة، حاجز الرطوبة، حلول التعبئة والتغليف بتصميم خاص. إنتاج وفق معايير سلامة الغذاء."
+  },
+  "keyword": {
+    "tr": "cips kutusu, dondurma kutusu, soğuk zincir ambalajı, nem bariyeri, gıda güvenliği ambalajı",
+    "en": "chips box, ice cream box, cold chain packaging, moisture barrier, food safety packaging",
+    "ar": "صندوق رقائق، صندوق آيس كريم، تغليف سلسلة باردة، حاجز رطوبة، تغليف سلامة الغذاء"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Cips & Dondurma Kutuları</h2>\n    <p style=\"font-size: 16px;\">\n        MEP Ambalaj olarak cips ve dondurma ürünleri için özel tasarım ambalaj çözümleri üretiyoruz. Soğuk zincir koruma özellikli ambalajlarımızla ürünlerinizin tazeliğini ve kalitesini koruyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Nem bariyeri teknolojisi kullanarak ürünlerinizin raf ömrünü uzatıyoruz. Gıda güvenliği standartlarına uygun üretim koşullarında hijyenik ambalaj çözümleri sunuyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Farklı boyutlarda ve özel tasarım seçenekleriyle markanızın ihtiyaçlarına uygun çözümler üretiyoruz.\n    </p>"
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "update": "2025-10-02T04:58:13.778Z",
+  "date": "2025-10-02T03:54:07.006Z"
+}

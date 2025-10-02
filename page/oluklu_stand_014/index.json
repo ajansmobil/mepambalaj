@@ -1,0 +1,36 @@
+{
+  "name": {
+    "tr": "Oluklu Standlar",
+    "en": "Corrugated Displays",
+    "ar": "منصات العرض المضلعة"
+  },
+  "status": "play",
+  "category": "stand",
+  "id": "oluklu_stand_014",
+  "url": "",
+  "path": "oluklu-standlar",
+  "desc": {},
+  "index": 13,
+  "icon": "home",
+  "img": "fz7yt.png",
+  "description": {
+    "tr": "MEP Ambalaj oluklu standlar: Ürün sergileme ve teşhir için özel tasarım stand çözümleri. Dayanıklı malzeme, özel tasarım, sürdürülebilir çözümler.",
+    "en": "MEP Packaging corrugated displays: Special design display solutions for product exhibition and display. Durable material, custom design, sustainable solutions.",
+    "ar": "منصات العرض المضلعة MEP Ambalaj: حلول عرض بتصميم خاص لعرض المنتجات والمعرض. مادة متينة، تصميم مخصص، حلول مستدامة."
+  },
+  "keyword": {
+    "tr": "oluklu stand, ürün sergileme standı, teşhir standı, dayanıklı stand, sürdürülebilir stand",
+    "en": "corrugated display, product display stand, exhibition stand, durable display, sustainable display",
+    "ar": "عرض مضلع، منصة عرض منتجات، منصة معرض، عرض متين، عرض مستدام"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Oluklu Standlar</h2>\n    <p style=\"font-size: 16px;\">\n        MEP Ambalaj olarak ürün sergileme ve teşhir için özel tasarım stand çözümleri üretiyoruz. Oluklu malzemeden üretilen standlarımızla ürünlerinizin etkili şekilde sergilenmesini sağlıyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Dayanıklı malzeme kullanarak sürdürülebilir stand çözümleri sunuyoruz. Farklı boyutlarda ve özel tasarım seçenekleriyle markanızın ihtiyaçlarına uygun çözümler üretiyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Çevre dostu malzeme kullanımıyla sürdürülebilir stand çözümleri sunuyoruz.\n    </p>"
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "update": "2025-10-02T04:58:13.803Z",
+  "date": "2025-10-02T03:54:07.032Z"
+}

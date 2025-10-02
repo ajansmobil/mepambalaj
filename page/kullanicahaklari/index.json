@@ -1,0 +1,37 @@
+{
+  "name": {
+    "tr": "Kullanıcı Hakları",
+    "en": "User Rights",
+    "ar": "حقوق المستخدمين"
+  },
+  "status": "play",
+  "id": "kullanicahaklari",
+  "path": "kullanici-haklari",
+  "category": "kurumsal",
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Kullanıcı Hakları</h2>\n    <p style=\"font-size: 16px;\">\n        Herkes, kişisel verilerinin korunmasını isteme hakkına sahiptir. Kişisel verilerinizin korunması bizim için çok önemlidir ve bu doğrultuda 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) ve ilgili mevzuat çerçevesinde hareket etmekteyiz. Kullanıcılar, verilerinin hangi amaçlarla toplandığı, nasıl saklandığı ve kimlerle paylaşıldığı konusunda bilgilendirilme hakkına sahiptir.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Kişisel verilerinizi güncelleme, düzeltme, silme ve anonimleştirme taleplerinde bulunabilirsiniz. Aynı zamanda, toplanan verilerin hangi amaçla kullanıldığı ve işleme süreciyle ilgili ayrıntılı bilgi talep edebilir, bu süreçlerde yer alan üçüncü taraflar hakkında bilgi alabilirsiniz. Haklarınızı kullanmak için bizimle her zaman iletişime geçebilirsiniz.</p>\n    <p style=\"font-size: 16px;\">\n        Kişisel verilerinizin korunması ve haklarınızla ilgili detaylı bilgi almak için sitemizde yer alan Gizlilik Politikası’nı inceleyebilirsiniz. Kullanıcı olarak, verilerinizin güvenliği bizim önceliğimizdir ve gerekli teknik ve idari önlemleri almış bulunmaktayız.</p>"
+  },
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "index": 6,
+  "icon": "home",
+  "description": {
+    "tr": "MEP Ambalaj kullanıcı hakları: KVKK kapsamında kişisel veri hakları, veri işleme süreçleri ve kullanıcı talepleri. Şeffaf veri yönetimi.",
+    "en": "MEP Packaging user rights: Personal data rights under KVKK, data processing procedures and user requests. Transparent data management.",
+    "ar": "حقوق المستخدمين MEP Ambalaj: حقوق البيانات الشخصية بموجب KVKK وإجراءات معالجة البيانات وطلبات المستخدمين. إدارة شفافة للبيانات."
+  },
+  "keyword": {
+    "tr": "kullanıcı hakları, KVKK hakları, kişisel veri hakları, veri işleme hakları, şeffaflık, MEP Ambalaj haklar",
+    "en": "user rights, KVKK rights, personal data rights, data processing rights, transparency, MEP Packaging rights",
+    "ar": "حقوق المستخدمين، حقوق KVKK، حقوق البيانات الشخصية، حقوق معالجة البيانات، الشفافية، حقوق MEP Ambalaj"
+  },
+  "spot": {
+    "tr": ""
+  },
+  "update": "2025-10-02T04:58:13.830Z",
+  "date": "2025-10-02T03:54:07.062Z"
+}

@@ -1,0 +1,36 @@
+{
+  "name": {
+    "tr": "Beyaz Eşya Kutuları",
+    "en": "Home Appliance Boxes",
+    "ar": "صناديق الأجهزة المنزلية"
+  },
+  "status": "play",
+  "category": "ambalaj",
+  "id": "beyaz_esya_011",
+  "url": "",
+  "path": "beyaz-esya-kutulari",
+  "desc": {},
+  "index": 10,
+  "icon": "home",
+  "img": "d5n6z.png",
+  "description": {
+    "tr": "MEP Ambalaj beyaz eşya kutuları: Buzdolabı, çamaşır makinesi, bulaşık makinesi için özel tasarım ambalaj çözümleri. Dayanıklı malzeme, güvenli taşıma.",
+    "en": "MEP Packaging home appliance boxes: Special design packaging solutions for refrigerator, washing machine, dishwasher. Durable material, safe transportation.",
+    "ar": "صناديق الأجهزة المنزلية MEP Ambalaj: حلول التعبئة والتغليف بتصميم خاص للثلاجة وغسالة الملابس وغسالة الأطباق. مادة متينة، نقل آمن."
+  },
+  "keyword": {
+    "tr": "beyaz eşya kutusu, buzdolabı kutusu, çamaşır makinesi kutusu, bulaşık makinesi kutusu, dayanıklı ambalaj",
+    "en": "home appliance box, refrigerator box, washing machine box, dishwasher box, durable packaging",
+    "ar": "صندوق أجهزة منزلية، صندوق ثلاجة، صندوق غسالة ملابس، صندوق غسالة أطباق، تغليف متين"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Beyaz Eşya Kutuları</h2>\n    <p style=\"font-size: 16px;\">\n        MEP Ambalaj olarak beyaz eşya ürünleri için özel tasarım ambalaj çözümleri üretiyoruz. Buzdolabı, çamaşır makinesi, bulaşık makinesi gibi büyük beyaz eşyalar için dayanıklı malzeme kullanarak güvenli taşıma sağlayan ambalajlarımızla ürünlerinizin korunmasını garanti ediyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Farklı boyutlarda ve özel tasarım seçenekleriyle markanızın ihtiyaçlarına uygun çözümler üretiyoruz. Sürdürülebilir malzeme kullanımıyla çevre dostu ambalaj çözümleri sunuyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Beyaz eşya kutularımız, ürünlerinizin nakliye sırasında hasar görmesini önleyen özel tasarım çözümlerimizle güvenli taşıma sağlar.\n    </p>"
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "update": "2025-10-02T04:58:13.796Z",
+  "date": "2025-10-02T03:54:07.026Z"
+}

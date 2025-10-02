@@ -1,0 +1,36 @@
+{
+  "name": {
+    "tr": "Oktabin Kutuları",
+    "en": "Octabin Boxes",
+    "ar": "صناديق الأوكتابين"
+  },
+  "status": "play",
+  "category": "ambalaj",
+  "id": "oktabin_kutu_015",
+  "url": "",
+  "path": "oktabin-kutulari",
+  "desc": {},
+  "index": 14,
+  "icon": "home",
+  "img": "is3ej.png",
+  "description": {
+    "tr": "MEP Ambalaj oktabin kutuları: Özel tasarım oktabin ambalaj çözümleri. Dayanıklı malzeme, güvenli taşıma, özel tasarım çözümleri. Sürdürülebilir ambalaj.",
+    "en": "MEP Packaging octabin boxes: Special design octabin packaging solutions. Durable material, safe transportation, custom design solutions. Sustainable packaging.",
+    "ar": "صناديق الأوكتابين MEP Ambalaj: حلول التعبئة والتغليف أوكتابين بتصميم خاص. مادة متينة، نقل آمن، حلول تصميم مخصصة. تعبئة وتغليف مستدامة."
+  },
+  "keyword": {
+    "tr": "oktabin kutusu, özel tasarım oktabin, dayanıklı oktabin, güvenli taşıma, sürdürülebilir oktabin",
+    "en": "octabin box, custom design octabin, durable octabin, safe transportation, sustainable octabin",
+    "ar": "صندوق أوكتابين، أوكتابين تصميم مخصص، أوكتابين متين، نقل آمن، أوكتابين مستدام"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Oktabin Kutuları</h2>\n    <p style=\"font-size: 16px;\">\n        MEP Ambalaj olarak özel tasarım oktabin ambalaj çözümleri üretiyoruz. Oktabin kutularımızla ürünlerinizin güvenli taşınmasını sağlayan ambalajlarımızla ürünlerinizin korunmasını garanti ediyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Dayanıklı malzeme kullanarak sürdürülebilir ambalaj çözümleri sunuyoruz. Farklı boyutlarda ve özel tasarım seçenekleriyle markanızın ihtiyaçlarına uygun çözümler üretiyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Çevre dostu malzeme kullanımıyla sürdürülebilir ambalaj çözümleri sunuyoruz.\n    </p>"
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "update": "2025-10-02T04:58:13.806Z",
+  "date": "2025-10-02T03:54:07.034Z"
+}

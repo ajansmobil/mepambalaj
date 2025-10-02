@@ -1,0 +1,40 @@
+{
+  "name": {
+    "tr": "Kurumsal",
+    "en": "Corporate",
+    "ar": "الشركة"
+  },
+  "status": "play",
+  "category": "",
+  "id": "dbapsz7v7q",
+  "url": "",
+  "path": "kurumsal",
+  "desc": {},
+  "index": 0,
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "pathnext": "hakkimizda",
+  "description": {
+    "tr": "MEP Ambalaj kurumsal sayfası: Firmamız hakkında detaylı bilgiler, vizyonumuz, misyonumuz ve değerlerimiz. Güvenilir ambalaj çözümleri.",
+    "en": "MEP Packaging corporate page: Detailed information about our company, our vision, mission and values. Reliable packaging solutions.",
+    "ar": "صفحة الشركة MEP Ambalaj: معلومات مفصلة عن شركتنا ورؤيتنا ورسالتنا وقيمنا. حلول تعبئة وتغليف موثوقة."
+  },
+  "keyword": {
+    "tr": "MEP Ambalaj kurumsal, ambalaj firması, güvenilir ambalaj, kaliteli ambalaj çözümleri, profesyonel ambalaj hizmetleri",
+    "en": "MEP Packaging corporate, packaging company, reliable packaging, quality packaging solutions, professional packaging services",
+    "ar": "الشركة MEP Ambalaj، شركة تعبئة وتغليف، تعبئة وتغليف موثوقة، حلول تعبئة وتغليف عالية الجودة، خدمات تعبئة وتغليف مهنية"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Kurumsal</h2>\n    <p style=\"font-size: 16px;\">\n        MEP Ambalaj olarak sektörde yılların verdiği deneyim ve uzman kadromuzla kaliteli ambalaj çözümleri sunmaktayız. Müşteri memnuniyetini her zaman ön planda tutarak, yenilikçi ve sürdürülebilir çözümler üretmekteyiz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Firmamız, gıda güvenliği standartlarına uygun üretim koşullarında hijyenik ambalaj çözümleri sunmaktadır. Çevre dostu malzeme kullanımıyla sürdürülebilir ambalaj çözümleri üretmekteyiz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Kalite, güvenilirlik ve müşteri memnuniyeti değerlerimizle sektörde öncü konumumuzu sürdürmekteyiz.\n    </p>"
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "update": "2025-10-02T04:58:13.760Z",
+  "date": "2025-10-01T08:33:22.910Z"
+}

@@ -1,0 +1,36 @@
+{
+  "name": {
+    "tr": "Bira & Şarap Kutuları",
+    "en": "Beer & Wine Boxes",
+    "ar": "صناديق البيرة والنبيذ"
+  },
+  "status": "play",
+  "category": "ambalaj",
+  "id": "bira_sarap_007",
+  "url": "",
+  "path": "bira-sarap-kutulari",
+  "desc": {},
+  "index": 6,
+  "icon": "home",
+  "img": "lyuu7.png",
+  "description": {
+    "tr": "MEP Ambalaj bira ve şarap kutuları: İçecek sektörü için özel tasarım ambalaj çözümleri. Sızdırmaz yapı, dayanıklı malzeme, hijyenik üretim.",
+    "en": "MEP Packaging beer and wine boxes: Special design packaging solutions for beverage industry. Leak-proof structure, durable material, hygienic production.",
+    "ar": "صناديق البيرة والنبيذ MEP Ambalaj: حلول التعبئة والتغليف بتصميم خاص لصناعة المشروبات. هيكل محكم، مادة متينة، إنتاج صحي."
+  },
+  "keyword": {
+    "tr": "bira kutusu, şarap kutusu, içecek ambalajı, sızdırmaz kutu, dayanıklı içecek ambalajı",
+    "en": "beer box, wine box, beverage packaging, leak-proof box, durable beverage packaging",
+    "ar": "صندوق بيرة، صندوق نبيذ، تغليف مشروبات، صندوق محكم، تغليف مشروبات متين"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Bira & Şarap Kutuları</h2>\n    <p style=\"font-size: 16px;\">\n        MEP Ambalaj olarak bira ve şarap ürünleri için özel tasarım ambalaj çözümleri üretiyoruz. Sızdırmaz yapısıyla içeceklerinizin güvenli taşınmasını sağlayan ambalajlarımızla ürünlerinizin kalitesini koruyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Dayanıklı malzeme kullanarak hijyenik üretim koşullarında ambalaj çözümleri sunuyoruz. Farklı boyutlarda ve özel tasarım seçenekleriyle markanızın ihtiyaçlarına uygun çözümler üretiyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Sürdürülebilir malzeme kullanımıyla çevre dostu ambalaj çözümleri sunuyoruz.\n    </p>"
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "update": "2025-10-02T04:58:13.787Z",
+  "date": "2025-10-02T03:54:07.016Z"
+}

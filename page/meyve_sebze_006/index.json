@@ -1,0 +1,36 @@
+{
+  "name": {
+    "tr": "Yaş Meyve ve Sebze Kutuları",
+    "en": "Fresh Fruit and Vegetable Boxes",
+    "ar": "صناديق الفواكه والخضروات الطازجة"
+  },
+  "status": "play",
+  "category": "ambalaj",
+  "id": "meyve_sebze_006",
+  "url": "",
+  "path": "yas-meyve-sebze-kutulari",
+  "desc": {},
+  "index": 5,
+  "icon": "home",
+  "img": "ilaa4.png",
+  "description": {
+    "tr": "MEP Ambalaj yaş meyve ve sebze kutuları: Gözenekli yapı, mikroorganizma koruması, raf ömrü uzatma. Hijyenik üretim, sürdürülebilir malzeme.",
+    "en": "MEP Packaging fresh fruit and vegetable boxes: Porous structure, microorganism protection, shelf life extension. Hygienic production, sustainable material.",
+    "ar": "صناديق الفواكه والخضروات الطازجة MEP Ambalaj: هيكل مسامي، حماية من الكائنات الدقيقة، إطالة العمر الافتراضي. إنتاج صحي، مادة مستدامة."
+  },
+  "keyword": {
+    "tr": "meyve sebze kutusu, yaş meyve ambalajı, gözenekli kutu, mikroorganizma koruması, raf ömrü uzatma",
+    "en": "fruit vegetable box, fresh fruit packaging, porous box, microorganism protection, shelf life extension",
+    "ar": "صندوق فواكه وخضروات، تغليف فواكه طازجة، صندوق مسامي، حماية من الكائنات الدقيقة، إطالة العمر الافتراضي"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Yaş Meyve ve Sebze Kutuları</h2>\n    <p style=\"font-size: 16px;\">\n        MEP Ambalaj olarak yaş meyve ve sebze ürünleri için özel tasarım ambalaj çözümleri üretiyoruz. Gözenekli yapısı sayesinde mikroorganizmaların tüm yüzey faaliyetini absorbe eden ambalajlarımızla ürünlerinizin raf ömrünü uzatıyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Hijyenik üretim koşullarında sürdürülebilir malzeme kullanarak çevre dostu ambalaj çözümleri sunuyoruz. Farklı boyutlarda ve özel tasarım seçenekleriyle markanızın ihtiyaçlarına uygun çözümler üretiyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Ürünlerinizin tazeliğini ve kalitesini koruyan ambalaj teknolojileri kullanıyoruz.\n    </p>"
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "update": "2025-10-02T04:58:13.785Z",
+  "date": "2025-10-02T03:54:07.013Z"
+}

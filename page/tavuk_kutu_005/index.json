@@ -1,0 +1,36 @@
+{
+  "name": {
+    "tr": "Tavuk Kutuları",
+    "en": "Chicken Boxes",
+    "ar": "صناديق الدجاج"
+  },
+  "status": "play",
+  "category": "ambalaj",
+  "id": "tavuk_kutu_005",
+  "url": "",
+  "path": "tavuk-kutulari",
+  "desc": {},
+  "index": 4,
+  "icon": "home",
+  "img": "cr7hl.png",
+  "description": {
+    "tr": "MEP Ambalaj tavuk kutuları: Tavuk ve kanatlı et ürünleri için özel tasarım ambalaj çözümleri. Soğuk zincir koruma, hijyenik üretim.",
+    "en": "MEP Packaging chicken boxes: Special design packaging solutions for chicken and poultry products. Cold chain protection, hygienic production.",
+    "ar": "صناديق الدجاج MEP Ambalaj: حلول التعبئة والتغليف بتصميم خاص للدجاج ومنتجات الدواجن. حماية السلسلة الباردة، إنتاج صحي."
+  },
+  "keyword": {
+    "tr": "tavuk kutusu, kanatlı et ambalajı, soğuk zincir tavuk kutusu, hijyenik tavuk ambalajı, gıda güvenliği",
+    "en": "chicken box, poultry packaging, cold chain chicken box, hygienic chicken packaging, food safety",
+    "ar": "صندوق دجاج، تغليف دواجن، صندوق دجاج سلسلة باردة، تغليف دجاج صحي، سلامة الغذاء"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Tavuk Kutuları</h2>\n    <p style=\"font-size: 16px;\">\n        MEP Ambalaj olarak tavuk ve kanatlı et ürünleri için özel tasarım ambalaj çözümleri üretiyoruz. Soğuk zincir koruma özellikli ambalajlarımızla tavuk ürünlerinizin tazeliğini ve kalitesini koruyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Hijyenik üretim koşullarında gıda güvenliği standartlarına uygun ambalaj çözümleri sunuyoruz. Nem bariyeri teknolojisi kullanarak tavuk ürünlerinizin raf ömrünü uzatıyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Farklı boyutlarda ve özel tasarım seçenekleriyle markanızın ihtiyaçlarına uygun çözümler üretiyoruz.\n    </p>"
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "update": "2025-10-02T04:58:13.782Z",
+  "date": "2025-10-02T03:54:07.011Z"
+}

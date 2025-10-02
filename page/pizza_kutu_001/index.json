@@ -1,0 +1,36 @@
+{
+  "name": {
+    "tr": "Pizza Kutuları",
+    "en": "Pizza Boxes",
+    "ar": "صناديق البيتزا"
+  },
+  "status": "play",
+  "category": "ambalaj",
+  "id": "pizza_kutu_001",
+  "url": "",
+  "path": "pizza-kutulari",
+  "desc": {},
+  "index": 0,
+  "icon": "home",
+  "img": "gso99.png",
+  "description": {
+    "tr": "MEP Ambalaj pizza kutuları: Paket servis ve restoranlar için özel tasarım pizza kutuları. Oluklu mukavva malzeme, yağ ve nem emici özellik. Dayanıklı ve hafif yapı.",
+    "en": "MEP Packaging pizza boxes: Special design pizza boxes for delivery and restaurants. Corrugated cardboard material, oil and moisture absorbing feature. Durable and lightweight structure.",
+    "ar": "صناديق بيتزا MEP Ambalaj: صناديق بيتزا بتصميم خاص للخدمة والتوصيل والمطاعم. مادة الكرتون المضلع، ميزة امتصاص الزيت والرطوبة. هيكل متين وخفيف الوزن."
+  },
+  "keyword": {
+    "tr": "pizza kutusu, paket servis kutusu, oluklu mukavva pizza kutusu, restoran ambalajı, pizza paketleme",
+    "en": "pizza box, delivery box, corrugated cardboard pizza box, restaurant packaging, pizza packaging",
+    "ar": "صندوق بيتزا، صندوق توصيل، صندوق بيتزا كرتون مضلع، تغليف مطعم، تغليف بيتزا"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Pizza Kutuları</h2>\n    <p style=\"font-size: 16px;\">\n        MEP Ambalaj olarak paket servis ve restoranlar için özel tasarım pizza kutuları üretiyoruz. Oluklu mukavva malzemeden üretilen pizza kutularımız yağ ve nem emici özellikleriyle pizza paketleme için ideal çözüm sunuyor.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Dayanıklı ve hafif yapısıyla taşıma sırasında pizzalarınızın tazeliğini koruyor. Farklı boyutlarda ve özel baskı seçenekleriyle markanızın ihtiyaçlarına uygun çözümler üretiyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Sürdürülebilir malzeme kullanımıyla çevre dostu ambalaj çözümleri sunuyoruz.\n    </p>"
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "update": "2025-10-02T04:58:13.774Z",
+  "date": "2025-10-02T03:54:07.000Z"
+}

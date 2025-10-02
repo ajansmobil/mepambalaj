@@ -1,0 +1,271 @@
+{
+  "data": [
+    {
+      "index": 0,
+      "name": "Menü ",
+      "path": "menu-2-b",
+      "local": "header",
+      "category": "menu",
+      "desing": {
+        "color": "#fff",
+        "page": "page",
+        "bgcolor": "#e31524",
+        "colorhover": "#000",
+        "bgcolorhover": "#fff"
+      },
+      "id": "if9ixc"
+    },
+    {
+      "index": 1,
+      "name": "Footer 1",
+      "path": "footer-1",
+      "local": "footer",
+      "category": "footer",
+      "desing": {
+        "bgcolor": "#e31524",
+        "color": "#fff",
+        "img": "",
+        "imgwidth": "250px"
+      },
+      "data": [],
+      "id": "bc2o6m"
+    },
+    {
+      "index": 2,
+      "name": "Slider",
+      "path": "slider",
+      "local": "header",
+      "category": "slider",
+      "desing": {
+        "delay": 3000
+      },
+      "data": [
+        {
+          "img": "1.png"
+        },
+        {
+          "img": "2.png"
+        }
+      ],
+      "id": "x2phjr"
+    },
+    {
+      "index": 3,
+      "name": "İletişim",
+      "path": "contact-3",
+      "local": "body",
+      "category": "contact",
+      "desing": {
+        "color": "#1e3046",
+        "name": {
+          "tr": "Bize Ulaşın",
+          "en": "Contact Us",
+          "ar": "تواصل معنا"
+        },
+        "margin": "30px 0px 30px 0px"
+      },
+      "data": [
+        {
+          "icon": "phone",
+          "text": "+90 541 655 2727",
+          "url": "tel:00905416552727"
+        },
+        {
+          "icon": "email",
+          "text": "info@{{domain}}"
+        },
+        {
+          "icon": "map",
+          "text": "Mücahitler Mah. 52083 Nolu Sk. Yasem İş Mrk. No:42 K:3 D:307 Şehitkamil / Gaziantep / TÜRKİYE",
+          "url": "https://maps.app.goo.gl/xoLQtPL2MqfAMa5j8"
+        }
+      ],
+      "id": "rnqtrn"
+    },
+    {
+      "index": 4,
+      "name": "Maps",
+      "path": "map",
+      "local": "body",
+      "category": "map",
+      "desing": {
+        "height": "200",
+        "opacity": "0.5",
+        "backgroundcolor": "#000",
+        "color": "#1e3046",
+        "img": "map.webp",
+        "externalUrl": ""
+      },
+      "id": "fd388u"
+    },
+    {
+      "index": 5,
+      "name": "Page Desing",
+      "path": "page-desing-5",
+      "local": "body",
+      "category": "page",
+      "desing": {
+        "height": "100",
+        "opacity": "0.5",
+        "font-size": "32",
+        "backgroundcolor": "#000",
+        "menu-active": "#000",
+        "category": "kurumsal"
+      },
+      "id": "mfki0h"
+    },
+    {
+      "index": 6,
+      "name": "Hizmetlerimiz",
+      "path": "page-column",
+      "local": "body",
+      "category": "page list",
+      "desing": {
+        "page": "products",
+        "bgcolor": "#e31524",
+        "color": "#fff",
+        "height": "200px",
+        "font-size": "18px",
+        "opacity": "0.5",
+        "chilebgcolor": "#000",
+        "chilecolor": "#fff",
+        "chilesize": "16px"
+      },
+      "id": "nzx31c"
+    },
+    {
+      "index": 7,
+      "name": "Module Listesi Kare",
+      "path": "module-list",
+      "local": "body",
+      "category": "Module list",
+      "desing": {
+        "size": 4
+      },
+      "data": [
+        {
+          "img": "1.png"
+        },
+        {
+          "img": "10.png"
+        },
+        {
+          "img": "11.png"
+        },
+        {
+          "img": "12.png"
+        },
+        {
+          "img": "13.png"
+        },
+        {
+          "img": "14.png"
+        },
+        {
+          "img": "15.png"
+        },
+        {
+          "img": "16.png"
+        },
+        {
+          "img": "17.png"
+        },
+        {
+          "img": "2.png"
+        },
+        {
+          "img": "3.png"
+        },
+        {
+          "img": "4.png"
+        },
+        {
+          "img": "5.png"
+        },
+        {
+          "img": "6.png"
+        },
+        {
+          "img": "7.png"
+        },
+        {
+          "img": "8.png"
+        },
+        {
+          "img": "9.png"
+        }
+      ],
+      "id": "twgv9d"
+    },
+    {
+      "index": 8,
+      "name": "Ürünlerimiz",
+      "path": "page-slider-5",
+      "local": "body",
+      "category": "page slider",
+      "desing": {
+        "page": "products",
+        "name": {
+          "tr": "Ürünlerimiz",
+          "en": "Our Products",
+          "ar": "منتجاتنا"
+        },
+        "size": 4,
+        "category": "",
+        "aspect-ratio": "3 / 2",
+        "margin": "0px 0px 0px 0px",
+        "max": 8,
+        "color": "#006B65",
+        "delay": 4000
+      },
+      "id": "vhi6fj"
+    },
+    {
+      "name": "Tanıtım Modülü",
+      "path": "module-1",
+      "local": "body",
+      "category": "module",
+      "desing": {
+        "name": {
+          "tr": "MEP Ambalaj'ı Tanıyın",
+          "en": "Get to Know MEP Packaging",
+          "ar": "تعرف على MEP Ambalaj"
+        },
+        "spot": {
+          "tr": "MEP Ambalaj olarak yılların verdiği deneyim ve uzman kadromuzla kaliteli ambalaj çözümleri sunmaktayız. Gıda güvenliği standartlarına uygun üretim koşullarında hijyenik ambalaj çözümleri üretmekteyiz. Çevre dostu malzeme kullanımıyla sürdürülebilir ambalaj çözümleri sunuyoruz.",
+          "en": "As MEP Packaging, we provide quality packaging solutions with our experienced and expert staff. We produce hygienic packaging solutions under production conditions that comply with food safety standards. We offer sustainable packaging solutions with environmentally friendly material usage.",
+          "ar": "نحن في MEP Ambalaj نقدم حلول التعبئة والتغليف عالية الجودة بخبرتنا وطاقمنا المتخصص. ننتج حلول التعبئة والتغليف الصحية في ظروف إنتاج متوافقة مع معايير سلامة الغذاء. نقدم حلول التعبئة والتغليف المستدامة باستخدام المواد الصديقة للبيئة."
+        },
+        "name2": {
+          "tr": "Vizyonumuz",
+          "en": "Our Vision",
+          "ar": "رؤيتنا"
+        },
+        "spot2": {
+          "tr": "Sektörümüzde en güvenilir ve tercih edilen firma olmak. Müşteri memnuniyetini ön planda tutarak sürekli gelişim ve iyileştirme.",
+          "en": "To be the most trusted and preferred company in our sector. Continuous development and improvement by prioritizing customer satisfaction.",
+          "ar": "أن نكون الشركة الأكثر موثوقية ومفضلة في قطاعنا. التطوير والتحسين المستمر مع إعطاء الأولوية لرضا العملاء."
+        },
+        "icon2": "home",
+        "name3": {
+          "tr": "Misyonumuz",
+          "en": "Our Mission",
+          "ar": "مهمتنا"
+        },
+        "spot3": {
+          "tr": "Çevre dostu uygulamalarla sürdürülebilir bir gelecek için katkıda bulunmak. Kaliteli ambalaj çözümleriyle müşteri memnuniyetini sağlamak.",
+          "en": "To contribute to a sustainable future with environmentally friendly practices. To ensure customer satisfaction with quality packaging solutions.",
+          "ar": "المساهمة في مستقبل مستدام من خلال الممارسات الصديقة للبيئة. ضمان رضا العملاء من خلال حلول التعبئة والتغليف عالية الجودة."
+        },
+        "icon3": "home",
+        "img": "index.jpg",
+        "bgcolor": "#1e3046",
+        "fontcolor": "#fff",
+        "margintop": "20",
+        "marginbotton": "20"
+      },
+      "id": "w5hk74",
+      "index": 9
+    }
+  ]
+}

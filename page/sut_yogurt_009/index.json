@@ -1,0 +1,36 @@
+{
+  "name": {
+    "tr": "Süt / Yoğurt / Ayran / Yumurta Kutuları",
+    "en": "Milk / Yogurt / Ayran / Egg Boxes",
+    "ar": "صناديق الحليب / الزبادي / العيران / البيض"
+  },
+  "status": "play",
+  "category": "ambalaj",
+  "id": "sut_yogurt_009",
+  "url": "",
+  "path": "sut-yogurt-ayran-yumurta-kutulari",
+  "desc": {},
+  "index": 8,
+  "icon": "home",
+  "img": "cqccp.png",
+  "description": {
+    "tr": "MEP Ambalaj süt ürünleri kutuları: Süt, yoğurt, ayran, yumurta için özel tasarım ambalaj çözümleri. Soğuk zincir koruma, hijyenik üretim.",
+    "en": "MEP Packaging dairy product boxes: Special design packaging solutions for milk, yogurt, ayran, eggs. Cold chain protection, hygienic production.",
+    "ar": "صناديق منتجات الألبان MEP Ambalaj: حلول التعبئة والتغليف بتصميم خاص للحليب والزبادي والعيران والبيض. حماية السلسلة الباردة، إنتاج صحي."
+  },
+  "keyword": {
+    "tr": "süt kutusu, yoğurt kutusu, ayran kutusu, yumurta kutusu, süt ürünleri ambalajı, soğuk zincir",
+    "en": "milk box, yogurt box, ayran box, egg box, dairy product packaging, cold chain",
+    "ar": "صندوق حليب، صندوق زبادي، صندوق عيران، صندوق بيض، تغليف منتجات ألبان، سلسلة باردة"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Süt / Yoğurt / Ayran / Yumurta Kutuları</h2>\n    <p style=\"font-size: 16px;\">\n        MEP Ambalaj olarak süt, yoğurt, ayran, yumurta gibi süt ürünleri için özel tasarım ambalaj çözümleri üretiyoruz. Soğuk zincir koruma özellikli ambalajlarımızla süt ürünlerinizin tazeliğini ve kalitesini koruyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Hijyenik üretim koşullarında gıda güvenliği standartlarına uygun ambalaj çözümleri sunuyoruz. Nem bariyeri teknolojisi kullanarak süt ürünlerinizin raf ömrünü uzatıyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Farklı boyutlarda ve özel tasarım seçenekleriyle markanızın ihtiyaçlarına uygun çözümler üretiyoruz.\n    </p>"
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "update": "2025-10-02T04:58:13.792Z",
+  "date": "2025-10-02T03:54:07.021Z"
+}

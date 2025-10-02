@@ -1,0 +1,43 @@
+{
+  "name": {
+    "tr": "Hizmetlerimiz",
+    "en": "Our Services",
+    "ar": "خدماتنا"
+  },
+  "status": "play",
+  "category": "",
+  "id": "zr09mkijyk",
+  "url": "",
+  "path": "hizmetlerimiz",
+  "desc": {},
+  "index": 1,
+  "icon": "home",
+  "desing": {
+    "header": [],
+    "body": [
+      "nzx31c"
+    ],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": "MEP Ambalaj hizmetlerimiz: Kapsamlı ambalaj çözümleri, özel tasarım hizmetleri, kaliteli üretim ve müşteri memnuniyeti odaklı hizmetler.",
+    "en": "MEP Packaging services: Comprehensive packaging solutions, custom design services, quality production and customer satisfaction focused services.",
+    "ar": "خدمات MEP Ambalaj: حلول التعبئة والتغليف الشاملة، خدمات التصميم المخصص، الإنتاج عالي الجودة والخدمات المرتكزة على رضا العملاء."
+  },
+  "keyword": {
+    "tr": "hizmetlerimiz, ambalaj çözümleri, özel tasarım, kaliteli üretim, müşteri memnuniyeti, MEP Ambalaj hizmetler",
+    "en": "our services, packaging solutions, custom design, quality production, customer satisfaction, MEP Packaging services",
+    "ar": "خدماتنا، حلول التعبئة والتغليف، تصميم مخصص، إنتاج عالي الجودة، رضا العملاء، خدمات MEP Ambalaj"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Hizmetlerimiz</h2>\n    <p style=\"font-size: 16px;\">\n        MEP Ambalaj olarak kapsamlı ambalaj çözümleri ve özel tasarım hizmetleri sunmaktayız. Kaliteli üretim süreçlerimizle müşteri memnuniyetini ön planda tutarak hizmet vermekteyiz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Farklı sektörlerin ihtiyaçlarına özel olarak tasarlanmış ambalaj çözümleri üretmekteyiz. Sürdürülebilir ve çevre dostu malzeme kullanımıyla kaliteli hizmet sunmaktayız.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Teknik destek ve müşteri hizmetleri ekibimizle size en iyi hizmeti sunmak için çalışmaktayız.\n    </p>"
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "update": "2025-10-02T04:58:13.763Z",
+  "date": "2025-10-01T08:33:30.310Z"
+}

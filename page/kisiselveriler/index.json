@@ -1,0 +1,37 @@
+{
+  "name": {
+    "tr": "Kişisel Veriler",
+    "en": "Personal Data",
+    "ar": "البيانات الشخصية"
+  },
+  "status": "play",
+  "id": "kisiselveriler",
+  "path": "kisisel-veriler",
+  "category": "kurumsal",
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Kişisel Veriler</h2>\n    <p style=\"font-size: 16px;\">\n        Kişisel verileriniz, yalnızca yasal gereklilikleri karşılamak, taleplerinizi yerine getirmek ve size daha iyi hizmet sunmak amacıyla toplanmaktadır. Kişisel verilerinizin güvenliği bizim için önceliklidir ve bu verilerin korunması için 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) başta olmak üzere, ilgili tüm mevzuat çerçevesinde gerekli teknik ve idari tedbirleri almaktayız.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Toplanan kişisel veriler, yalnızca yetkili kişiler tarafından erişilebilir olup, izniniz dışında üçüncü taraflarla paylaşılmamaktadır. Kişisel verilerinizin hangi amaçlarla işlendiğini, nasıl saklandığını, kimlerle paylaşıldığını öğrenme hakkına sahipsiniz. Ayrıca, verilerinize erişim talep edebilir, düzeltilmesini, silinmesini veya anonim hale getirilmesini isteyebilirsiniz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Kişisel verilerinizle ilgili herhangi bir sorunuz veya talebiniz olduğunda, Gizlilik Politikamızda belirtilen iletişim kanallarımız üzerinden bizimle iletişime geçebilirsiniz. Verilerinizin güvenliği ve mahremiyeti bizim için büyük önem taşımaktadır.\n    </p>"
+  },
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "index": 5,
+  "icon": "home",
+  "description": {
+    "tr": "MEP Ambalaj kişisel veriler koruma: KVKK uyumlu veri güvenliği, kişisel veri işleme politikaları ve kullanıcı hakları. Güvenli veri yönetimi.",
+    "en": "MEP Packaging personal data protection: KVKK compliant data security, personal data processing policies and user rights. Secure data management.",
+    "ar": "حماية البيانات الشخصية MEP Ambalaj: أمان البيانات المتوافق مع KVKK وسياسات معالجة البيانات الشخصية وحقوق المستخدمين. إدارة آمنة للبيانات."
+  },
+  "keyword": {
+    "tr": "kişisel veriler, KVKK, veri koruma, kişisel veri güvenliği, veri işleme, kullanıcı hakları, MEP Ambalaj veri",
+    "en": "personal data, KVKK, data protection, personal data security, data processing, user rights, MEP Packaging data",
+    "ar": "بيانات شخصية، KVKK، حماية البيانات، أمان البيانات الشخصية، معالجة البيانات، حقوق المستخدمين، بيانات MEP Ambalaj"
+  },
+  "spot": {
+    "tr": ""
+  },
+  "update": "2025-10-02T04:58:13.827Z",
+  "date": "2025-10-02T03:54:07.059Z"
+}

@@ -1,0 +1,36 @@
+{
+  "name": {
+    "tr": "Et Kutuları",
+    "en": "Meat Boxes",
+    "ar": "صناديق اللحوم"
+  },
+  "status": "play",
+  "category": "ambalaj",
+  "id": "et_kutu_004",
+  "url": "",
+  "path": "et-kutulari",
+  "desc": {},
+  "index": 3,
+  "icon": "home",
+  "img": "aq23x.png",
+  "description": {
+    "tr": "MEP Ambalaj et kutuları: Et ve et ürünleri için özel tasarım ambalaj çözümleri. Soğuk zincir koruma, hijyenik üretim, gıda güvenliği standartları.",
+    "en": "MEP Packaging meat boxes: Special design packaging solutions for meat and meat products. Cold chain protection, hygienic production, food safety standards.",
+    "ar": "صناديق اللحوم MEP Ambalaj: حلول التعبئة والتغليف بتصميم خاص للحوم ومنتجات اللحوم. حماية السلسلة الباردة، إنتاج صحي، معايير سلامة الغذاء."
+  },
+  "keyword": {
+    "tr": "et kutusu, et ambalajı, soğuk zincir et kutusu, hijyenik et ambalajı, gıda güvenliği kutusu",
+    "en": "meat box, meat packaging, cold chain meat box, hygienic meat packaging, food safety box",
+    "ar": "صندوق لحوم، تغليف لحوم، صندوق لحوم سلسلة باردة، تغليف لحوم صحي، صندوق سلامة الغذاء"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Et Kutuları</h2>\n    <p style=\"font-size: 16px;\">\n        MEP Ambalaj olarak et ve et ürünleri için özel tasarım ambalaj çözümleri üretiyoruz. Soğuk zincir koruma özellikli ambalajlarımızla et ürünlerinizin tazeliğini ve kalitesini koruyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Hijyenik üretim koşullarında gıda güvenliği standartlarına uygun ambalaj çözümleri sunuyoruz. Nem bariyeri teknolojisi kullanarak et ürünlerinizin raf ömrünü uzatıyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Farklı boyutlarda ve özel tasarım seçenekleriyle markanızın ihtiyaçlarına uygun çözümler üretiyoruz.\n    </p>"
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "update": "2025-10-02T04:58:13.780Z",
+  "date": "2025-10-02T03:54:07.008Z"
+}

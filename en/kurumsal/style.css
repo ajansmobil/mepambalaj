@@ -1,5 +1,5 @@
 
-  .rmk32 {
+  .t8p6h {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .rmk32title {
+  .t8p6htitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .rmk32titlebody {
+  .t8p6htitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .rmk32titlebodytitle {
+  .t8p6htitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .rmk32titlebodylang {
+  .t8p6htitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .rmk32titlebodylang ul {
+  .t8p6htitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .rmk32body {
+  .t8p6hbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .rmk32menu {
+  .t8p6hmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .rmk32menulist {
+  .t8p6hmenulist {
     width: calc(100% - 20px);
     background-color: #e31524;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .rmk32menubody {
+  .t8p6hmenubody {
     width: 100%;
     background-color: #e31524;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .rmk32menulist ul {
+  .t8p6hmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .rmk32menulist ul a {
+  .t8p6hmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -92,26 +92,26 @@
     white-space: nowrap;
   }
 
-  .rmk32menulist ul a:hover {
+  .t8p6hmenulist ul a:hover {
     background-color: #fff;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .rmk32-menu-list-active {
+  .t8p6h-menu-list-active {
     background-color: #fff;
     border-radius: 5px;
       color: #000 !important;
     cursor: pointer;
   }
 
-  .rmk32menulistbody {
+  .t8p6hmenulistbody {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .rmk32bodylogo {
+    .t8p6hbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -119,15 +119,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .rmk32menu {
+    .t8p6hmenu {
       overflow-x: auto;
     }
 
-    .rmk32menulist ul {
+    .t8p6hmenulist ul {
       flex-direction: row;
     }
 
-    .rmk32bodylogo {
+    .t8p6hbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -135,7 +135,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .rmk32menulist ul a {
+    .t8p6hmenulist ul a {
       font-size: 14px;
     }
   }

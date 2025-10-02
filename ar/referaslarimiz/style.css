@@ -1,5 +1,5 @@
 
-  .ctdxi {
+  .mw44w {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .ctdxititle {
+  .mw44wtitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .ctdxititlebody {
+  .mw44wtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .ctdxititlebodytitle {
+  .mw44wtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .ctdxititlebodylang {
+  .mw44wtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .ctdxititlebodylang ul {
+  .mw44wtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .ctdxibody {
+  .mw44wbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .ctdximenu {
+  .mw44wmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .ctdximenulist {
+  .mw44wmenulist {
     width: calc(100% - 20px);
     background-color: #e31524;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .ctdximenubody {
+  .mw44wmenubody {
     width: 100%;
     background-color: #e31524;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .ctdximenulist ul {
+  .mw44wmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .ctdximenulist ul a {
+  .mw44wmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -92,26 +92,26 @@
     white-space: nowrap;
   }
 
-  .ctdximenulist ul a:hover {
+  .mw44wmenulist ul a:hover {
     background-color: #fff;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .ctdxi-menu-list-active {
+  .mw44w-menu-list-active {
     background-color: #fff;
     border-radius: 5px;
       color: #000 !important;
     cursor: pointer;
   }
 
-  .ctdximenulistbody {
+  .mw44wmenulistbody {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .ctdxibodylogo {
+    .mw44wbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -119,15 +119,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .ctdximenu {
+    .mw44wmenu {
       overflow-x: auto;
     }
 
-    .ctdximenulist ul {
+    .mw44wmenulist ul {
       flex-direction: row;
     }
 
-    .ctdxibodylogo {
+    .mw44wbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -135,25 +135,25 @@
   }
 
   @media screen and (max-width: 768px) {
-    .ctdximenulist ul a {
+    .mw44wmenulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .jgive {
+  .hpppq {
     margin-top: 30px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .jgivebody {
+  .hpppqbody {
     width: var(--max);
     display: grid;
     gap: 15px;
     grid-template-columns: repeat(4, 1fr);
   }
-  .jgivebodyitem {
+  .hpppqbodyitem {
     cursor: pointer;
     background-color: #e9e9e9;
     border-radius: 8px;
@@ -169,22 +169,22 @@
     align-items: center;
     justify-content: center;
   }
-  .jgivebodyitem:hover {
+  .hpppqbodyitem:hover {
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
     transform: translateY(-3px);
   }
-  .jgivebodyitemimg {
+  .hpppqbodyitemimg {
     display: flex;
     justify-content: center;
     align-items: center;
   }
-  .jgivebodyitemimg img {
+  .hpppqbodyitemimg img {
     width: 100%;
     height: auto;
     object-fit: cover;
     border-radius: 5px;
   }
-  .jgivebodyitemtitle {
+  .hpppqbodyitemtitle {
     padding: 8px;
     background-color: #e5e5e5;
     text-align: center;
@@ -193,14 +193,14 @@
     font-size: 16px;
   }
   @media screen and (max-width: 1024px) {
-    .jgivebody {
+    .hpppqbody {
       width: calc(100% - 20px);
       margin: 0 10px;
       grid-template-columns: repeat(3, 1fr);
     }
   }
   @media screen and (max-width: 768px) {
-    .jgivebody {
+    .hpppqbody {
       width: calc(100% - 20px);
       margin: 0 10px;
       grid-template-columns: repeat(2, 1fr);

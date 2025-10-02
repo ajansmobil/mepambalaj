@@ -1,5 +1,5 @@
 
-  .d4kkk {
+  .lf9e2 {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .d4kkktitle {
+  .lf9e2title {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .d4kkktitlebody {
+  .lf9e2titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .d4kkktitlebodytitle {
+  .lf9e2titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .d4kkktitlebodylang {
+  .lf9e2titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .d4kkktitlebodylang ul {
+  .lf9e2titlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .d4kkkbody {
+  .lf9e2body {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .d4kkkmenu {
+  .lf9e2menu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .d4kkkmenulist {
+  .lf9e2menulist {
     width: calc(100% - 20px);
     background-color: #e31524;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .d4kkkmenubody {
+  .lf9e2menubody {
     width: 100%;
     background-color: #e31524;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .d4kkkmenulist ul {
+  .lf9e2menulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .d4kkkmenulist ul a {
+  .lf9e2menulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -92,26 +92,26 @@
     white-space: nowrap;
   }
 
-  .d4kkkmenulist ul a:hover {
+  .lf9e2menulist ul a:hover {
     background-color: #fff;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .d4kkk-menu-list-active {
+  .lf9e2-menu-list-active {
     background-color: #fff;
     border-radius: 5px;
       color: #000 !important;
     cursor: pointer;
   }
 
-  .d4kkkmenulistbody {
+  .lf9e2menulistbody {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .d4kkkbodylogo {
+    .lf9e2bodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -119,15 +119,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .d4kkkmenu {
+    .lf9e2menu {
       overflow-x: auto;
     }
 
-    .d4kkkmenulist ul {
+    .lf9e2menulist ul {
       flex-direction: row;
     }
 
-    .d4kkkbodylogo {
+    .lf9e2bodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -135,7 +135,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .d4kkkmenulist ul a {
+    .lf9e2menulist ul a {
       font-size: 14px;
     }
   }

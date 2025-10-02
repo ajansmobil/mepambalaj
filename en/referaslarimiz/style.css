@@ -1,5 +1,5 @@
 
-  .cphb6 {
+  .dxz1m {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .cphb6title {
+  .dxz1mtitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .cphb6titlebody {
+  .dxz1mtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .cphb6titlebodytitle {
+  .dxz1mtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .cphb6titlebodylang {
+  .dxz1mtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .cphb6titlebodylang ul {
+  .dxz1mtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .cphb6body {
+  .dxz1mbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .cphb6menu {
+  .dxz1mmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .cphb6menulist {
+  .dxz1mmenulist {
     width: calc(100% - 20px);
     background-color: #e31524;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .cphb6menubody {
+  .dxz1mmenubody {
     width: 100%;
     background-color: #e31524;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .cphb6menulist ul {
+  .dxz1mmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .cphb6menulist ul a {
+  .dxz1mmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -92,26 +92,26 @@
     white-space: nowrap;
   }
 
-  .cphb6menulist ul a:hover {
+  .dxz1mmenulist ul a:hover {
     background-color: #fff;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .cphb6-menu-list-active {
+  .dxz1m-menu-list-active {
     background-color: #fff;
     border-radius: 5px;
       color: #000 !important;
     cursor: pointer;
   }
 
-  .cphb6menulistbody {
+  .dxz1mmenulistbody {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .cphb6bodylogo {
+    .dxz1mbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -119,15 +119,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .cphb6menu {
+    .dxz1mmenu {
       overflow-x: auto;
     }
 
-    .cphb6menulist ul {
+    .dxz1mmenulist ul {
       flex-direction: row;
     }
 
-    .cphb6bodylogo {
+    .dxz1mbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -135,25 +135,25 @@
   }
 
   @media screen and (max-width: 768px) {
-    .cphb6menulist ul a {
+    .dxz1mmenulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .aeslo {
+  .jaj55 {
     margin-top: 30px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .aeslobody {
+  .jaj55body {
     width: var(--max);
     display: grid;
     gap: 15px;
     grid-template-columns: repeat(4, 1fr);
   }
-  .aeslobodyitem {
+  .jaj55bodyitem {
     cursor: pointer;
     background-color: #e9e9e9;
     border-radius: 8px;
@@ -169,22 +169,22 @@
     align-items: center;
     justify-content: center;
   }
-  .aeslobodyitem:hover {
+  .jaj55bodyitem:hover {
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
     transform: translateY(-3px);
   }
-  .aeslobodyitemimg {
+  .jaj55bodyitemimg {
     display: flex;
     justify-content: center;
     align-items: center;
   }
-  .aeslobodyitemimg img {
+  .jaj55bodyitemimg img {
     width: 100%;
     height: auto;
     object-fit: cover;
     border-radius: 5px;
   }
-  .aeslobodyitemtitle {
+  .jaj55bodyitemtitle {
     padding: 8px;
     background-color: #e5e5e5;
     text-align: center;
@@ -193,14 +193,14 @@
     font-size: 16px;
   }
   @media screen and (max-width: 1024px) {
-    .aeslobody {
+    .jaj55body {
       width: calc(100% - 20px);
       margin: 0 10px;
       grid-template-columns: repeat(3, 1fr);
     }
   }
   @media screen and (max-width: 768px) {
-    .aeslobody {
+    .jaj55body {
       width: calc(100% - 20px);
       margin: 0 10px;
       grid-template-columns: repeat(2, 1fr);

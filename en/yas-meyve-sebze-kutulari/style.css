@@ -1,5 +1,5 @@
 
-  .deh7k {
+  .s11n7 {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .deh7ktitle {
+  .s11n7title {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .deh7ktitlebody {
+  .s11n7titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .deh7ktitlebodytitle {
+  .s11n7titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .deh7ktitlebodylang {
+  .s11n7titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .deh7ktitlebodylang ul {
+  .s11n7titlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .deh7kbody {
+  .s11n7body {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .deh7kmenu {
+  .s11n7menu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .deh7kmenulist {
+  .s11n7menulist {
     width: calc(100% - 20px);
     background-color: #e31524;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .deh7kmenubody {
+  .s11n7menubody {
     width: 100%;
     background-color: #e31524;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .deh7kmenulist ul {
+  .s11n7menulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .deh7kmenulist ul a {
+  .s11n7menulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -92,26 +92,26 @@
     white-space: nowrap;
   }
 
-  .deh7kmenulist ul a:hover {
+  .s11n7menulist ul a:hover {
     background-color: #fff;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .deh7k-menu-list-active {
+  .s11n7-menu-list-active {
     background-color: #fff;
     border-radius: 5px;
       color: #000 !important;
     cursor: pointer;
   }
 
-  .deh7kmenulistbody {
+  .s11n7menulistbody {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .deh7kbodylogo {
+    .s11n7bodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -119,15 +119,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .deh7kmenu {
+    .s11n7menu {
       overflow-x: auto;
     }
 
-    .deh7kmenulist ul {
+    .s11n7menulist ul {
       flex-direction: row;
     }
 
-    .deh7kbodylogo {
+    .s11n7bodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -135,7 +135,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .deh7kmenulist ul a {
+    .s11n7menulist ul a {
       font-size: 14px;
     }
   }
@@ -145,7 +145,7 @@
     justify-content: start;
   }
 
-  .tax3d {
+  .nzmoh {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
@@ -153,7 +153,7 @@
     position: relative;
   }
 
-  .tax3d-menu-btn {
+  .nzmoh-menu-btn {
     display: none;
     background-color: #000;
     padding: 10px 20px;
@@ -165,11 +165,11 @@
     align-items: center;
   }
 
-  .tax3d-menu-btn i {
+  .nzmoh-menu-btn i {
     font-size: 20px;
   }
 
-  .tax3d-menu {
+  .nzmoh-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -180,28 +180,28 @@
     float: left;
   }
 
-  .tax3d-desc {
+  .nzmoh-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .tax3d-menu > a {
+  .nzmoh-menu > a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .tax3d-menu > .active,
-  .tax3d-menu > a:hover {
+  .nzmoh-menu > .active,
+  .nzmoh-menu > a:hover {
     background-color: #000;
     color: #fff;
     display: flex;
   }
 
-  .tax3d-desc-menu {
+  .nzmoh-desc-menu {
     width: 200px;
     background-color: #000;
     display: flex;
@@ -209,19 +209,19 @@
     border-radius: 5px;
   }
 
-  .tax3d-desc-menu > div {
+  .nzmoh-desc-menu > div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .tax3d-desc-body {
+  .nzmoh-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .tax3d-title {
+  .nzmoh-title {
     width: 100%;
     height: 100px;
     background-color: #000;
@@ -234,7 +234,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .tax3d-title::before {
+  .nzmoh-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -249,44 +249,44 @@
     z-index: 1;
   }
 
-  .tax3d-title span {
+  .nzmoh-title span {
     position: relative;
     z-index: 2;
     font-size: 32px;
   }
 
-  .tax3d-body {
+  .nzmoh-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
     text-align: left;
   }
 
-  .tax3d-img {
+  .nzmoh-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .tax3d-img img {
+  .nzmoh-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .tax3d-desc {
+    .nzmoh-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .tax3d-menu-btn {
+    .nzmoh-menu-btn {
       display: flex;
       width: calc(100% - 55px);
       margin-left: 5px;
     }
 
-    .tax3d {
+    .nzmoh {
       display: flex;
       flex-direction: column;
       width: 100%;
@@ -295,17 +295,17 @@
       margin-top: 0px;
     }
 
-    .tax3d-img {
+    .nzmoh-img {
       width: 100%;
     }
 
-    .tax3d-body {
+    .nzmoh-body {
       width: 100%;
       order: 3;
       padding: 10px;
     }
 
-    .tax3d-menu {
+    .nzmoh-menu {
       width: 100%;
       float: none;
       flex-direction: column;
@@ -313,11 +313,11 @@
       display: none;
     }
 
-    .tax3d-menu.active {
+    .nzmoh-menu.active {
       display: flex;
     }
 
-    .tax3d-desc {
+    .nzmoh-desc {
       width: 100% !important;
       order: 2;
     }

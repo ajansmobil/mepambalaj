@@ -1,5 +1,5 @@
 
-  .pm94t {
+  .rhoec {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .pm94ttitle {
+  .rhoectitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .pm94ttitlebody {
+  .rhoectitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .pm94ttitlebodytitle {
+  .rhoectitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .pm94ttitlebodylang {
+  .rhoectitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .pm94ttitlebodylang ul {
+  .rhoectitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .pm94tbody {
+  .rhoecbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .pm94tmenu {
+  .rhoecmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .pm94tmenulist {
+  .rhoecmenulist {
     width: calc(100% - 20px);
     background-color: #e31524;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .pm94tmenubody {
+  .rhoecmenubody {
     width: 100%;
     background-color: #e31524;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .pm94tmenulist ul {
+  .rhoecmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .pm94tmenulist ul a {
+  .rhoecmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -92,26 +92,26 @@
     white-space: nowrap;
   }
 
-  .pm94tmenulist ul a:hover {
+  .rhoecmenulist ul a:hover {
     background-color: #fff;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .pm94t-menu-list-active {
+  .rhoec-menu-list-active {
     background-color: #fff;
     border-radius: 5px;
       color: #000 !important;
     cursor: pointer;
   }
 
-  .pm94tmenulistbody {
+  .rhoecmenulistbody {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .pm94tbodylogo {
+    .rhoecbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -119,15 +119,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .pm94tmenu {
+    .rhoecmenu {
       overflow-x: auto;
     }
 
-    .pm94tmenulist ul {
+    .rhoecmenulist ul {
       flex-direction: row;
     }
 
-    .pm94tbodylogo {
+    .rhoecbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -135,7 +135,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .pm94tmenulist ul a {
+    .rhoecmenulist ul a {
       font-size: 14px;
     }
   }
@@ -145,7 +145,7 @@
     justify-content: start;
   }
 
-  .cfcen {
+  .m5a4s {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
@@ -153,7 +153,7 @@
     position: relative;
   }
 
-  .cfcen-menu-btn {
+  .m5a4s-menu-btn {
     display: none;
     background-color: #000;
     padding: 10px 20px;
@@ -165,11 +165,11 @@
     align-items: center;
   }
 
-  .cfcen-menu-btn i {
+  .m5a4s-menu-btn i {
     font-size: 20px;
   }
 
-  .cfcen-menu {
+  .m5a4s-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -180,28 +180,28 @@
     float: left;
   }
 
-  .cfcen-desc {
+  .m5a4s-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .cfcen-menu > a {
+  .m5a4s-menu > a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .cfcen-menu > .active,
-  .cfcen-menu > a:hover {
+  .m5a4s-menu > .active,
+  .m5a4s-menu > a:hover {
     background-color: #000;
     color: #fff;
     display: flex;
   }
 
-  .cfcen-desc-menu {
+  .m5a4s-desc-menu {
     width: 200px;
     background-color: #000;
     display: flex;
@@ -209,19 +209,19 @@
     border-radius: 5px;
   }
 
-  .cfcen-desc-menu > div {
+  .m5a4s-desc-menu > div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .cfcen-desc-body {
+  .m5a4s-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .cfcen-title {
+  .m5a4s-title {
     width: 100%;
     height: 100px;
     background-color: #000;
@@ -234,7 +234,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .cfcen-title::before {
+  .m5a4s-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -249,44 +249,44 @@
     z-index: 1;
   }
 
-  .cfcen-title span {
+  .m5a4s-title span {
     position: relative;
     z-index: 2;
     font-size: 32px;
   }
 
-  .cfcen-body {
+  .m5a4s-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
     text-align: left;
   }
 
-  .cfcen-img {
+  .m5a4s-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .cfcen-img img {
+  .m5a4s-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .cfcen-desc {
+    .m5a4s-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .cfcen-menu-btn {
+    .m5a4s-menu-btn {
       display: flex;
       width: calc(100% - 55px);
       margin-left: 5px;
     }
 
-    .cfcen {
+    .m5a4s {
       display: flex;
       flex-direction: column;
       width: 100%;
@@ -295,17 +295,17 @@
       margin-top: 0px;
     }
 
-    .cfcen-img {
+    .m5a4s-img {
       width: 100%;
     }
 
-    .cfcen-body {
+    .m5a4s-body {
       width: 100%;
       order: 3;
       padding: 10px;
     }
 
-    .cfcen-menu {
+    .m5a4s-menu {
       width: 100%;
       float: none;
       flex-direction: column;
@@ -313,11 +313,11 @@
       display: none;
     }
 
-    .cfcen-menu.active {
+    .m5a4s-menu.active {
       display: flex;
     }
 
-    .cfcen-desc {
+    .m5a4s-desc {
       width: 100% !important;
       order: 2;
     }

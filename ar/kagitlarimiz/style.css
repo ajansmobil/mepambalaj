@@ -1,5 +1,5 @@
 
-  .zjaah {
+  .xtrr2 {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .zjaahtitle {
+  .xtrr2title {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .zjaahtitlebody {
+  .xtrr2titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .zjaahtitlebodytitle {
+  .xtrr2titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .zjaahtitlebodylang {
+  .xtrr2titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .zjaahtitlebodylang ul {
+  .xtrr2titlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .zjaahbody {
+  .xtrr2body {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .zjaahmenu {
+  .xtrr2menu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .zjaahmenulist {
+  .xtrr2menulist {
     width: calc(100% - 20px);
     background-color: #e31524;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .zjaahmenubody {
+  .xtrr2menubody {
     width: 100%;
     background-color: #e31524;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .zjaahmenulist ul {
+  .xtrr2menulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .zjaahmenulist ul a {
+  .xtrr2menulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -92,26 +92,26 @@
     white-space: nowrap;
   }
 
-  .zjaahmenulist ul a:hover {
+  .xtrr2menulist ul a:hover {
     background-color: #fff;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .zjaah-menu-list-active {
+  .xtrr2-menu-list-active {
     background-color: #fff;
     border-radius: 5px;
       color: #000 !important;
     cursor: pointer;
   }
 
-  .zjaahmenulistbody {
+  .xtrr2menulistbody {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .zjaahbodylogo {
+    .xtrr2bodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -119,15 +119,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .zjaahmenu {
+    .xtrr2menu {
       overflow-x: auto;
     }
 
-    .zjaahmenulist ul {
+    .xtrr2menulist ul {
       flex-direction: row;
     }
 
-    .zjaahbodylogo {
+    .xtrr2bodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -135,27 +135,27 @@
   }
 
   @media screen and (max-width: 768px) {
-    .zjaahmenulist ul a {
+    .xtrr2menulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .nmnxo {
+  .p6ij1 {
     margin-top: 20px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
 
-  .nmnxo-body {
+  .p6ij1-body {
     width: var(--max);
     display: grid;
     gap: 10px;
     grid-template-columns: repeat(4, 1fr);
   }
 
-  .nmnxo-body-item {
+  .p6ij1-body-item {
     aspect-ratio: 7 / 4;
     background-color: #f2f2f2;
     border-radius: 5px;
@@ -166,7 +166,7 @@
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
   }
 
-  .nmnxo-body-item-img {
+  .p6ij1-body-item-img {
     aspect-ratio: 12 / 8;
     display: flex;
     justify-content: center;
@@ -177,7 +177,7 @@
     /* Taşma durumunda kesme */
   }
 
-  .nmnxo-body-item-img img {
+  .p6ij1-body-item-img img {
     width: 100%;
     height: 100%;
     object-fit: contain;
@@ -185,7 +185,7 @@
     border-radius: 5px;
   }
 
-  .nmnxo-body-item-title {
+  .p6ij1-body-item-title {
     border-radius: 3px;
     padding: 5px;
     background-color: #e9e9e9;
@@ -198,7 +198,7 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .nmnxo-body {
+    .p6ij1-body {
       width: calc(100% - 10px);
       margin: 0px 5px 0px 5px;
       grid-template-columns: repeat(3, 1fr);
@@ -206,7 +206,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .nmnxo-body {
+    .p6ij1-body {
       width: calc(100% - 10px);
       margin: 0px 5px 0px 5px;
       grid-template-columns: repeat(2, 1fr);

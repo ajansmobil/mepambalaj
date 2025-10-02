@@ -1,5 +1,5 @@
 
-  .b1yem {
+  .v7n8f {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .b1yemtitle {
+  .v7n8ftitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .b1yemtitlebody {
+  .v7n8ftitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .b1yemtitlebodytitle {
+  .v7n8ftitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .b1yemtitlebodylang {
+  .v7n8ftitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .b1yemtitlebodylang ul {
+  .v7n8ftitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .b1yembody {
+  .v7n8fbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .b1yemmenu {
+  .v7n8fmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .b1yemmenulist {
+  .v7n8fmenulist {
     width: calc(100% - 20px);
     background-color: #e31524;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .b1yemmenubody {
+  .v7n8fmenubody {
     width: 100%;
     background-color: #e31524;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .b1yemmenulist ul {
+  .v7n8fmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .b1yemmenulist ul a {
+  .v7n8fmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -92,26 +92,26 @@
     white-space: nowrap;
   }
 
-  .b1yemmenulist ul a:hover {
+  .v7n8fmenulist ul a:hover {
     background-color: #fff;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .b1yem-menu-list-active {
+  .v7n8f-menu-list-active {
     background-color: #fff;
     border-radius: 5px;
       color: #000 !important;
     cursor: pointer;
   }
 
-  .b1yemmenulistbody {
+  .v7n8fmenulistbody {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .b1yembodylogo {
+    .v7n8fbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -119,15 +119,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .b1yemmenu {
+    .v7n8fmenu {
       overflow-x: auto;
     }
 
-    .b1yemmenulist ul {
+    .v7n8fmenulist ul {
       flex-direction: row;
     }
 
-    .b1yembodylogo {
+    .v7n8fbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -135,7 +135,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .b1yemmenulist ul a {
+    .v7n8fmenulist ul a {
       font-size: 14px;
     }
   }
@@ -145,7 +145,7 @@
     justify-content: start;
   }
 
-  .egwbz {
+  .w2exy {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
@@ -153,7 +153,7 @@
     position: relative;
   }
 
-  .egwbz-menu-btn {
+  .w2exy-menu-btn {
     display: none;
     background-color: #000;
     padding: 10px 20px;
@@ -165,11 +165,11 @@
     align-items: center;
   }
 
-  .egwbz-menu-btn i {
+  .w2exy-menu-btn i {
     font-size: 20px;
   }
 
-  .egwbz-menu {
+  .w2exy-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -180,28 +180,28 @@
     float: left;
   }
 
-  .egwbz-desc {
+  .w2exy-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .egwbz-menu > a {
+  .w2exy-menu > a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .egwbz-menu > .active,
-  .egwbz-menu > a:hover {
+  .w2exy-menu > .active,
+  .w2exy-menu > a:hover {
     background-color: #000;
     color: #fff;
     display: flex;
   }
 
-  .egwbz-desc-menu {
+  .w2exy-desc-menu {
     width: 200px;
     background-color: #000;
     display: flex;
@@ -209,19 +209,19 @@
     border-radius: 5px;
   }
 
-  .egwbz-desc-menu > div {
+  .w2exy-desc-menu > div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .egwbz-desc-body {
+  .w2exy-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .egwbz-title {
+  .w2exy-title {
     width: 100%;
     height: 100px;
     background-color: #000;
@@ -234,14 +234,14 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .egwbz-title::before {
+  .w2exy-title::before {
     content: "";
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url("/page/beyaz_testliner_015/bg/{{bgimg}}");
+    background-image: url("/page/beyaz_testliner_004/bg/{{bgimg}}");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -249,44 +249,44 @@
     z-index: 1;
   }
 
-  .egwbz-title span {
+  .w2exy-title span {
     position: relative;
     z-index: 2;
     font-size: 32px;
   }
 
-  .egwbz-body {
+  .w2exy-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
     text-align: left;
   }
 
-  .egwbz-img {
+  .w2exy-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .egwbz-img img {
+  .w2exy-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .egwbz-desc {
+    .w2exy-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .egwbz-menu-btn {
+    .w2exy-menu-btn {
       display: flex;
       width: calc(100% - 55px);
       margin-left: 5px;
     }
 
-    .egwbz {
+    .w2exy {
       display: flex;
       flex-direction: column;
       width: 100%;
@@ -295,17 +295,17 @@
       margin-top: 0px;
     }
 
-    .egwbz-img {
+    .w2exy-img {
       width: 100%;
     }
 
-    .egwbz-body {
+    .w2exy-body {
       width: 100%;
       order: 3;
       padding: 10px;
     }
 
-    .egwbz-menu {
+    .w2exy-menu {
       width: 100%;
       float: none;
       flex-direction: column;
@@ -313,11 +313,11 @@
       display: none;
     }
 
-    .egwbz-menu.active {
+    .w2exy-menu.active {
       display: flex;
     }
 
-    .egwbz-desc {
+    .w2exy-desc {
       width: 100% !important;
       order: 2;
     }

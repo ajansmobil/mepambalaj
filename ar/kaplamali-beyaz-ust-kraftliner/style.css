@@ -1,5 +1,5 @@
 
-  .waa1n {
+  .yuooe {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .waa1ntitle {
+  .yuooetitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .waa1ntitlebody {
+  .yuooetitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .waa1ntitlebodytitle {
+  .yuooetitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .waa1ntitlebodylang {
+  .yuooetitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .waa1ntitlebodylang ul {
+  .yuooetitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .waa1nbody {
+  .yuooebody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .waa1nmenu {
+  .yuooemenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .waa1nmenulist {
+  .yuooemenulist {
     width: calc(100% - 20px);
     background-color: #e31524;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .waa1nmenubody {
+  .yuooemenubody {
     width: 100%;
     background-color: #e31524;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .waa1nmenulist ul {
+  .yuooemenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .waa1nmenulist ul a {
+  .yuooemenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -92,26 +92,26 @@
     white-space: nowrap;
   }
 
-  .waa1nmenulist ul a:hover {
+  .yuooemenulist ul a:hover {
     background-color: #fff;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .waa1n-menu-list-active {
+  .yuooe-menu-list-active {
     background-color: #fff;
     border-radius: 5px;
       color: #000 !important;
     cursor: pointer;
   }
 
-  .waa1nmenulistbody {
+  .yuooemenulistbody {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .waa1nbodylogo {
+    .yuooebodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -119,15 +119,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .waa1nmenu {
+    .yuooemenu {
       overflow-x: auto;
     }
 
-    .waa1nmenulist ul {
+    .yuooemenulist ul {
       flex-direction: row;
     }
 
-    .waa1nbodylogo {
+    .yuooebodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -135,7 +135,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .waa1nmenulist ul a {
+    .yuooemenulist ul a {
       font-size: 14px;
     }
   }
@@ -145,7 +145,7 @@
     justify-content: start;
   }
 
-  .l4jx1 {
+  .q5r8j {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
@@ -153,7 +153,7 @@
     position: relative;
   }
 
-  .l4jx1-menu-btn {
+  .q5r8j-menu-btn {
     display: none;
     background-color: #000;
     padding: 10px 20px;
@@ -165,11 +165,11 @@
     align-items: center;
   }
 
-  .l4jx1-menu-btn i {
+  .q5r8j-menu-btn i {
     font-size: 20px;
   }
 
-  .l4jx1-menu {
+  .q5r8j-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -180,28 +180,28 @@
     float: left;
   }
 
-  .l4jx1-desc {
+  .q5r8j-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .l4jx1-menu > a {
+  .q5r8j-menu > a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .l4jx1-menu > .active,
-  .l4jx1-menu > a:hover {
+  .q5r8j-menu > .active,
+  .q5r8j-menu > a:hover {
     background-color: #000;
     color: #fff;
     display: flex;
   }
 
-  .l4jx1-desc-menu {
+  .q5r8j-desc-menu {
     width: 200px;
     background-color: #000;
     display: flex;
@@ -209,19 +209,19 @@
     border-radius: 5px;
   }
 
-  .l4jx1-desc-menu > div {
+  .q5r8j-desc-menu > div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .l4jx1-desc-body {
+  .q5r8j-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .l4jx1-title {
+  .q5r8j-title {
     width: 100%;
     height: 100px;
     background-color: #000;
@@ -234,14 +234,14 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .l4jx1-title::before {
+  .q5r8j-title::before {
     content: "";
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url("/page/kaplamali_beyaz_ust_kraftliner_020/bg/{{bgimg}}");
+    background-image: url("/page/kaplamali_beyaz_ust_kraftliner_009/bg/{{bgimg}}");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -249,44 +249,44 @@
     z-index: 1;
   }
 
-  .l4jx1-title span {
+  .q5r8j-title span {
     position: relative;
     z-index: 2;
     font-size: 32px;
   }
 
-  .l4jx1-body {
+  .q5r8j-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
     text-align: left;
   }
 
-  .l4jx1-img {
+  .q5r8j-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .l4jx1-img img {
+  .q5r8j-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .l4jx1-desc {
+    .q5r8j-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .l4jx1-menu-btn {
+    .q5r8j-menu-btn {
       display: flex;
       width: calc(100% - 55px);
       margin-left: 5px;
     }
 
-    .l4jx1 {
+    .q5r8j {
       display: flex;
       flex-direction: column;
       width: 100%;
@@ -295,17 +295,17 @@
       margin-top: 0px;
     }
 
-    .l4jx1-img {
+    .q5r8j-img {
       width: 100%;
     }
 
-    .l4jx1-body {
+    .q5r8j-body {
       width: 100%;
       order: 3;
       padding: 10px;
     }
 
-    .l4jx1-menu {
+    .q5r8j-menu {
       width: 100%;
       float: none;
       flex-direction: column;
@@ -313,11 +313,11 @@
       display: none;
     }
 
-    .l4jx1-menu.active {
+    .q5r8j-menu.active {
       display: flex;
     }
 
-    .l4jx1-desc {
+    .q5r8j-desc {
       width: 100% !important;
       order: 2;
     }

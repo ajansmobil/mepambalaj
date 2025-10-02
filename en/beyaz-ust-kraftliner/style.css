@@ -1,5 +1,5 @@
 
-  .m1nl9 {
+  .b8ihx {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .m1nl9title {
+  .b8ihxtitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .m1nl9titlebody {
+  .b8ihxtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .m1nl9titlebodytitle {
+  .b8ihxtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .m1nl9titlebodylang {
+  .b8ihxtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .m1nl9titlebodylang ul {
+  .b8ihxtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .m1nl9body {
+  .b8ihxbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .m1nl9menu {
+  .b8ihxmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .m1nl9menulist {
+  .b8ihxmenulist {
     width: calc(100% - 20px);
     background-color: #e31524;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .m1nl9menubody {
+  .b8ihxmenubody {
     width: 100%;
     background-color: #e31524;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .m1nl9menulist ul {
+  .b8ihxmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .m1nl9menulist ul a {
+  .b8ihxmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -92,26 +92,26 @@
     white-space: nowrap;
   }
 
-  .m1nl9menulist ul a:hover {
+  .b8ihxmenulist ul a:hover {
     background-color: #fff;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .m1nl9-menu-list-active {
+  .b8ihx-menu-list-active {
     background-color: #fff;
     border-radius: 5px;
       color: #000 !important;
     cursor: pointer;
   }
 
-  .m1nl9menulistbody {
+  .b8ihxmenulistbody {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .m1nl9bodylogo {
+    .b8ihxbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -119,15 +119,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .m1nl9menu {
+    .b8ihxmenu {
       overflow-x: auto;
     }
 
-    .m1nl9menulist ul {
+    .b8ihxmenulist ul {
       flex-direction: row;
     }
 
-    .m1nl9bodylogo {
+    .b8ihxbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -135,7 +135,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .m1nl9menulist ul a {
+    .b8ihxmenulist ul a {
       font-size: 14px;
     }
   }
@@ -145,7 +145,7 @@
     justify-content: start;
   }
 
-  .l5aqo {
+  .mttfo {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
@@ -153,7 +153,7 @@
     position: relative;
   }
 
-  .l5aqo-menu-btn {
+  .mttfo-menu-btn {
     display: none;
     background-color: #000;
     padding: 10px 20px;
@@ -165,11 +165,11 @@
     align-items: center;
   }
 
-  .l5aqo-menu-btn i {
+  .mttfo-menu-btn i {
     font-size: 20px;
   }
 
-  .l5aqo-menu {
+  .mttfo-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -180,28 +180,28 @@
     float: left;
   }
 
-  .l5aqo-desc {
+  .mttfo-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .l5aqo-menu > a {
+  .mttfo-menu > a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .l5aqo-menu > .active,
-  .l5aqo-menu > a:hover {
+  .mttfo-menu > .active,
+  .mttfo-menu > a:hover {
     background-color: #000;
     color: #fff;
     display: flex;
   }
 
-  .l5aqo-desc-menu {
+  .mttfo-desc-menu {
     width: 200px;
     background-color: #000;
     display: flex;
@@ -209,19 +209,19 @@
     border-radius: 5px;
   }
 
-  .l5aqo-desc-menu > div {
+  .mttfo-desc-menu > div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .l5aqo-desc-body {
+  .mttfo-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .l5aqo-title {
+  .mttfo-title {
     width: 100%;
     height: 100px;
     background-color: #000;
@@ -234,14 +234,14 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .l5aqo-title::before {
+  .mttfo-title::before {
     content: "";
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url("/page/beyaz_ust_kraftliner_019/bg/{{bgimg}}");
+    background-image: url("/page/beyaz_ust_kraftliner_008/bg/{{bgimg}}");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -249,44 +249,44 @@
     z-index: 1;
   }
 
-  .l5aqo-title span {
+  .mttfo-title span {
     position: relative;
     z-index: 2;
     font-size: 32px;
   }
 
-  .l5aqo-body {
+  .mttfo-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
     text-align: left;
   }
 
-  .l5aqo-img {
+  .mttfo-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .l5aqo-img img {
+  .mttfo-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .l5aqo-desc {
+    .mttfo-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .l5aqo-menu-btn {
+    .mttfo-menu-btn {
       display: flex;
       width: calc(100% - 55px);
       margin-left: 5px;
     }
 
-    .l5aqo {
+    .mttfo {
       display: flex;
       flex-direction: column;
       width: 100%;
@@ -295,17 +295,17 @@
       margin-top: 0px;
     }
 
-    .l5aqo-img {
+    .mttfo-img {
       width: 100%;
     }
 
-    .l5aqo-body {
+    .mttfo-body {
       width: 100%;
       order: 3;
       padding: 10px;
     }
 
-    .l5aqo-menu {
+    .mttfo-menu {
       width: 100%;
       float: none;
       flex-direction: column;
@@ -313,11 +313,11 @@
       display: none;
     }
 
-    .l5aqo-menu.active {
+    .mttfo-menu.active {
       display: flex;
     }
 
-    .l5aqo-desc {
+    .mttfo-desc {
       width: 100% !important;
       order: 2;
     }

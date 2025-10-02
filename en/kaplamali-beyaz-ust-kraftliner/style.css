@@ -1,5 +1,5 @@
 
-  .kak99 {
+  .egbbq {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .kak99title {
+  .egbbqtitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .kak99titlebody {
+  .egbbqtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .kak99titlebodytitle {
+  .egbbqtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .kak99titlebodylang {
+  .egbbqtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .kak99titlebodylang ul {
+  .egbbqtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .kak99body {
+  .egbbqbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .kak99menu {
+  .egbbqmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .kak99menulist {
+  .egbbqmenulist {
     width: calc(100% - 20px);
     background-color: #e31524;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .kak99menubody {
+  .egbbqmenubody {
     width: 100%;
     background-color: #e31524;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .kak99menulist ul {
+  .egbbqmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .kak99menulist ul a {
+  .egbbqmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -92,26 +92,26 @@
     white-space: nowrap;
   }
 
-  .kak99menulist ul a:hover {
+  .egbbqmenulist ul a:hover {
     background-color: #fff;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .kak99-menu-list-active {
+  .egbbq-menu-list-active {
     background-color: #fff;
     border-radius: 5px;
       color: #000 !important;
     cursor: pointer;
   }
 
-  .kak99menulistbody {
+  .egbbqmenulistbody {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .kak99bodylogo {
+    .egbbqbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -119,15 +119,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .kak99menu {
+    .egbbqmenu {
       overflow-x: auto;
     }
 
-    .kak99menulist ul {
+    .egbbqmenulist ul {
       flex-direction: row;
     }
 
-    .kak99bodylogo {
+    .egbbqbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -135,7 +135,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .kak99menulist ul a {
+    .egbbqmenulist ul a {
       font-size: 14px;
     }
   }
@@ -145,7 +145,7 @@
     justify-content: start;
   }
 
-  .g4e98 {
+  .hndtj {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
@@ -153,7 +153,7 @@
     position: relative;
   }
 
-  .g4e98-menu-btn {
+  .hndtj-menu-btn {
     display: none;
     background-color: #000;
     padding: 10px 20px;
@@ -165,11 +165,11 @@
     align-items: center;
   }
 
-  .g4e98-menu-btn i {
+  .hndtj-menu-btn i {
     font-size: 20px;
   }
 
-  .g4e98-menu {
+  .hndtj-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -180,28 +180,28 @@
     float: left;
   }
 
-  .g4e98-desc {
+  .hndtj-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .g4e98-menu > a {
+  .hndtj-menu > a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .g4e98-menu > .active,
-  .g4e98-menu > a:hover {
+  .hndtj-menu > .active,
+  .hndtj-menu > a:hover {
     background-color: #000;
     color: #fff;
     display: flex;
   }
 
-  .g4e98-desc-menu {
+  .hndtj-desc-menu {
     width: 200px;
     background-color: #000;
     display: flex;
@@ -209,19 +209,19 @@
     border-radius: 5px;
   }
 
-  .g4e98-desc-menu > div {
+  .hndtj-desc-menu > div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .g4e98-desc-body {
+  .hndtj-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .g4e98-title {
+  .hndtj-title {
     width: 100%;
     height: 100px;
     background-color: #000;
@@ -234,14 +234,14 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .g4e98-title::before {
+  .hndtj-title::before {
     content: "";
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url("/page/kaplamali_beyaz_ust_kraftliner_020/bg/{{bgimg}}");
+    background-image: url("/page/kaplamali_beyaz_ust_kraftliner_009/bg/{{bgimg}}");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -249,44 +249,44 @@
     z-index: 1;
   }
 
-  .g4e98-title span {
+  .hndtj-title span {
     position: relative;
     z-index: 2;
     font-size: 32px;
   }
 
-  .g4e98-body {
+  .hndtj-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
     text-align: left;
   }
 
-  .g4e98-img {
+  .hndtj-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .g4e98-img img {
+  .hndtj-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .g4e98-desc {
+    .hndtj-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .g4e98-menu-btn {
+    .hndtj-menu-btn {
       display: flex;
       width: calc(100% - 55px);
       margin-left: 5px;
     }
 
-    .g4e98 {
+    .hndtj {
       display: flex;
       flex-direction: column;
       width: 100%;
@@ -295,17 +295,17 @@
       margin-top: 0px;
     }
 
-    .g4e98-img {
+    .hndtj-img {
       width: 100%;
     }
 
-    .g4e98-body {
+    .hndtj-body {
       width: 100%;
       order: 3;
       padding: 10px;
     }
 
-    .g4e98-menu {
+    .hndtj-menu {
       width: 100%;
       float: none;
       flex-direction: column;
@@ -313,11 +313,11 @@
       display: none;
     }
 
-    .g4e98-menu.active {
+    .hndtj-menu.active {
       display: flex;
     }
 
-    .g4e98-desc {
+    .hndtj-desc {
       width: 100% !important;
       order: 2;
     }

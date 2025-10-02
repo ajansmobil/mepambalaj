@@ -1,5 +1,5 @@
 
-  .shei9 {
+  .tq3tz {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .shei9title {
+  .tq3tztitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .shei9titlebody {
+  .tq3tztitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .shei9titlebodytitle {
+  .tq3tztitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .shei9titlebodylang {
+  .tq3tztitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .shei9titlebodylang ul {
+  .tq3tztitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .shei9body {
+  .tq3tzbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .shei9menu {
+  .tq3tzmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .shei9menulist {
+  .tq3tzmenulist {
     width: calc(100% - 20px);
     background-color: #e31524;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .shei9menubody {
+  .tq3tzmenubody {
     width: 100%;
     background-color: #e31524;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .shei9menulist ul {
+  .tq3tzmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .shei9menulist ul a {
+  .tq3tzmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -92,26 +92,26 @@
     white-space: nowrap;
   }
 
-  .shei9menulist ul a:hover {
+  .tq3tzmenulist ul a:hover {
     background-color: #fff;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .shei9-menu-list-active {
+  .tq3tz-menu-list-active {
     background-color: #fff;
     border-radius: 5px;
       color: #000 !important;
     cursor: pointer;
   }
 
-  .shei9menulistbody {
+  .tq3tzmenulistbody {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .shei9bodylogo {
+    .tq3tzbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -119,15 +119,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .shei9menu {
+    .tq3tzmenu {
       overflow-x: auto;
     }
 
-    .shei9menulist ul {
+    .tq3tzmenulist ul {
       flex-direction: row;
     }
 
-    .shei9bodylogo {
+    .tq3tzbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -135,25 +135,25 @@
   }
 
   @media screen and (max-width: 768px) {
-    .shei9menulist ul a {
+    .tq3tzmenulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .eaiff {
+  .cl3gy {
     margin-top: 30px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .eaiffbody {
+  .cl3gybody {
     width: var(--max);
     display: grid;
     gap: 15px;
     grid-template-columns: repeat(4, 1fr);
   }
-  .eaiffbodyitem {
+  .cl3gybodyitem {
     cursor: pointer;
     background-color: #e9e9e9;
     border-radius: 8px;
@@ -169,22 +169,22 @@
     align-items: center;
     justify-content: center;
   }
-  .eaiffbodyitem:hover {
+  .cl3gybodyitem:hover {
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
     transform: translateY(-3px);
   }
-  .eaiffbodyitemimg {
+  .cl3gybodyitemimg {
     display: flex;
     justify-content: center;
     align-items: center;
   }
-  .eaiffbodyitemimg img {
+  .cl3gybodyitemimg img {
     width: 100%;
     height: auto;
     object-fit: cover;
     border-radius: 5px;
   }
-  .eaiffbodyitemtitle {
+  .cl3gybodyitemtitle {
     padding: 8px;
     background-color: #e5e5e5;
     text-align: center;
@@ -193,14 +193,14 @@
     font-size: 16px;
   }
   @media screen and (max-width: 1024px) {
-    .eaiffbody {
+    .cl3gybody {
       width: calc(100% - 20px);
       margin: 0 10px;
       grid-template-columns: repeat(3, 1fr);
     }
   }
   @media screen and (max-width: 768px) {
-    .eaiffbody {
+    .cl3gybody {
       width: calc(100% - 20px);
       margin: 0 10px;
       grid-template-columns: repeat(2, 1fr);

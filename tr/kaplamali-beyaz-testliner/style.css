@@ -1,5 +1,5 @@
 
-  .it96a {
+  .nvokq {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .it96atitle {
+  .nvokqtitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .it96atitlebody {
+  .nvokqtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .it96atitlebodytitle {
+  .nvokqtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .it96atitlebodylang {
+  .nvokqtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .it96atitlebodylang ul {
+  .nvokqtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .it96abody {
+  .nvokqbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .it96amenu {
+  .nvokqmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .it96amenulist {
+  .nvokqmenulist {
     width: calc(100% - 20px);
     background-color: #e31524;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .it96amenubody {
+  .nvokqmenubody {
     width: 100%;
     background-color: #e31524;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .it96amenulist ul {
+  .nvokqmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .it96amenulist ul a {
+  .nvokqmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -92,26 +92,26 @@
     white-space: nowrap;
   }
 
-  .it96amenulist ul a:hover {
+  .nvokqmenulist ul a:hover {
     background-color: #fff;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .it96a-menu-list-active {
+  .nvokq-menu-list-active {
     background-color: #fff;
     border-radius: 5px;
       color: #000 !important;
     cursor: pointer;
   }
 
-  .it96amenulistbody {
+  .nvokqmenulistbody {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .it96abodylogo {
+    .nvokqbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -119,15 +119,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .it96amenu {
+    .nvokqmenu {
       overflow-x: auto;
     }
 
-    .it96amenulist ul {
+    .nvokqmenulist ul {
       flex-direction: row;
     }
 
-    .it96abodylogo {
+    .nvokqbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -135,7 +135,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .it96amenulist ul a {
+    .nvokqmenulist ul a {
       font-size: 14px;
     }
   }
@@ -145,7 +145,7 @@
     justify-content: start;
   }
 
-  .z4qr8 {
+  .rmot2 {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
@@ -153,7 +153,7 @@
     position: relative;
   }
 
-  .z4qr8-menu-btn {
+  .rmot2-menu-btn {
     display: none;
     background-color: #000;
     padding: 10px 20px;
@@ -165,11 +165,11 @@
     align-items: center;
   }
 
-  .z4qr8-menu-btn i {
+  .rmot2-menu-btn i {
     font-size: 20px;
   }
 
-  .z4qr8-menu {
+  .rmot2-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -180,28 +180,28 @@
     float: left;
   }
 
-  .z4qr8-desc {
+  .rmot2-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .z4qr8-menu > a {
+  .rmot2-menu > a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .z4qr8-menu > .active,
-  .z4qr8-menu > a:hover {
+  .rmot2-menu > .active,
+  .rmot2-menu > a:hover {
     background-color: #000;
     color: #fff;
     display: flex;
   }
 
-  .z4qr8-desc-menu {
+  .rmot2-desc-menu {
     width: 200px;
     background-color: #000;
     display: flex;
@@ -209,19 +209,19 @@
     border-radius: 5px;
   }
 
-  .z4qr8-desc-menu > div {
+  .rmot2-desc-menu > div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .z4qr8-desc-body {
+  .rmot2-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .z4qr8-title {
+  .rmot2-title {
     width: 100%;
     height: 100px;
     background-color: #000;
@@ -234,14 +234,14 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .z4qr8-title::before {
+  .rmot2-title::before {
     content: "";
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url("/page/kaplamali_beyaz_testliner_016/bg/{{bgimg}}");
+    background-image: url("/page/kaplamali_beyaz_testliner_005/bg/{{bgimg}}");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -249,44 +249,44 @@
     z-index: 1;
   }
 
-  .z4qr8-title span {
+  .rmot2-title span {
     position: relative;
     z-index: 2;
     font-size: 32px;
   }
 
-  .z4qr8-body {
+  .rmot2-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
     text-align: left;
   }
 
-  .z4qr8-img {
+  .rmot2-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .z4qr8-img img {
+  .rmot2-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .z4qr8-desc {
+    .rmot2-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .z4qr8-menu-btn {
+    .rmot2-menu-btn {
       display: flex;
       width: calc(100% - 55px);
       margin-left: 5px;
     }
 
-    .z4qr8 {
+    .rmot2 {
       display: flex;
       flex-direction: column;
       width: 100%;
@@ -295,17 +295,17 @@
       margin-top: 0px;
     }
 
-    .z4qr8-img {
+    .rmot2-img {
       width: 100%;
     }
 
-    .z4qr8-body {
+    .rmot2-body {
       width: 100%;
       order: 3;
       padding: 10px;
     }
 
-    .z4qr8-menu {
+    .rmot2-menu {
       width: 100%;
       float: none;
       flex-direction: column;
@@ -313,11 +313,11 @@
       display: none;
     }
 
-    .z4qr8-menu.active {
+    .rmot2-menu.active {
       display: flex;
     }
 
-    .z4qr8-desc {
+    .rmot2-desc {
       width: 100% !important;
       order: 2;
     }

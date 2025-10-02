@@ -1,8 +1,8 @@
 {
   "name": {
     "tr": "Kağıtlarımız",
-    "en": "",
-    "ar": ""
+    "en": "Our Papers",
+    "ar": "أوراقنا"
   },
   "status": "play",
   "category": "",
@@ -19,19 +19,27 @@
     ],
     "footer": []
   },
-  "pathnext": "gazete-kagidi",
+  "pathnext": "oluklu-kagit",
   "description": {
-    "tr": ""
+    "tr": "MEP Ambalaj kağıtlarımız: Yüksek kaliteli kağıt ürünleri, çeşitli gramaj ve boyut seçenekleri. Profesyonel baskı ve ambalaj uygulamaları için ideal çözümler.",
+    "en": "MEP Packaging papers: High quality paper products, various grammage and size options. Ideal solutions for professional printing and packaging applications.",
+    "ar": "أوراق MEP Ambalaj: منتجات ورقية عالية الجودة، خيارات وزن وأحجام متنوعة. حلول مثالية لتطبيقات الطباعة المهنية والتعبئة والتغليف."
   },
   "keyword": {
-    "tr": ""
+    "tr": "kağıtlarımız, yüksek kaliteli kağıt, profesyonel baskı, ambalaj kağıdı, çeşitli gramaj, MEP Ambalaj kağıtları",
+    "en": "our papers, high quality paper, professional printing, packaging paper, various grammage, MEP Packaging papers",
+    "ar": "أوراقنا، ورق عالي الجودة، طباعة مهنية، ورق التعبئة، أوزان متنوعة، أوراق MEP Ambalaj"
   },
   "text": {
-    "tr": ""
+    "tr": "<h2 style=\"font-size: 24px;\">Kağıtlarımız</h2>\n    <p style=\"font-size: 16px;\">\n        MEP Ambalaj olarak, yüksek kaliteli kağıt ürünleri ile profesyonel baskı ve ambalaj uygulamaları için ideal çözümler sunuyoruz. Çeşitli gramaj ve boyut seçenekleriyle müşteri ihtiyaçlarına uygun ürünler üretiyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Kağıt ürünlerimiz, yüksek kalite standartlarında üretilmektedir. Sürdürülebilir malzeme kullanımıyla çevre dostu çözümler sunuyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Müşteri memnuniyetini ön planda tutan yaklaşımımızla, en kaliteli kağıt ürünlerini temin ediyoruz.\n    </p>",
+    "en": "<h2 style=\"font-size: 24px;\">Our Papers</h2>\n    <p style=\"font-size: 16px;\">\n        As MEP Packaging, we offer ideal solutions for professional printing and packaging applications with high quality paper products. We produce products suitable for customer needs with various grammage and size options.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Our paper products are produced to high quality standards. We offer environmentally friendly solutions with sustainable material use.\n    </p>\n    <p style=\"font-size: 16px;\">\n        With our customer satisfaction-focused approach, we provide the highest quality paper products.\n    </p>",
+    "ar": "<h2 style=\"font-size: 24px;\">أوراقنا</h2>\n    <p style=\"font-size: 16px;\">\n        بصفتنا MEP Ambalaj، نقدم حلول مثالية لتطبيقات الطباعة المهنية والتعبئة والتغليف مع منتجات الورق عالية الجودة. ننتج منتجات مناسبة لاحتياجات العملاء مع خيارات وزن وأحجام متنوعة.\n    </p>\n    <p style=\"font-size: 16px;\">\n        منتجات الورق الخاصة بنا يتم إنتاجها وفق معايير الجودة العالية. نقدم حلول صديقة للبيئة مع استخدام مواد مستدامة.\n    </p>\n    <p style=\"font-size: 16px;\">\n        مع نهجنا المرتكز على رضا العملاء، نوفر أعلى منتجات الورق جودة.\n    </p>"
   },
   "spot": {
-    "tr": ""
+    "tr": "",
+    "en": "",
+    "ar": ""
   },
-  "update": "2025-10-02T07:40:07.039Z",
+  "update": "2025-10-02T08:22:31.841Z",
   "date": "2025-10-02T06:06:33.713Z"
 }

@@ -1,5 +1,5 @@
 
-  .l3oul {
+  .lxdh2 {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .l3oultitle {
+  .lxdh2title {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .l3oultitlebody {
+  .lxdh2titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .l3oultitlebodytitle {
+  .lxdh2titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .l3oultitlebodylang {
+  .lxdh2titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .l3oultitlebodylang ul {
+  .lxdh2titlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .l3oulbody {
+  .lxdh2body {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .l3oulmenu {
+  .lxdh2menu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .l3oulmenulist {
+  .lxdh2menulist {
     width: calc(100% - 20px);
     background-color: #e31524;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .l3oulmenubody {
+  .lxdh2menubody {
     width: 100%;
     background-color: #e31524;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .l3oulmenulist ul {
+  .lxdh2menulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .l3oulmenulist ul a {
+  .lxdh2menulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -92,26 +92,26 @@
     white-space: nowrap;
   }
 
-  .l3oulmenulist ul a:hover {
+  .lxdh2menulist ul a:hover {
     background-color: #fff;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .l3oul-menu-list-active {
+  .lxdh2-menu-list-active {
     background-color: #fff;
     border-radius: 5px;
       color: #000 !important;
     cursor: pointer;
   }
 
-  .l3oulmenulistbody {
+  .lxdh2menulistbody {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .l3oulbodylogo {
+    .lxdh2bodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -119,15 +119,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .l3oulmenu {
+    .lxdh2menu {
       overflow-x: auto;
     }
 
-    .l3oulmenulist ul {
+    .lxdh2menulist ul {
       flex-direction: row;
     }
 
-    .l3oulbodylogo {
+    .lxdh2bodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -135,7 +135,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .l3oulmenulist ul a {
+    .lxdh2menulist ul a {
       font-size: 14px;
     }
   }
@@ -145,7 +145,7 @@
     justify-content: start;
   }
 
-  .vmriu {
+  .jrxea {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
@@ -153,7 +153,7 @@
     position: relative;
   }
 
-  .vmriu-menu-btn {
+  .jrxea-menu-btn {
     display: none;
     background-color: #000;
     padding: 10px 20px;
@@ -165,11 +165,11 @@
     align-items: center;
   }
 
-  .vmriu-menu-btn i {
+  .jrxea-menu-btn i {
     font-size: 20px;
   }
 
-  .vmriu-menu {
+  .jrxea-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -180,28 +180,28 @@
     float: left;
   }
 
-  .vmriu-desc {
+  .jrxea-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .vmriu-menu > a {
+  .jrxea-menu > a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .vmriu-menu > .active,
-  .vmriu-menu > a:hover {
+  .jrxea-menu > .active,
+  .jrxea-menu > a:hover {
     background-color: #000;
     color: #fff;
     display: flex;
   }
 
-  .vmriu-desc-menu {
+  .jrxea-desc-menu {
     width: 200px;
     background-color: #000;
     display: flex;
@@ -209,19 +209,19 @@
     border-radius: 5px;
   }
 
-  .vmriu-desc-menu > div {
+  .jrxea-desc-menu > div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .vmriu-desc-body {
+  .jrxea-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .vmriu-title {
+  .jrxea-title {
     width: 100%;
     height: 100px;
     background-color: #000;
@@ -234,14 +234,14 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .vmriu-title::before {
+  .jrxea-title::before {
     content: "";
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url("/page/beyaz_testliner_015/bg/{{bgimg}}");
+    background-image: url("/page/beyaz_testliner_004/bg/{{bgimg}}");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -249,44 +249,44 @@
     z-index: 1;
   }
 
-  .vmriu-title span {
+  .jrxea-title span {
     position: relative;
     z-index: 2;
     font-size: 32px;
   }
 
-  .vmriu-body {
+  .jrxea-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
     text-align: left;
   }
 
-  .vmriu-img {
+  .jrxea-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .vmriu-img img {
+  .jrxea-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .vmriu-desc {
+    .jrxea-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .vmriu-menu-btn {
+    .jrxea-menu-btn {
       display: flex;
       width: calc(100% - 55px);
       margin-left: 5px;
     }
 
-    .vmriu {
+    .jrxea {
       display: flex;
       flex-direction: column;
       width: 100%;
@@ -295,17 +295,17 @@
       margin-top: 0px;
     }
 
-    .vmriu-img {
+    .jrxea-img {
       width: 100%;
     }
 
-    .vmriu-body {
+    .jrxea-body {
       width: 100%;
       order: 3;
       padding: 10px;
     }
 
-    .vmriu-menu {
+    .jrxea-menu {
       width: 100%;
       float: none;
       flex-direction: column;
@@ -313,11 +313,11 @@
       display: none;
     }
 
-    .vmriu-menu.active {
+    .jrxea-menu.active {
       display: flex;
     }
 
-    .vmriu-desc {
+    .jrxea-desc {
       width: 100% !important;
       order: 2;
     }

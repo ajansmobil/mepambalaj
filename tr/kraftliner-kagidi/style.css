@@ -1,5 +1,5 @@
 
-  .yxwr6 {
+  .kku7m {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .yxwr6title {
+  .kku7mtitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .yxwr6titlebody {
+  .kku7mtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .yxwr6titlebodytitle {
+  .kku7mtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .yxwr6titlebodylang {
+  .kku7mtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .yxwr6titlebodylang ul {
+  .kku7mtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .yxwr6body {
+  .kku7mbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .yxwr6menu {
+  .kku7mmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .yxwr6menulist {
+  .kku7mmenulist {
     width: calc(100% - 20px);
     background-color: #e31524;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .yxwr6menubody {
+  .kku7mmenubody {
     width: 100%;
     background-color: #e31524;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .yxwr6menulist ul {
+  .kku7mmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .yxwr6menulist ul a {
+  .kku7mmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -92,26 +92,26 @@
     white-space: nowrap;
   }
 
-  .yxwr6menulist ul a:hover {
+  .kku7mmenulist ul a:hover {
     background-color: #fff;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .yxwr6-menu-list-active {
+  .kku7m-menu-list-active {
     background-color: #fff;
     border-radius: 5px;
       color: #000 !important;
     cursor: pointer;
   }
 
-  .yxwr6menulistbody {
+  .kku7mmenulistbody {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .yxwr6bodylogo {
+    .kku7mbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -119,15 +119,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .yxwr6menu {
+    .kku7mmenu {
       overflow-x: auto;
     }
 
-    .yxwr6menulist ul {
+    .kku7mmenulist ul {
       flex-direction: row;
     }
 
-    .yxwr6bodylogo {
+    .kku7mbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -135,7 +135,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .yxwr6menulist ul a {
+    .kku7mmenulist ul a {
       font-size: 14px;
     }
   }
@@ -145,7 +145,7 @@
     justify-content: start;
   }
 
-  .ss6zt {
+  .duga5 {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
@@ -153,7 +153,7 @@
     position: relative;
   }
 
-  .ss6zt-menu-btn {
+  .duga5-menu-btn {
     display: none;
     background-color: #000;
     padding: 10px 20px;
@@ -165,11 +165,11 @@
     align-items: center;
   }
 
-  .ss6zt-menu-btn i {
+  .duga5-menu-btn i {
     font-size: 20px;
   }
 
-  .ss6zt-menu {
+  .duga5-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -180,28 +180,28 @@
     float: left;
   }
 
-  .ss6zt-desc {
+  .duga5-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .ss6zt-menu > a {
+  .duga5-menu > a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .ss6zt-menu > .active,
-  .ss6zt-menu > a:hover {
+  .duga5-menu > .active,
+  .duga5-menu > a:hover {
     background-color: #000;
     color: #fff;
     display: flex;
   }
 
-  .ss6zt-desc-menu {
+  .duga5-desc-menu {
     width: 200px;
     background-color: #000;
     display: flex;
@@ -209,19 +209,19 @@
     border-radius: 5px;
   }
 
-  .ss6zt-desc-menu > div {
+  .duga5-desc-menu > div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .ss6zt-desc-body {
+  .duga5-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .ss6zt-title {
+  .duga5-title {
     width: 100%;
     height: 100px;
     background-color: #000;
@@ -234,14 +234,14 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .ss6zt-title::before {
+  .duga5-title::before {
     content: "";
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url("/page/kraftliner_kagidi_018/bg/{{bgimg}}");
+    background-image: url("/page/kraftliner_kagidi_007/bg/{{bgimg}}");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -249,44 +249,44 @@
     z-index: 1;
   }
 
-  .ss6zt-title span {
+  .duga5-title span {
     position: relative;
     z-index: 2;
     font-size: 32px;
   }
 
-  .ss6zt-body {
+  .duga5-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
     text-align: left;
   }
 
-  .ss6zt-img {
+  .duga5-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .ss6zt-img img {
+  .duga5-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .ss6zt-desc {
+    .duga5-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .ss6zt-menu-btn {
+    .duga5-menu-btn {
       display: flex;
       width: calc(100% - 55px);
       margin-left: 5px;
     }
 
-    .ss6zt {
+    .duga5 {
       display: flex;
       flex-direction: column;
       width: 100%;
@@ -295,17 +295,17 @@
       margin-top: 0px;
     }
 
-    .ss6zt-img {
+    .duga5-img {
       width: 100%;
     }
 
-    .ss6zt-body {
+    .duga5-body {
       width: 100%;
       order: 3;
       padding: 10px;
     }
 
-    .ss6zt-menu {
+    .duga5-menu {
       width: 100%;
       float: none;
       flex-direction: column;
@@ -313,11 +313,11 @@
       display: none;
     }
 
-    .ss6zt-menu.active {
+    .duga5-menu.active {
       display: flex;
     }
 
-    .ss6zt-desc {
+    .duga5-desc {
       width: 100% !important;
       order: 2;
     }

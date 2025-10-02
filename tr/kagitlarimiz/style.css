@@ -1,5 +1,5 @@
 
-  .cb0u5 {
+  .xj7oy {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .cb0u5title {
+  .xj7oytitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .cb0u5titlebody {
+  .xj7oytitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .cb0u5titlebodytitle {
+  .xj7oytitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .cb0u5titlebodylang {
+  .xj7oytitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .cb0u5titlebodylang ul {
+  .xj7oytitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .cb0u5body {
+  .xj7oybody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .cb0u5menu {
+  .xj7oymenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .cb0u5menulist {
+  .xj7oymenulist {
     width: calc(100% - 20px);
     background-color: #e31524;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .cb0u5menubody {
+  .xj7oymenubody {
     width: 100%;
     background-color: #e31524;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .cb0u5menulist ul {
+  .xj7oymenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .cb0u5menulist ul a {
+  .xj7oymenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -92,26 +92,26 @@
     white-space: nowrap;
   }
 
-  .cb0u5menulist ul a:hover {
+  .xj7oymenulist ul a:hover {
     background-color: #fff;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .cb0u5-menu-list-active {
+  .xj7oy-menu-list-active {
     background-color: #fff;
     border-radius: 5px;
       color: #000 !important;
     cursor: pointer;
   }
 
-  .cb0u5menulistbody {
+  .xj7oymenulistbody {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .cb0u5bodylogo {
+    .xj7oybodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -119,15 +119,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .cb0u5menu {
+    .xj7oymenu {
       overflow-x: auto;
     }
 
-    .cb0u5menulist ul {
+    .xj7oymenulist ul {
       flex-direction: row;
     }
 
-    .cb0u5bodylogo {
+    .xj7oybodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -135,27 +135,27 @@
   }
 
   @media screen and (max-width: 768px) {
-    .cb0u5menulist ul a {
+    .xj7oymenulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .d3klk {
+  .fk2ey {
     margin-top: 20px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
 
-  .d3klk-body {
+  .fk2ey-body {
     width: var(--max);
     display: grid;
     gap: 10px;
     grid-template-columns: repeat(4, 1fr);
   }
 
-  .d3klk-body-item {
+  .fk2ey-body-item {
     aspect-ratio: 7 / 4;
     background-color: #f2f2f2;
     border-radius: 5px;
@@ -166,7 +166,7 @@
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
   }
 
-  .d3klk-body-item-img {
+  .fk2ey-body-item-img {
     aspect-ratio: 12 / 8;
     display: flex;
     justify-content: center;
@@ -177,7 +177,7 @@
     /* Taşma durumunda kesme */
   }
 
-  .d3klk-body-item-img img {
+  .fk2ey-body-item-img img {
     width: 100%;
     height: 100%;
     object-fit: contain;
@@ -185,7 +185,7 @@
     border-radius: 5px;
   }
 
-  .d3klk-body-item-title {
+  .fk2ey-body-item-title {
     border-radius: 3px;
     padding: 5px;
     background-color: #e9e9e9;
@@ -198,7 +198,7 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .d3klk-body {
+    .fk2ey-body {
       width: calc(100% - 10px);
       margin: 0px 5px 0px 5px;
       grid-template-columns: repeat(3, 1fr);
@@ -206,7 +206,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .d3klk-body {
+    .fk2ey-body {
       width: calc(100% - 10px);
       margin: 0px 5px 0px 5px;
       grid-template-columns: repeat(2, 1fr);

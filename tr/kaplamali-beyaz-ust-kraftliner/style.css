@@ -1,5 +1,5 @@
 
-  .x3x6z {
+  .g54d6 {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .x3x6ztitle {
+  .g54d6title {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .x3x6ztitlebody {
+  .g54d6titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .x3x6ztitlebodytitle {
+  .g54d6titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .x3x6ztitlebodylang {
+  .g54d6titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .x3x6ztitlebodylang ul {
+  .g54d6titlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .x3x6zbody {
+  .g54d6body {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .x3x6zmenu {
+  .g54d6menu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .x3x6zmenulist {
+  .g54d6menulist {
     width: calc(100% - 20px);
     background-color: #e31524;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .x3x6zmenubody {
+  .g54d6menubody {
     width: 100%;
     background-color: #e31524;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .x3x6zmenulist ul {
+  .g54d6menulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .x3x6zmenulist ul a {
+  .g54d6menulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -92,26 +92,26 @@
     white-space: nowrap;
   }
 
-  .x3x6zmenulist ul a:hover {
+  .g54d6menulist ul a:hover {
     background-color: #fff;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .x3x6z-menu-list-active {
+  .g54d6-menu-list-active {
     background-color: #fff;
     border-radius: 5px;
       color: #000 !important;
     cursor: pointer;
   }
 
-  .x3x6zmenulistbody {
+  .g54d6menulistbody {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .x3x6zbodylogo {
+    .g54d6bodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -119,15 +119,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .x3x6zmenu {
+    .g54d6menu {
       overflow-x: auto;
     }
 
-    .x3x6zmenulist ul {
+    .g54d6menulist ul {
       flex-direction: row;
     }
 
-    .x3x6zbodylogo {
+    .g54d6bodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -135,7 +135,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .x3x6zmenulist ul a {
+    .g54d6menulist ul a {
       font-size: 14px;
     }
   }
@@ -145,7 +145,7 @@
     justify-content: start;
   }
 
-  .b1cir {
+  .b2oup {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
@@ -153,7 +153,7 @@
     position: relative;
   }
 
-  .b1cir-menu-btn {
+  .b2oup-menu-btn {
     display: none;
     background-color: #000;
     padding: 10px 20px;
@@ -165,11 +165,11 @@
     align-items: center;
   }
 
-  .b1cir-menu-btn i {
+  .b2oup-menu-btn i {
     font-size: 20px;
   }
 
-  .b1cir-menu {
+  .b2oup-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -180,28 +180,28 @@
     float: left;
   }
 
-  .b1cir-desc {
+  .b2oup-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .b1cir-menu > a {
+  .b2oup-menu > a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .b1cir-menu > .active,
-  .b1cir-menu > a:hover {
+  .b2oup-menu > .active,
+  .b2oup-menu > a:hover {
     background-color: #000;
     color: #fff;
     display: flex;
   }
 
-  .b1cir-desc-menu {
+  .b2oup-desc-menu {
     width: 200px;
     background-color: #000;
     display: flex;
@@ -209,19 +209,19 @@
     border-radius: 5px;
   }
 
-  .b1cir-desc-menu > div {
+  .b2oup-desc-menu > div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .b1cir-desc-body {
+  .b2oup-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .b1cir-title {
+  .b2oup-title {
     width: 100%;
     height: 100px;
     background-color: #000;
@@ -234,14 +234,14 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .b1cir-title::before {
+  .b2oup-title::before {
     content: "";
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url("/page/kaplamali_beyaz_ust_kraftliner_020/bg/{{bgimg}}");
+    background-image: url("/page/kaplamali_beyaz_ust_kraftliner_009/bg/{{bgimg}}");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -249,44 +249,44 @@
     z-index: 1;
   }
 
-  .b1cir-title span {
+  .b2oup-title span {
     position: relative;
     z-index: 2;
     font-size: 32px;
   }
 
-  .b1cir-body {
+  .b2oup-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
     text-align: left;
   }
 
-  .b1cir-img {
+  .b2oup-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .b1cir-img img {
+  .b2oup-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .b1cir-desc {
+    .b2oup-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .b1cir-menu-btn {
+    .b2oup-menu-btn {
       display: flex;
       width: calc(100% - 55px);
       margin-left: 5px;
     }
 
-    .b1cir {
+    .b2oup {
       display: flex;
       flex-direction: column;
       width: 100%;
@@ -295,17 +295,17 @@
       margin-top: 0px;
     }
 
-    .b1cir-img {
+    .b2oup-img {
       width: 100%;
     }
 
-    .b1cir-body {
+    .b2oup-body {
       width: 100%;
       order: 3;
       padding: 10px;
     }
 
-    .b1cir-menu {
+    .b2oup-menu {
       width: 100%;
       float: none;
       flex-direction: column;
@@ -313,11 +313,11 @@
       display: none;
     }
 
-    .b1cir-menu.active {
+    .b2oup-menu.active {
       display: flex;
     }
 
-    .b1cir-desc {
+    .b2oup-desc {
       width: 100% !important;
       order: 2;
     }

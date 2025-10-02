@@ -1,8 +1,8 @@
 {
   "name": {
     "tr": "Makinalarımız",
-    "en": "",
-    "ar": ""
+    "en": "Our Machines",
+    "ar": "آلاتنا"
   },
   "status": "play",
   "category": "",
@@ -21,25 +21,25 @@
   },
   "pathnext": "",
   "description": {
-    "tr": "",
-    "en": "",
-    "ar": ""
+    "tr": "MEP Ambalaj makinalarımız: Modern üretim teknolojileri, yüksek kapasiteli makineler ve otomatik üretim sistemleri. Kaliteli üretim için gerekli tüm ekipmanlar.",
+    "en": "MEP Packaging machines: Modern production technologies, high capacity machines and automated production systems. All necessary equipment for quality production.",
+    "ar": "آلات MEP Ambalaj: تقنيات الإنتاج الحديثة، آلات عالية السعة وأنظمة إنتاج آلية. جميع المعدات اللازمة للإنتاج عالي الجودة."
   },
   "keyword": {
-    "tr": "",
-    "en": "",
-    "ar": ""
+    "tr": "makinalarımız, üretim makineleri, otomatik üretim, yüksek kapasiteli makineler, MEP Ambalaj makinaları",
+    "en": "our machines, production machines, automatic production, high capacity machines, MEP Packaging machines",
+    "ar": "آلاتنا، آلات الإنتاج، إنتاج آلي، آلات عالية السعة، آلات MEP Ambalaj"
   },
   "text": {
-    "tr": "",
-    "en": "",
-    "ar": ""
+    "tr": "<h2 style=\"font-size: 24px;\">Makinalarımız</h2>\n    <p style=\"font-size: 16px;\">\n        MEP Ambalaj olarak, modern üretim teknolojileri ile donatılmış yüksek kapasiteli makinelerimizle kaliteli üretim gerçekleştiriyoruz. Otomatik üretim sistemlerimiz sayesinde verimli ve hızlı çalışma imkanı sunuyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Makine parkımız, sektörün en son teknolojilerini kullanarak üretim yapmaktadır. Yüksek kalite standartlarımızla müşteri memnuniyetini ön planda tutuyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Sürekli gelişim anlayışımızla, makine parkımızı yenileyerek daha verimli üretim süreçleri oluşturuyoruz.\n    </p>",
+    "en": "<h2 style=\"font-size: 24px;\">Our Machines</h2>\n    <p style=\"font-size: 16px;\">\n        As MEP Packaging, we perform quality production with our high-capacity machines equipped with modern production technologies. We offer efficient and fast working opportunity thanks to our automated production systems.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Our machine park produces using the latest technologies in the industry. We prioritize customer satisfaction with our high quality standards.\n    </p>\n    <p style=\"font-size: 16px;\">\n        With our continuous development approach, we renew our machine park and create more efficient production processes.\n    </p>",
+    "ar": "<h2 style=\"font-size: 24px;\">آلاتنا</h2>\n    <p style=\"font-size: 16px;\">\n        بصفتنا MEP Ambalaj، نقوم بإنتاج عالي الجودة مع آلاتنا عالية السعة المجهزة بتقنيات الإنتاج الحديثة. نقدم فرصة عمل فعالة وسريعة بفضل أنظمة الإنتاج الآلية الخاصة بنا.\n    </p>\n    <p style=\"font-size: 16px;\">\n        حديقة آلاتنا تنتج باستخدام أحدث التقنيات في الصناعة. نعطي الأولوية لرضا العملاء بمعايير الجودة العالية الخاصة بنا.\n    </p>\n    <p style=\"font-size: 16px;\">\n        مع نهج التطوير المستمر الخاص بنا، نقوم بتجديد حديقة آلاتنا وإنشاء عمليات إنتاج أكثر كفاءة.\n    </p>"
   },
   "spot": {
     "tr": "",
     "en": "",
     "ar": ""
   },
-  "update": "2025-10-02T07:57:33.723Z",
+  "update": "2025-10-02T08:22:31.838Z",
   "date": "2025-10-01T08:33:44.198Z"
 }

@@ -22,14 +22,18 @@
       },
       "pathnext": "",
       "description": {
-        "tr": ""
+        "tr": "MEP Ambalaj karton kutu yapım makinesi: İnline katlama ve yapıştırma teknolojisi ile yüksek kaliteli kutu üretimi. Otomatik üretim süreçleri ve verimli çalışma.",
+        "en": "MEP Packaging carton box making machine: High quality box production with inline folding and gluing technology. Automated production processes and efficient operation.",
+        "ar": "آلة صنع صناديق الكرتون MEP Ambalaj: إنتاج صناديق عالي الجودة بتقنية الطي واللصق المتصل. عمليات إنتاج آلية وتشغيل فعال."
       },
       "spot": {
-        "tr": ""
+        "tr": "",
+        "en": "",
+        "ar": ""
       },
-      "desc": {},
       "icon": "home",
-      "img": "dm6gg.png"
+      "img": "dm6gg.png",
+      "desc": {}
     },
     {
       "name": {
@@ -51,13 +55,17 @@
       },
       "pathnext": "",
       "description": {
-        "tr": ""
+        "tr": "MEP Ambalaj yüksek grafikli yazıcı vernik kurutucu: Yüksek kaliteli baskı sonrası vernik kurutma işlemi. Hızlı kurutma teknolojisi ve verimli üretim.",
+        "en": "MEP Packaging high graphic printer varnish dryer: High quality varnish drying process after printing. Fast drying technology and efficient production.",
+        "ar": "مجفف الورنيش للطابعة عالية الجرافيك MEP Ambalaj: عملية تجفيف الورنيش عالية الجودة بعد الطباعة. تقنية التجفيف السريع والإنتاج الفعال."
       },
       "spot": {
-        "tr": ""
+        "tr": "",
+        "en": "",
+        "ar": ""
       },
-      "desc": {},
-      "img": "l9h30.png"
+      "img": "l9h30.png",
+      "desc": {}
     },
     {
       "name": {
@@ -79,13 +87,17 @@
       },
       "pathnext": "",
       "description": {
-        "tr": ""
+        "tr": "MEP Ambalaj yüksek hızlı bilgisayarlı yazıcı: Yüksek hızda ve hassas baskı kalitesi ile üretim. Bilgisayar kontrollü otomatik baskı sistemi.",
+        "en": "MEP Packaging high speed computerized printer: High speed and precise print quality production. Computer controlled automatic printing system.",
+        "ar": "طابعة عالية السرعة محوسبة MEP Ambalaj: إنتاج عالي السرعة ودقة في جودة الطباعة. نظام طباعة آلي محوسب."
       },
       "spot": {
-        "tr": ""
+        "tr": "",
+        "en": "",
+        "ar": ""
       },
-      "desc": {},
-      "img": "a4c7i.png"
+      "img": "a4c7i.png",
+      "desc": {}
     },
     {
       "name": {
@@ -107,13 +119,17 @@
       },
       "pathnext": "",
       "description": {
-        "tr": ""
+        "tr": "MEP Ambalaj otomatik ön besleme makinesi: Otomatik malzeme besleme sistemi ile sürekli üretim. Yüksek verimlilik ve düşük işçilik maliyeti.",
+        "en": "MEP Packaging automatic pre-feeder machine: Continuous production with automatic material feeding system. High efficiency and low labor cost.",
+        "ar": "آلة التغذية المسبقة الأوتوماتيكية MEP Ambalaj: إنتاج مستمر مع نظام تغذية المواد الأوتوماتيكي. كفاءة عالية وتكلفة عمالة منخفضة."
       },
       "spot": {
-        "tr": ""
+        "tr": "",
+        "en": "",
+        "ar": ""
       },
-      "desc": {},
-      "img": "sqxea.png"
+      "img": "sqxea.png",
+      "desc": {}
     },
     {
       "name": {
@@ -135,13 +151,17 @@
       },
       "pathnext": "",
       "description": {
-        "tr": ""
+        "tr": "MEP Ambalaj Xieyang Makine işbirliği: Guangdong merkezli makine üreticisi ile stratejik ortaklık. Yüksek kaliteli makine teknolojileri ve teknik destek.",
+        "en": "MEP Packaging Xieyang Machinery partnership: Strategic partnership with Guangdong-based machine manufacturer. High quality machine technologies and technical support.",
+        "ar": "شراكة MEP Ambalaj مع Xieyang للآلات: شراكة استراتيجية مع مصنع آلات مقره في Guangdong. تقنيات آلات عالية الجودة والدعم التقني."
       },
       "spot": {
-        "tr": ""
+        "tr": "",
+        "en": "",
+        "ar": ""
       },
-      "desc": {},
-      "img": "xlnlo.png"
+      "img": "xlnlo.png",
+      "desc": {}
     }
   ],
   "index": 4,

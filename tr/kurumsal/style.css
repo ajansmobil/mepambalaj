@@ -1,5 +1,5 @@
 
-  .pih90 {
+  .pcd92 {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .pih90title {
+  .pcd92title {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .pih90titlebody {
+  .pcd92titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .pih90titlebodytitle {
+  .pcd92titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .pih90titlebodylang {
+  .pcd92titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .pih90titlebodylang ul {
+  .pcd92titlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .pih90body {
+  .pcd92body {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .pih90menu {
+  .pcd92menu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .pih90menulist {
+  .pcd92menulist {
     width: calc(100% - 20px);
     background-color: #e31524;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .pih90menubody {
+  .pcd92menubody {
     width: 100%;
     background-color: #e31524;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .pih90menulist ul {
+  .pcd92menulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .pih90menulist ul a {
+  .pcd92menulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -92,26 +92,26 @@
     white-space: nowrap;
   }
 
-  .pih90menulist ul a:hover {
+  .pcd92menulist ul a:hover {
     background-color: #fff;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .pih90-menu-list-active {
+  .pcd92-menu-list-active {
     background-color: #fff;
     border-radius: 5px;
       color: #000 !important;
     cursor: pointer;
   }
 
-  .pih90menulistbody {
+  .pcd92menulistbody {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .pih90bodylogo {
+    .pcd92bodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -119,15 +119,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .pih90menu {
+    .pcd92menu {
       overflow-x: auto;
     }
 
-    .pih90menulist ul {
+    .pcd92menulist ul {
       flex-direction: row;
     }
 
-    .pih90bodylogo {
+    .pcd92bodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -135,7 +135,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .pih90menulist ul a {
+    .pcd92menulist ul a {
       font-size: 14px;
     }
   }

@@ -1,5 +1,5 @@
 
-  .lrmmd {
+  .l0yux {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .lrmmdtitle {
+  .l0yuxtitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .lrmmdtitlebody {
+  .l0yuxtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .lrmmdtitlebodytitle {
+  .l0yuxtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .lrmmdtitlebodylang {
+  .l0yuxtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .lrmmdtitlebodylang ul {
+  .l0yuxtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .lrmmdbody {
+  .l0yuxbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .lrmmdmenu {
+  .l0yuxmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .lrmmdmenulist {
+  .l0yuxmenulist {
     width: calc(100% - 20px);
     background-color: #e31524;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .lrmmdmenubody {
+  .l0yuxmenubody {
     width: 100%;
     background-color: #e31524;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .lrmmdmenulist ul {
+  .l0yuxmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .lrmmdmenulist ul a {
+  .l0yuxmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -92,26 +92,26 @@
     white-space: nowrap;
   }
 
-  .lrmmdmenulist ul a:hover {
+  .l0yuxmenulist ul a:hover {
     background-color: #fff;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .lrmmd-menu-list-active {
+  .l0yux-menu-list-active {
     background-color: #fff;
     border-radius: 5px;
       color: #000 !important;
     cursor: pointer;
   }
 
-  .lrmmdmenulistbody {
+  .l0yuxmenulistbody {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .lrmmdbodylogo {
+    .l0yuxbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -119,15 +119,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .lrmmdmenu {
+    .l0yuxmenu {
       overflow-x: auto;
     }
 
-    .lrmmdmenulist ul {
+    .l0yuxmenulist ul {
       flex-direction: row;
     }
 
-    .lrmmdbodylogo {
+    .l0yuxbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -135,25 +135,25 @@
   }
 
   @media screen and (max-width: 768px) {
-    .lrmmdmenulist ul a {
+    .l0yuxmenulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .rtv1e {
+  .zzw8k {
     margin-top: 30px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .rtv1ebody {
+  .zzw8kbody {
     width: var(--max);
     display: grid;
     gap: 15px;
     grid-template-columns: repeat(4, 1fr);
   }
-  .rtv1ebodyitem {
+  .zzw8kbodyitem {
     cursor: pointer;
     background-color: #e9e9e9;
     border-radius: 8px;
@@ -169,22 +169,22 @@
     align-items: center;
     justify-content: center;
   }
-  .rtv1ebodyitem:hover {
+  .zzw8kbodyitem:hover {
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
     transform: translateY(-3px);
   }
-  .rtv1ebodyitemimg {
+  .zzw8kbodyitemimg {
     display: flex;
     justify-content: center;
     align-items: center;
   }
-  .rtv1ebodyitemimg img {
+  .zzw8kbodyitemimg img {
     width: 100%;
     height: auto;
     object-fit: cover;
     border-radius: 5px;
   }
-  .rtv1ebodyitemtitle {
+  .zzw8kbodyitemtitle {
     padding: 8px;
     background-color: #e5e5e5;
     text-align: center;
@@ -193,14 +193,14 @@
     font-size: 16px;
   }
   @media screen and (max-width: 1024px) {
-    .rtv1ebody {
+    .zzw8kbody {
       width: calc(100% - 20px);
       margin: 0 10px;
       grid-template-columns: repeat(3, 1fr);
     }
   }
   @media screen and (max-width: 768px) {
-    .rtv1ebody {
+    .zzw8kbody {
       width: calc(100% - 20px);
       margin: 0 10px;
       grid-template-columns: repeat(2, 1fr);

@@ -1,5 +1,5 @@
 
-  .chebi {
+  .jwt0q {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .chebititle {
+  .jwt0qtitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .chebititlebody {
+  .jwt0qtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .chebititlebodytitle {
+  .jwt0qtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .chebititlebodylang {
+  .jwt0qtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .chebititlebodylang ul {
+  .jwt0qtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .chebibody {
+  .jwt0qbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .chebimenu {
+  .jwt0qmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .chebimenulist {
+  .jwt0qmenulist {
     width: calc(100% - 20px);
     background-color: #e31524;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .chebimenubody {
+  .jwt0qmenubody {
     width: 100%;
     background-color: #e31524;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .chebimenulist ul {
+  .jwt0qmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .chebimenulist ul a {
+  .jwt0qmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -92,26 +92,26 @@
     white-space: nowrap;
   }
 
-  .chebimenulist ul a:hover {
+  .jwt0qmenulist ul a:hover {
     background-color: #fff;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .chebi-menu-list-active {
+  .jwt0q-menu-list-active {
     background-color: #fff;
     border-radius: 5px;
       color: #000 !important;
     cursor: pointer;
   }
 
-  .chebimenulistbody {
+  .jwt0qmenulistbody {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .chebibodylogo {
+    .jwt0qbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -119,15 +119,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .chebimenu {
+    .jwt0qmenu {
       overflow-x: auto;
     }
 
-    .chebimenulist ul {
+    .jwt0qmenulist ul {
       flex-direction: row;
     }
 
-    .chebibodylogo {
+    .jwt0qbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -135,25 +135,25 @@
   }
 
   @media screen and (max-width: 768px) {
-    .chebimenulist ul a {
+    .jwt0qmenulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .jwr0r {
+  .kbe6z {
     margin-top: 30px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .jwr0rbody {
+  .kbe6zbody {
     width: var(--max);
     display: grid;
     gap: 15px;
     grid-template-columns: repeat(4, 1fr);
   }
-  .jwr0rbodyitem {
+  .kbe6zbodyitem {
     cursor: pointer;
     background-color: #e9e9e9;
     border-radius: 8px;
@@ -169,22 +169,22 @@
     align-items: center;
     justify-content: center;
   }
-  .jwr0rbodyitem:hover {
+  .kbe6zbodyitem:hover {
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
     transform: translateY(-3px);
   }
-  .jwr0rbodyitemimg {
+  .kbe6zbodyitemimg {
     display: flex;
     justify-content: center;
     align-items: center;
   }
-  .jwr0rbodyitemimg img {
+  .kbe6zbodyitemimg img {
     width: 100%;
     height: auto;
     object-fit: cover;
     border-radius: 5px;
   }
-  .jwr0rbodyitemtitle {
+  .kbe6zbodyitemtitle {
     padding: 8px;
     background-color: #e5e5e5;
     text-align: center;
@@ -193,14 +193,14 @@
     font-size: 16px;
   }
   @media screen and (max-width: 1024px) {
-    .jwr0rbody {
+    .kbe6zbody {
       width: calc(100% - 20px);
       margin: 0 10px;
       grid-template-columns: repeat(3, 1fr);
     }
   }
   @media screen and (max-width: 768px) {
-    .jwr0rbody {
+    .kbe6zbody {
       width: calc(100% - 20px);
       margin: 0 10px;
       grid-template-columns: repeat(2, 1fr);

@@ -1,5 +1,5 @@
 
-  .aelvp {
+  .u3wii {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .aelvptitle {
+  .u3wiititle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .aelvptitlebody {
+  .u3wiititlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .aelvptitlebodytitle {
+  .u3wiititlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .aelvptitlebodylang {
+  .u3wiititlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .aelvptitlebodylang ul {
+  .u3wiititlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .aelvpbody {
+  .u3wiibody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .aelvpmenu {
+  .u3wiimenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .aelvpmenulist {
+  .u3wiimenulist {
     width: calc(100% - 20px);
     background-color: #e31524;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .aelvpmenubody {
+  .u3wiimenubody {
     width: 100%;
     background-color: #e31524;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .aelvpmenulist ul {
+  .u3wiimenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .aelvpmenulist ul a {
+  .u3wiimenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -92,26 +92,26 @@
     white-space: nowrap;
   }
 
-  .aelvpmenulist ul a:hover {
+  .u3wiimenulist ul a:hover {
     background-color: #fff;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .aelvp-menu-list-active {
+  .u3wii-menu-list-active {
     background-color: #fff;
     border-radius: 5px;
       color: #000 !important;
     cursor: pointer;
   }
 
-  .aelvpmenulistbody {
+  .u3wiimenulistbody {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .aelvpbodylogo {
+    .u3wiibodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -119,15 +119,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .aelvpmenu {
+    .u3wiimenu {
       overflow-x: auto;
     }
 
-    .aelvpmenulist ul {
+    .u3wiimenulist ul {
       flex-direction: row;
     }
 
-    .aelvpbodylogo {
+    .u3wiibodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -135,25 +135,25 @@
   }
 
   @media screen and (max-width: 768px) {
-    .aelvpmenulist ul a {
+    .u3wiimenulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .wvsc8 {
+  .xeevy {
     margin-top: 30px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .wvsc8body {
+  .xeevybody {
     width: var(--max);
     display: grid;
     gap: 15px;
     grid-template-columns: repeat(4, 1fr);
   }
-  .wvsc8bodyitem {
+  .xeevybodyitem {
     cursor: pointer;
     background-color: #e9e9e9;
     border-radius: 8px;
@@ -169,22 +169,22 @@
     align-items: center;
     justify-content: center;
   }
-  .wvsc8bodyitem:hover {
+  .xeevybodyitem:hover {
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
     transform: translateY(-3px);
   }
-  .wvsc8bodyitemimg {
+  .xeevybodyitemimg {
     display: flex;
     justify-content: center;
     align-items: center;
   }
-  .wvsc8bodyitemimg img {
+  .xeevybodyitemimg img {
     width: 100%;
     height: auto;
     object-fit: cover;
     border-radius: 5px;
   }
-  .wvsc8bodyitemtitle {
+  .xeevybodyitemtitle {
     padding: 8px;
     background-color: #e5e5e5;
     text-align: center;
@@ -193,14 +193,14 @@
     font-size: 16px;
   }
   @media screen and (max-width: 1024px) {
-    .wvsc8body {
+    .xeevybody {
       width: calc(100% - 20px);
       margin: 0 10px;
       grid-template-columns: repeat(3, 1fr);
     }
   }
   @media screen and (max-width: 768px) {
-    .wvsc8body {
+    .xeevybody {
       width: calc(100% - 20px);
       margin: 0 10px;
       grid-template-columns: repeat(2, 1fr);

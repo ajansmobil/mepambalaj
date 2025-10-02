@@ -5,32 +5,6 @@
   "data": [
     {
       "name": {
-        "tr": "Hızlı Tüketim Ürünleri Kutuları",
-        "en": "Fast Moving Consumer Goods Boxes",
-        "ar": "صناديق السلع الاستهلاكية سريعة الحركة"
-      },
-      "status": "play",
-      "category": "ambalaj",
-      "id": "htu_kutu_002",
-      "url": "",
-      "path": "hizli-tuketim-urunleri-kutulari",
-      "index": 0,
-      "icon": "home",
-      "img": "ws1u6.png",
-      "description": {
-        "tr": "MEP Ambalaj hızlı tüketim ürünleri kutuları: Gıda, içecek, temizlik ürünleri için özel tasarım ambalaj çözümleri. Sürdürülebilir malzeme, hijyenik üretim.",
-        "en": "MEP Packaging fast moving consumer goods boxes: Special design packaging solutions for food, beverage, cleaning products. Sustainable material, hygienic production.",
-        "ar": "صناديق السلع الاستهلاكية سريعة الحركة MEP Ambalaj: حلول التعبئة والتغليف بتصميم خاص للأغذية والمشروبات ومنتجات التنظيف. مادة مستدامة، إنتاج صحي."
-      },
-      "spot": {
-        "tr": "",
-        "en": "",
-        "ar": ""
-      },
-      "desc": {}
-    },
-    {
-      "name": {
         "tr": "Cips & Dondurma Kutuları",
         "en": "Chips & Ice Cream Boxes",
         "ar": "صناديق الرقائق والآيس كريم"
@@ -40,7 +14,7 @@
       "id": "cips_dondurma_003",
       "url": "",
       "path": "cips-dondurma-kutulari",
-      "index": 1,
+      "index": 0,
       "icon": "home",
       "img": "nq665.png",
       "description": {
@@ -66,7 +40,7 @@
       "id": "et_kutu_004",
       "url": "",
       "path": "et-kutulari",
-      "index": 2,
+      "index": 1,
       "icon": "home",
       "img": "aq23x.png",
       "description": {
@@ -92,7 +66,7 @@
       "id": "tavuk_kutu_005",
       "url": "",
       "path": "tavuk-kutulari",
-      "index": 3,
+      "index": 2,
       "icon": "home",
       "img": "cr7hl.png",
       "description": {
@@ -118,39 +92,13 @@
       "id": "meyve_sebze_006",
       "url": "",
       "path": "yas-meyve-sebze-kutulari",
-      "index": 4,
+      "index": 3,
       "icon": "home",
       "img": "ilaa4.png",
       "description": {
         "tr": "MEP Ambalaj yaş meyve ve sebze kutuları: Gözenekli yapı, mikroorganizma koruması, raf ömrü uzatma. Hijyenik üretim, sürdürülebilir malzeme.",
         "en": "MEP Packaging fresh fruit and vegetable boxes: Porous structure, microorganism protection, shelf life extension. Hygienic production, sustainable material.",
         "ar": "صناديق الفواكه والخضروات الطازجة MEP Ambalaj: هيكل مسامي، حماية من الكائنات الدقيقة، إطالة العمر الافتراضي. إنتاج صحي، مادة مستدامة."
-      },
-      "spot": {
-        "tr": "",
-        "en": "",
-        "ar": ""
-      },
-      "desc": {}
-    },
-    {
-      "name": {
-        "tr": "Bira & Şarap Kutuları",
-        "en": "Beer & Wine Boxes",
-        "ar": "صناديق البيرة والنبيذ"
-      },
-      "status": "play",
-      "category": "ambalaj",
-      "id": "bira_sarap_007",
-      "url": "",
-      "path": "bira-sarap-kutulari",
-      "index": 5,
-      "icon": "home",
-      "img": "lyuu7.png",
-      "description": {
-        "tr": "MEP Ambalaj bira ve şarap kutuları: İçecek sektörü için özel tasarım ambalaj çözümleri. Sızdırmaz yapı, dayanıklı malzeme, hijyenik üretim.",
-        "en": "MEP Packaging beer and wine boxes: Special design packaging solutions for beverage industry. Leak-proof structure, durable material, hygienic production.",
-        "ar": "صناديق البيرة والنبيذ MEP Ambalaj: حلول التعبئة والتغليف بتصميم خاص لصناعة المشروبات. هيكل محكم، مادة متينة، إنتاج صحي."
       },
       "spot": {
         "tr": "",
@@ -170,7 +118,7 @@
       "id": "icecek_kutu_008",
       "url": "",
       "path": "icecek-kutulari",
-      "index": 6,
+      "index": 4,
       "icon": "home",
       "img": "ft8cf.png",
       "description": {
@@ -196,7 +144,7 @@
       "id": "sut_yogurt_009",
       "url": "",
       "path": "sut-yogurt-ayran-yumurta-kutulari",
-      "index": 7,
+      "index": 5,
       "icon": "home",
       "img": "cqccp.png",
       "description": {
@@ -222,7 +170,7 @@
       "id": "dijital_baski_010",
       "url": "",
       "path": "dijital-baski",
-      "index": 8,
+      "index": 6,
       "icon": "home",
       "img": "llfas.png",
       "description": {
@@ -248,7 +196,7 @@
       "id": "beyaz_esya_011",
       "url": "",
       "path": "beyaz-esya-kutulari",
-      "index": 9,
+      "index": 7,
       "icon": "home",
       "img": "d5n6z.png",
       "description": {
@@ -274,7 +222,7 @@
       "id": "otomotiv_kutu_012",
       "url": "",
       "path": "otomotiv-kutulari",
-      "index": 10,
+      "index": 8,
       "icon": "home",
       "img": "d4llo.png",
       "description": {
@@ -300,7 +248,7 @@
       "id": "seramik_vitrifiye_013",
       "url": "",
       "path": "seramik-vitrifiye-kutulari",
-      "index": 11,
+      "index": 9,
       "icon": "home",
       "img": "rpq6t.png",
       "description": {
@@ -326,7 +274,7 @@
       "id": "oluklu_stand_014",
       "url": "",
       "path": "oluklu-standlar",
-      "index": 12,
+      "index": 10,
       "icon": "home",
       "img": "fz7yt.png",
       "description": {
@@ -352,7 +300,7 @@
       "id": "oktabin_kutu_015",
       "url": "",
       "path": "oktabin-kutulari",
-      "index": 13,
+      "index": 11,
       "icon": "home",
       "img": "is3ej.png",
       "description": {
@@ -378,7 +326,7 @@
       "id": "modul_kutu_016",
       "url": "",
       "path": "modul-kutulari",
-      "index": 14,
+      "index": 12,
       "icon": "home",
       "img": "mozu1.png",
       "description": {
@@ -404,7 +352,7 @@
       "id": "eticaret_kutu_017",
       "url": "",
       "path": "e-ticaret-kutulari",
-      "index": 15,
+      "index": 13,
       "icon": "home",
       "img": "cfu1n.png",
       "description": {
@@ -430,7 +378,7 @@
       "id": "temizlik_kimya_018",
       "url": "",
       "path": "temizlik-kimya-kutulari",
-      "index": 16,
+      "index": 14,
       "icon": "home",
       "img": "tuaj5.png",
       "description": {

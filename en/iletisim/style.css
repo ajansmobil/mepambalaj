@@ -1,5 +1,5 @@
 
-  .dyhrb {
+  .qcdad {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .dyhrbtitle {
+  .qcdadtitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .dyhrbtitlebody {
+  .qcdadtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .dyhrbtitlebodytitle {
+  .qcdadtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .dyhrbtitlebodylang {
+  .qcdadtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .dyhrbtitlebodylang ul {
+  .qcdadtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .dyhrbbody {
+  .qcdadbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .dyhrbmenu {
+  .qcdadmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .dyhrbmenulist {
+  .qcdadmenulist {
     width: calc(100% - 20px);
     background-color: #e31524;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .dyhrbmenubody {
+  .qcdadmenubody {
     width: 100%;
     background-color: #e31524;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .dyhrbmenulist ul {
+  .qcdadmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .dyhrbmenulist ul a {
+  .qcdadmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -92,26 +92,26 @@
     white-space: nowrap;
   }
 
-  .dyhrbmenulist ul a:hover {
+  .qcdadmenulist ul a:hover {
     background-color: #fff;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .dyhrb-menu-list-active {
+  .qcdad-menu-list-active {
     background-color: #fff;
     border-radius: 5px;
       color: #000 !important;
     cursor: pointer;
   }
 
-  .dyhrbmenulistbody {
+  .qcdadmenulistbody {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .dyhrbbodylogo {
+    .qcdadbodylogo {
       height: 100px;
       max-width: 90vw;
       max-height: 100px;
@@ -119,15 +119,15 @@
   }
 
   @media screen and (max-width: 1024px) {
-    .dyhrbmenu {
+    .qcdadmenu {
       overflow-x: auto;
     }
 
-    .dyhrbmenulist ul {
+    .qcdadmenulist ul {
       flex-direction: row;
     }
 
-    .dyhrbbodylogo {
+    .qcdadbodylogo {
       width: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -135,13 +135,13 @@
   }
 
   @media screen and (max-width: 768px) {
-    .dyhrbmenulist ul a {
+    .qcdadmenulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .d3sf8 {
+  .fu9nf {
     width: 100%;
     margin: 30px 0px 30px 0px;
     display: flex;
@@ -150,14 +150,14 @@
     position: relative;
   }
 
-  .d3sf8containertitle {
+  .fu9nfcontainertitle {
     font-size: 28px;
     font-weight: bold;
     color: #333;
     margin-bottom: 20px;
   }
 
-  .d3sf8containerlist {
+  .fu9nfcontainerlist {
     padding: 10px;
     display: flex;
     border-radius: 8px;
@@ -166,26 +166,26 @@
     transition: background-color 0.3s ease;
   }
 
-  .d3sf8containerlist>div {
+  .fu9nfcontainerlist>div {
     display: flex;
     align-items: center;
     font-size: 20px;
     color: #444;
   }
 
-  .d3sf8containerlist:hover {
+  .fu9nfcontainerlist:hover {
     background-color: #f9f9f9;
     border-bottom-color: #1e3046;
   }
 
-  .d3sf8container {
+  .fu9nfcontainer {
     display: flex;
     flex-direction: column;
     gap: 15px;
     padding: 20px;
   }
 
-  .d3sf8containerbody {
+  .fu9nfcontainerbody {
     display: flex;
     flex-direction: column;
     gap: 20px;
@@ -195,7 +195,7 @@
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
   }
 
-  .d3sf8body {
+  .fu9nfbody {
     width: calc(var(--max) - 40px);
     background-color: #ebebeb;
     border: 1px solid #dedede;
@@ -203,19 +203,19 @@
     padding: 20px;
   }
 
-  .d3sf8containerlist>span {
+  .fu9nfcontainerlist>span {
     font-size: 24px;
     color: #1e3046;
   }
 
   @media screen and (max-width: 1024px) {
-    .d3sf8body {
+    .fu9nfbody {
       width: 100%;
       padding: 20px;
       flex-direction: column;
     }
 
-    .d3sf8containerbody {
+    .fu9nfcontainerbody {
       padding: 15px;
     }
   }
@@ -245,13 +245,13 @@
       transform: scale(1);
     }
   }
-  .wu7sl-body {
+  .wy2xg-body {
     display: flex;
     align-items: center;
     justify-content: center;
     width: var(--max);
   }
-  .wu7sl-body-chile {
+  .wy2xg-body-chile {
     padding: 20px;
     display: flex;
     align-items: top;
@@ -259,10 +259,10 @@
     flex-direction: column;
     position: absolute;
   }
-  .wu7sl-body-chile > div {
+  .wy2xg-body-chile > div {
     width: 100% !important;
   }
-  .wu7sl2 {
+  .wy2xg2 {
     margin-top: 10px;
     margin-bottom: 10px;
     position: relative;
@@ -273,21 +273,21 @@
     overflow: hidden;
     cursor: pointer;
   }
-  .wu7sl {
+  .wy2xg {
     display: flex;
     flex-direction: column;
   }
-  .wu7sl > svg {
+  .wy2xg > svg {
     width: 100vw;
   }
-  .wu7slbotton {
+  .wy2xgbotton {
     transform: scaleY(-1);
     margin-bottom: -1px;
   }
-  .wu7sl-svg {
+  .wy2xg-svg {
     fill: #fff;
   }
-  .wu7sl-bg {
+  .wy2xg-bg {
     background-image: url("/img/fd388u/map.webp?v={{random}}") !important;
     background-size: cover;
     background-position: center center;
